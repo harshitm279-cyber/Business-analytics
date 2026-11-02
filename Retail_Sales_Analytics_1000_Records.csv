@@ -1,0 +1,1001 @@
+﻿Order_ID,Order_Date,Customer_ID,Region,City,Sales_Channel,Category,Product,Quantity,Unit_Price,Discount_Rate,Revenue,Cost,Profit,Payment_Method,Sales_Rep
+ORD-00001,2025-06-08,CUST-0058,North,Delhi,Online,Office Supplies,Pen Set,3,1939.41,0.1,5236.41,4323.86,912.55,UPI,Diya Verma
+ORD-00002,2025-12-23,CUST-0024,Central,Jabalpur,Online,Electronics,Headphones,4,6574.44,0.1,23667.98,20080.04,3587.94,Credit Card,Aarav Sharma
+ORD-00003,2025-11-03,CUST-0057,Central,Raipur,In-store,Sports,Football,2,9454.17,0.0,18908.34,12075.91,6832.43,Net Banking,Rohan Gupta
+ORD-00004,2025-08-24,CUST-0072,North,Chandigarh,Online,Clothing,Jacket,2,6502.0,0.2,10403.2,10185.82,217.38,Credit Card,Ananya Das
+ORD-00005,2025-02-03,CUST-0092,North,Delhi,In-store,Clothing,T-Shirt,2,3215.22,0.0,6430.44,3475.15,2955.29,Net Banking,Rohan Gupta
+ORD-00006,2025-08-19,CUST-0250,North,Lucknow,In-store,Sports,Yoga Mat,2,9948.81,0.0,19897.62,15173.69,4723.93,UPI,Rohan Gupta
+ORD-00007,2025-06-12,CUST-0181,Central,Nagpur,Online,Sports,Dumbbells,1,4318.86,0.25,3239.14,3321.56,-82.42,UPI,Meera Patel
+ORD-00008,2025-06-20,CUST-0098,East,Kolkata,In-store,Home & Kitchen,Mixer,5,1677.91,0.05,7970.07,4480.16,3489.91,Cash,Ananya Das
+ORD-00009,2025-12-03,CUST-0172,South,Hyderabad,In-store,Office Supplies,Pen Set,3,402.64,0.15,1026.73,1002.09,24.64,UPI,Kabir Singh
+ORD-00010,2025-05-16,CUST-0098,Central,Raipur,In-store,Home & Kitchen,Storage Box,3,2707.73,0.25,6092.39,5444.63,647.76,Net Banking,Meera Patel
+ORD-00011,2025-09-08,CUST-0207,East,Kolkata,In-store,Home & Kitchen,Mixer,2,1637.35,0.0,3274.7,1940.62,1334.08,Cash,Rohan Gupta
+ORD-00012,2025-06-09,CUST-0081,North,Chandigarh,Online,Sports,Gym Bag,2,8070.79,0.25,12106.18,12694.66,-588.48,Cash,Vivaan Kumar
+ORD-00013,2025-10-08,CUST-0064,West,Pune,Marketplace,Office Supplies,Pen Set,1,1756.66,0.05,1668.83,1365.85,302.98,Net Banking,Rohan Gupta
+ORD-00014,2025-04-16,CUST-0093,Central,Jabalpur,Online,Sports,Football,4,4710.99,0.25,14132.97,13914.35,218.62,Credit Card,Isha Jain
+ORD-00015,2025-10-21,CUST-0161,North,Delhi,Online,Electronics,Keyboard,4,9514.04,0.0,38056.16,29372.35,8683.81,Cash,Diya Verma
+ORD-00016,2025-09-15,CUST-0136,West,Surat,In-store,Sports,Football,1,8011.73,0.1,7210.56,6167.7,1042.86,Net Banking,Aarav Sharma
+ORD-00017,2025-01-14,CUST-0088,North,Dehradun,Online,Office Supplies,Whiteboard,2,1158.11,0.1,2084.6,1289.32,795.28,Debit Card,Vivaan Kumar
+ORD-00018,2025-06-21,CUST-0225,South,Kochi,Marketplace,Electronics,Webcam,1,43611.99,0.15,37070.19,30566.58,6503.61,Debit Card,Kabir Singh
+ORD-00019,2025-07-26,CUST-0130,Central,Bhopal,Marketplace,Office Supplies,Whiteboard,2,1917.2,0.15,3259.24,2680.04,579.2,Credit Card,Kabir Singh
+ORD-00020,2025-01-12,CUST-0236,East,Patna,Online,Sports,Skipping Rope,2,3717.01,0.15,6318.92,4904.59,1414.33,Net Banking,Ananya Das
+ORD-00021,2025-12-29,CUST-0225,West,Mumbai,In-store,Electronics,Mouse,1,14340.71,0.05,13623.67,8530.72,5092.95,Credit Card,Aarav Sharma
+ORD-00022,2025-04-13,CUST-0188,South,Coimbatore,In-store,Electronics,Headphones,4,4260.53,0.2,13633.7,10463.01,3170.69,UPI,Kabir Singh
+ORD-00023,2025-07-04,CUST-0068,South,Kochi,Marketplace,Sports,Dumbbells,1,7976.81,0.1,7179.13,5843.65,1335.48,Net Banking,Vivaan Kumar
+ORD-00024,2025-10-25,CUST-0080,South,Coimbatore,In-store,Home & Kitchen,Electric Kettle,4,3340.14,0.05,12692.53,7661.36,5031.17,Debit Card,Isha Jain
+ORD-00025,2025-10-09,CUST-0058,Central,Jabalpur,Online,Electronics,Keyboard,1,1964.93,0.0,1964.93,1312.18,652.75,Debit Card,Aarav Sharma
+ORD-00026,2025-07-02,CUST-0057,Central,Gwalior,Online,Home & Kitchen,Desk Lamp,3,1415.98,0.25,3185.96,2415.97,769.99,UPI,Aarav Sharma
+ORD-00027,2025-03-02,CUST-0019,South,Bengaluru,Marketplace,Electronics,Mouse,2,45412.66,0.1,81742.79,55992.34,25750.45,Credit Card,Rohan Gupta
+ORD-00028,2025-05-13,CUST-0186,West,Pune,Marketplace,Sports,Dumbbells,2,7600.36,0.15,12920.61,8330.72,4589.89,Net Banking,Isha Jain
+ORD-00029,2025-05-14,CUST-0025,South,Kochi,Online,Clothing,Jeans,1,1002.44,0.25,751.83,745.72,6.11,Cash,Ananya Das
+ORD-00030,2025-12-20,CUST-0014,West,Surat,Marketplace,Clothing,Cap,5,2007.92,0.2,8031.68,7722.46,309.22,UPI,Aarav Sharma
+ORD-00031,2025-09-26,CUST-0050,West,Ahmedabad,Online,Electronics,Keyboard,4,46739.42,0.1,168261.91,102984.72,65277.19,Net Banking,Isha Jain
+ORD-00032,2025-06-16,CUST-0119,South,Kochi,Online,Home & Kitchen,Water Bottle,1,7235.43,0.0,7235.43,4230.96,3004.47,UPI,Isha Jain
+ORD-00033,2025-07-19,CUST-0139,Central,Bhopal,Online,Electronics,Webcam,4,20234.2,0.15,68796.28,64273.25,4523.03,UPI,Meera Patel
+ORD-00034,2025-09-20,CUST-0055,South,Kochi,In-store,Clothing,Sneakers,1,5357.93,0.1,4822.14,3526.96,1295.18,UPI,Kabir Singh
+ORD-00035,2025-02-04,CUST-0238,West,Mumbai,In-store,Clothing,Jacket,1,4465.7,0.15,3795.84,2442.84,1353.0,Debit Card,Vivaan Kumar
+ORD-00036,2025-01-16,CUST-0076,Central,Jabalpur,Online,Home & Kitchen,Cookware Set,3,3414.09,0.2,8193.82,6945.05,1248.77,UPI,Aarav Sharma
+ORD-00037,2025-09-05,CUST-0123,East,Kolkata,Marketplace,Electronics,Laptop Stand,3,21776.05,0.0,65328.15,46255.35,19072.8,Net Banking,Kabir Singh
+ORD-00038,2025-12-04,CUST-0018,North,Dehradun,Marketplace,Electronics,Keyboard,1,11503.25,0.05,10928.09,8120.6,2807.49,UPI,Meera Patel
+ORD-00039,2025-04-18,CUST-0149,West,Mumbai,Marketplace,Sports,Dumbbells,2,4227.75,0.15,7187.18,6990.49,196.69,UPI,Diya Verma
+ORD-00040,2025-10-13,CUST-0081,West,Indore,In-store,Sports,Skipping Rope,1,5839.41,0.1,5255.47,3191.08,2064.39,Credit Card,Ananya Das
+ORD-00041,2025-06-11,CUST-0172,South,Hyderabad,Marketplace,Clothing,Jeans,3,3509.28,0.1,9475.06,7400.58,2074.48,Debit Card,Isha Jain
+ORD-00042,2025-04-08,CUST-0160,East,Kolkata,Marketplace,Electronics,Monitor,5,31040.07,0.2,124160.28,97171.26,26989.02,UPI,Diya Verma
+ORD-00043,2025-04-14,CUST-0034,Central,Raipur,In-store,Sports,Cricket Bat,4,6296.0,0.1,22665.6,19754.67,2910.93,UPI,Meera Patel
+ORD-00044,2025-02-21,CUST-0214,East,Ranchi,Marketplace,Home & Kitchen,Storage Box,1,7184.86,0.1,6466.37,5009.94,1456.43,Debit Card,Aarav Sharma
+ORD-00045,2025-02-13,CUST-0068,Central,Nagpur,Online,Electronics,Keyboard,3,7503.14,0.15,19133.01,16454.73,2678.28,UPI,Kabir Singh
+ORD-00046,2025-10-08,CUST-0184,East,Ranchi,In-store,Sports,Dumbbells,1,8751.24,0.25,6563.43,4852.36,1711.07,Credit Card,Rohan Gupta
+ORD-00047,2025-03-28,CUST-0024,Central,Jabalpur,Marketplace,Office Supplies,Notebook,5,2291.71,0.0,11458.55,7992.94,3465.61,Cash,Rohan Gupta
+ORD-00048,2025-10-30,CUST-0164,North,Delhi,In-store,Office Supplies,Pen Set,1,939.89,0.05,892.9,731.84,161.06,Credit Card,Isha Jain
+ORD-00049,2025-08-20,CUST-0029,Central,Jabalpur,Online,Sports,Yoga Mat,1,3873.95,0.25,2905.46,2652.95,252.51,Credit Card,Aarav Sharma
+ORD-00050,2025-12-08,CUST-0111,East,Guwahati,Online,Sports,Dumbbells,1,3145.98,0.25,2359.49,1801.62,557.87,UPI,Rohan Gupta
+ORD-00051,2025-12-20,CUST-0175,East,Kolkata,Online,Office Supplies,Pen Set,1,131.38,0.1,118.24,105.81,12.43,UPI,Ananya Das
+ORD-00052,2025-11-22,CUST-0040,Central,Jabalpur,Online,Sports,Gym Bag,5,9008.44,0.2,36033.76,36299.64,-265.88,Credit Card,Kabir Singh
+ORD-00053,2025-01-09,CUST-0237,West,Mumbai,In-store,Home & Kitchen,Electric Kettle,2,4223.04,0.05,8023.78,6180.26,1843.52,Cash,Meera Patel
+ORD-00054,2025-02-04,CUST-0224,East,Patna,Online,Electronics,Monitor,4,24600.92,0.25,73802.76,74685.7,-882.94,Cash,Meera Patel
+ORD-00055,2025-12-12,CUST-0211,South,Kochi,Online,Office Supplies,Printer Paper,1,670.9,0.25,503.17,375.22,127.95,Credit Card,Aarav Sharma
+ORD-00056,2025-02-25,CUST-0222,South,Kochi,Online,Office Supplies,Printer Paper,1,2081.16,0.25,1560.87,1201.59,359.28,Debit Card,Ananya Das
+ORD-00057,2025-01-17,CUST-0241,Central,Jabalpur,Online,Sports,Cricket Bat,3,7232.66,0.25,16273.49,13437.64,2835.85,UPI,Rohan Gupta
+ORD-00058,2025-12-21,CUST-0028,South,Coimbatore,Marketplace,Office Supplies,Notebook,1,1947.96,0.05,1850.56,1325.07,525.49,Cash,Ananya Das
+ORD-00059,2025-03-05,CUST-0030,East,Bhubaneswar,In-store,Sports,Skipping Rope,5,1812.38,0.0,9061.9,5094.45,3967.45,Net Banking,Meera Patel
+ORD-00060,2025-02-14,CUST-0134,East,Kolkata,Marketplace,Clothing,T-Shirt,1,4808.08,0.25,3606.06,3279.23,326.83,Credit Card,Ananya Das
+ORD-00061,2025-06-02,CUST-0081,West,Mumbai,Marketplace,Office Supplies,File Folder,4,1741.77,0.15,5922.02,5415.65,506.37,UPI,Rohan Gupta
+ORD-00062,2025-09-27,CUST-0104,Central,Nagpur,Marketplace,Clothing,Jacket,1,5064.77,0.0,5064.77,2846.09,2218.68,Debit Card,Kabir Singh
+ORD-00063,2025-01-30,CUST-0192,South,Kochi,Online,Clothing,Cap,2,1041.53,0.25,1562.3,1283.8,278.5,Net Banking,Rohan Gupta
+ORD-00064,2025-08-30,CUST-0074,West,Indore,Online,Electronics,Mouse,2,32013.67,0.1,57624.61,52873.74,4750.87,Cash,Ananya Das
+ORD-00065,2025-07-02,CUST-0055,West,Surat,Marketplace,Clothing,Cap,5,2147.83,0.25,8054.36,7492.31,562.05,Cash,Kabir Singh
+ORD-00066,2025-02-08,CUST-0163,North,Jaipur,Marketplace,Sports,Gym Bag,1,7644.3,0.2,6115.44,4318.33,1797.11,Debit Card,Diya Verma
+ORD-00067,2025-03-02,CUST-0038,South,Hyderabad,Online,Home & Kitchen,Cookware Set,1,3440.05,0.25,2580.04,2815.91,-235.87,UPI,Meera Patel
+ORD-00068,2025-06-20,CUST-0107,West,Indore,Marketplace,Electronics,Monitor,2,52381.28,0.1,94286.3,80784.96,13501.34,Net Banking,Meera Patel
+ORD-00069,2025-04-16,CUST-0038,West,Surat,Marketplace,Clothing,Jeans,3,321.29,0.0,963.87,746.98,216.89,UPI,Diya Verma
+ORD-00070,2025-07-13,CUST-0133,West,Pune,In-store,Home & Kitchen,Electric Kettle,4,1976.23,0.05,7509.67,5643.52,1866.15,UPI,Meera Patel
+ORD-00071,2025-04-16,CUST-0171,North,Lucknow,Marketplace,Home & Kitchen,Storage Box,4,6961.75,0.15,23669.95,17814.81,5855.14,Net Banking,Ananya Das
+ORD-00072,2025-08-26,CUST-0213,West,Indore,Marketplace,Sports,Football,2,5168.0,0.0,10336.0,8243.96,2092.04,Cash,Kabir Singh
+ORD-00073,2025-04-09,CUST-0216,West,Surat,Marketplace,Office Supplies,Pen Set,2,1145.66,0.0,2291.32,1738.48,552.84,Debit Card,Isha Jain
+ORD-00074,2025-02-08,CUST-0183,South,Hyderabad,In-store,Clothing,T-Shirt,1,5752.67,0.25,4314.5,3113.91,1200.59,Credit Card,Rohan Gupta
+ORD-00075,2025-03-12,CUST-0036,East,Ranchi,Online,Sports,Yoga Mat,1,7173.76,0.0,7173.76,4442.76,2731.0,Credit Card,Vivaan Kumar
+ORD-00076,2025-12-03,CUST-0105,South,Chennai,In-store,Electronics,Monitor,4,9779.74,0.25,29339.22,22414.0,6925.22,Net Banking,Isha Jain
+ORD-00077,2025-06-16,CUST-0100,West,Mumbai,Marketplace,Home & Kitchen,Storage Box,2,2385.05,0.0,4770.1,2512.73,2257.37,UPI,Vivaan Kumar
+ORD-00078,2025-03-05,CUST-0193,West,Mumbai,In-store,Office Supplies,Printer Paper,1,157.38,0.0,157.38,84.53,72.85,Cash,Meera Patel
+ORD-00079,2025-10-21,CUST-0125,West,Pune,Online,Office Supplies,Stapler,2,1486.04,0.15,2526.27,1847.91,678.36,Cash,Ananya Das
+ORD-00080,2025-11-16,CUST-0160,West,Pune,Marketplace,Clothing,Jeans,2,3630.78,0.2,5809.25,5753.79,55.46,UPI,Vivaan Kumar
+ORD-00081,2025-11-21,CUST-0165,Central,Gwalior,In-store,Electronics,Headphones,2,3304.14,0.0,6608.28,3963.67,2644.61,Credit Card,Isha Jain
+ORD-00082,2025-06-01,CUST-0084,South,Bengaluru,Online,Office Supplies,Stapler,1,1436.66,0.25,1077.5,769.71,307.79,Cash,Ananya Das
+ORD-00083,2025-11-23,CUST-0065,East,Bhubaneswar,Online,Office Supplies,Stapler,5,946.56,0.1,4259.52,3723.33,536.19,Cash,Aarav Sharma
+ORD-00084,2025-12-04,CUST-0167,Central,Bhopal,Online,Office Supplies,Pen Set,1,148.87,0.05,141.43,82.13,59.3,UPI,Aarav Sharma
+ORD-00085,2025-03-29,CUST-0040,South,Chennai,Online,Electronics,Laptop Stand,4,54910.58,0.25,164731.74,170584.83,-5853.09,Credit Card,Isha Jain
+ORD-00086,2025-08-23,CUST-0180,North,Dehradun,In-store,Home & Kitchen,Storage Box,5,6268.9,0.15,26642.83,24112.66,2530.17,Debit Card,Kabir Singh
+ORD-00087,2025-04-28,CUST-0247,Central,Gwalior,In-store,Electronics,Keyboard,4,9178.62,0.1,33043.03,29166.83,3876.2,UPI,Aarav Sharma
+ORD-00088,2025-05-21,CUST-0242,East,Guwahati,Marketplace,Clothing,Sneakers,2,3347.04,0.2,5355.26,4850.93,504.33,Credit Card,Diya Verma
+ORD-00089,2025-06-08,CUST-0198,Central,Raipur,In-store,Electronics,Webcam,1,17686.88,0.0,17686.88,11556.69,6130.19,Net Banking,Diya Verma
+ORD-00090,2025-05-15,CUST-0110,Central,Bhopal,Marketplace,Office Supplies,File Folder,2,596.77,0.05,1133.86,760.58,373.28,Debit Card,Diya Verma
+ORD-00091,2025-03-08,CUST-0211,Central,Nagpur,In-store,Electronics,Monitor,2,21623.46,0.05,41084.57,26596.88,14487.69,UPI,Vivaan Kumar
+ORD-00092,2025-12-01,CUST-0046,East,Bhubaneswar,Marketplace,Home & Kitchen,Storage Box,3,7598.53,0.15,19376.25,15361.75,4014.5,Net Banking,Rohan Gupta
+ORD-00093,2025-12-17,CUST-0112,Central,Gwalior,Marketplace,Clothing,Sneakers,2,2432.86,0.1,4379.15,3546.27,832.88,Net Banking,Rohan Gupta
+ORD-00094,2025-07-14,CUST-0226,East,Patna,In-store,Electronics,Mouse,4,52383.27,0.1,188579.77,151394.7,37185.07,Credit Card,Isha Jain
+ORD-00095,2025-01-13,CUST-0008,Central,Gwalior,In-store,Clothing,Jacket,1,2159.46,0.2,1727.57,1603.04,124.53,Debit Card,Kabir Singh
+ORD-00096,2025-02-18,CUST-0088,West,Pune,In-store,Office Supplies,Printer Paper,1,2154.58,0.25,1615.93,1543.98,71.95,Net Banking,Rohan Gupta
+ORD-00097,2025-07-31,CUST-0022,Central,Bhopal,Online,Sports,Dumbbells,2,1231.64,0.2,1970.62,2018.66,-48.04,Cash,Isha Jain
+ORD-00098,2025-12-16,CUST-0183,Central,Raipur,In-store,Clothing,Cap,1,1134.37,0.25,850.78,880.59,-29.81,Cash,Aarav Sharma
+ORD-00099,2025-12-30,CUST-0178,North,Jaipur,Online,Home & Kitchen,Storage Box,2,4810.4,0.2,7696.64,7915.31,-218.67,Debit Card,Ananya Das
+ORD-00100,2025-08-04,CUST-0109,West,Indore,Marketplace,Sports,Cricket Bat,4,3115.26,0.2,9968.83,6858.75,3110.08,Net Banking,Ananya Das
+ORD-00101,2025-02-17,CUST-0065,East,Bhubaneswar,Online,Office Supplies,Printer Paper,1,1548.09,0.0,1548.09,1088.58,459.51,UPI,Meera Patel
+ORD-00102,2025-07-10,CUST-0048,East,Kolkata,Online,Sports,Gym Bag,2,5645.22,0.15,9596.87,8631.04,965.83,Credit Card,Isha Jain
+ORD-00103,2025-03-28,CUST-0073,East,Guwahati,Online,Sports,Skipping Rope,2,9611.01,0.1,17299.82,15723.53,1576.29,Credit Card,Rohan Gupta
+ORD-00104,2025-02-12,CUST-0004,South,Hyderabad,Marketplace,Home & Kitchen,Water Bottle,2,1089.91,0.2,1743.86,1194.69,549.17,Net Banking,Kabir Singh
+ORD-00105,2025-12-03,CUST-0075,East,Kolkata,Marketplace,Electronics,Laptop Stand,3,42932.18,0.05,122356.71,94638.93,27717.78,Credit Card,Isha Jain
+ORD-00106,2025-11-24,CUST-0121,North,Delhi,In-store,Sports,Cricket Bat,4,4070.29,0.2,13024.93,12438.97,585.96,Cash,Ananya Das
+ORD-00107,2025-07-14,CUST-0030,South,Bengaluru,Online,Office Supplies,Stapler,4,690.93,0.05,2625.53,1576.52,1049.01,Cash,Isha Jain
+ORD-00108,2025-12-08,CUST-0039,North,Dehradun,Marketplace,Electronics,Keyboard,1,10032.03,0.0,10032.03,6622.44,3409.59,Debit Card,Diya Verma
+ORD-00109,2025-03-06,CUST-0156,South,Bengaluru,Marketplace,Sports,Football,1,4661.51,0.2,3729.21,3820.41,-91.2,Net Banking,Meera Patel
+ORD-00110,2025-06-24,CUST-0077,Central,Jabalpur,Marketplace,Clothing,Sneakers,2,5506.05,0.15,9360.28,7052.53,2307.75,Cash,Rohan Gupta
+ORD-00111,2025-11-05,CUST-0246,Central,Gwalior,Marketplace,Electronics,Laptop Stand,1,64137.73,0.2,51310.18,35783.28,15526.9,UPI,Meera Patel
+ORD-00112,2025-08-21,CUST-0062,South,Hyderabad,Online,Electronics,Keyboard,5,55359.42,0.25,207597.82,154733.71,52864.11,Net Banking,Diya Verma
+ORD-00113,2025-07-18,CUST-0177,South,Bengaluru,Marketplace,Clothing,Sneakers,1,4200.15,0.15,3570.13,2794.7,775.43,Cash,Rohan Gupta
+ORD-00114,2025-04-18,CUST-0073,North,Chandigarh,Marketplace,Office Supplies,Whiteboard,1,2066.99,0.1,1860.29,1378.14,482.15,Cash,Diya Verma
+ORD-00115,2025-07-08,CUST-0206,South,Hyderabad,Online,Sports,Gym Bag,1,5363.54,0.05,5095.36,4130.0,965.36,Cash,Diya Verma
+ORD-00116,2025-12-30,CUST-0212,Central,Raipur,Online,Home & Kitchen,Water Bottle,5,1018.12,0.05,4836.07,4079.32,756.75,UPI,Aarav Sharma
+ORD-00117,2025-01-16,CUST-0212,South,Hyderabad,Marketplace,Sports,Gym Bag,4,3478.51,0.2,11131.23,11683.81,-552.58,Debit Card,Isha Jain
+ORD-00118,2025-08-26,CUST-0104,North,Lucknow,In-store,Office Supplies,Whiteboard,1,1670.9,0.0,1670.9,917.23,753.67,Net Banking,Isha Jain
+ORD-00119,2025-03-31,CUST-0228,West,Mumbai,In-store,Sports,Yoga Mat,4,10774.7,0.0,43098.8,24383.88,18714.92,Debit Card,Rohan Gupta
+ORD-00120,2025-03-14,CUST-0215,North,Delhi,Marketplace,Home & Kitchen,Electric Kettle,1,6247.63,0.2,4998.1,5069.35,-71.25,Net Banking,Aarav Sharma
+ORD-00121,2025-01-02,CUST-0121,East,Guwahati,Marketplace,Electronics,Keyboard,5,42829.35,0.0,214146.75,114896.27,99250.48,Cash,Rohan Gupta
+ORD-00122,2025-10-20,CUST-0209,South,Coimbatore,In-store,Clothing,Cap,1,4320.29,0.25,3240.22,2576.35,663.87,UPI,Isha Jain
+ORD-00123,2025-09-02,CUST-0172,East,Bhubaneswar,Online,Office Supplies,Printer Paper,1,2126.53,0.0,2126.53,1737.15,389.38,Credit Card,Ananya Das
+ORD-00124,2025-09-12,CUST-0242,West,Surat,In-store,Office Supplies,Whiteboard,4,1934.83,0.2,6191.46,6099.77,91.69,Net Banking,Aarav Sharma
+ORD-00125,2025-02-11,CUST-0083,West,Mumbai,Online,Office Supplies,Printer Paper,2,119.58,0.0,239.16,162.98,76.18,Cash,Aarav Sharma
+ORD-00126,2025-08-18,CUST-0049,Central,Jabalpur,Marketplace,Clothing,T-Shirt,1,5267.28,0.1,4740.55,4173.59,566.96,Debit Card,Isha Jain
+ORD-00127,2025-01-20,CUST-0141,West,Mumbai,Online,Home & Kitchen,Water Bottle,4,1368.42,0.2,4378.94,3320.57,1058.37,Debit Card,Isha Jain
+ORD-00128,2025-12-24,CUST-0156,West,Mumbai,Online,Electronics,Webcam,1,46288.85,0.1,41659.96,33128.65,8531.31,Credit Card,Rohan Gupta
+ORD-00129,2025-01-02,CUST-0024,Central,Bhopal,Online,Sports,Football,1,748.55,0.15,636.27,601.03,35.24,UPI,Isha Jain
+ORD-00130,2025-03-05,CUST-0075,North,Chandigarh,Marketplace,Clothing,Cap,1,5025.13,0.05,4773.87,2760.56,2013.31,Debit Card,Vivaan Kumar
+ORD-00131,2025-08-05,CUST-0142,West,Surat,Online,Home & Kitchen,Storage Box,2,1590.74,0.25,2386.11,2452.62,-66.51,Cash,Meera Patel
+ORD-00132,2025-07-28,CUST-0071,Central,Gwalior,In-store,Home & Kitchen,Mixer,2,5145.81,0.25,7718.72,5829.6,1889.12,Debit Card,Rohan Gupta
+ORD-00133,2025-06-02,CUST-0149,North,Jaipur,Marketplace,Office Supplies,File Folder,2,2366.14,0.05,4495.67,3520.48,975.19,Cash,Kabir Singh
+ORD-00134,2025-12-10,CUST-0086,West,Indore,Marketplace,Clothing,Jacket,2,4614.79,0.1,8306.62,5237.79,3068.83,Net Banking,Vivaan Kumar
+ORD-00135,2025-11-30,CUST-0062,West,Ahmedabad,Marketplace,Home & Kitchen,Electric Kettle,3,4140.57,0.05,11800.62,6933.17,4867.45,Cash,Meera Patel
+ORD-00136,2025-04-12,CUST-0122,West,Mumbai,Marketplace,Office Supplies,Whiteboard,2,352.55,0.25,528.83,435.4,93.43,Cash,Vivaan Kumar
+ORD-00137,2025-05-27,CUST-0129,South,Kochi,Marketplace,Electronics,Keyboard,4,28099.76,0.15,95539.18,73259.39,22279.79,Debit Card,Diya Verma
+ORD-00138,2025-03-21,CUST-0004,West,Mumbai,Marketplace,Sports,Football,3,4964.52,0.2,11914.85,10548.48,1366.37,Credit Card,Vivaan Kumar
+ORD-00139,2025-04-20,CUST-0087,South,Bengaluru,Marketplace,Clothing,Jacket,5,2355.88,0.0,11779.4,7912.49,3866.91,Cash,Diya Verma
+ORD-00140,2025-07-28,CUST-0161,East,Guwahati,Marketplace,Clothing,Jacket,2,1734.03,0.0,3468.06,2431.27,1036.79,Cash,Aarav Sharma
+ORD-00141,2025-08-03,CUST-0176,Central,Bhopal,In-store,Home & Kitchen,Electric Kettle,2,5660.72,0.15,9623.22,7032.75,2590.47,Credit Card,Diya Verma
+ORD-00142,2025-07-20,CUST-0043,West,Mumbai,Marketplace,Electronics,Monitor,3,51289.38,0.05,146174.73,101253.52,44921.21,Debit Card,Aarav Sharma
+ORD-00143,2025-12-18,CUST-0092,North,Jaipur,In-store,Electronics,Mouse,2,40877.81,0.05,77667.84,61786.47,15881.37,Cash,Kabir Singh
+ORD-00144,2025-12-03,CUST-0175,South,Coimbatore,Online,Clothing,Backpack,2,6227.54,0.0,12455.08,8483.93,3971.15,Credit Card,Kabir Singh
+ORD-00145,2025-03-31,CUST-0175,North,Dehradun,Online,Clothing,Backpack,1,3737.87,0.2,2990.3,2945.3,45.0,Cash,Kabir Singh
+ORD-00146,2025-02-12,CUST-0066,South,Kochi,Marketplace,Office Supplies,Stapler,1,1245.47,0.0,1245.47,676.36,569.11,UPI,Isha Jain
+ORD-00147,2025-01-29,CUST-0114,East,Guwahati,In-store,Home & Kitchen,Mixer,4,6759.65,0.0,27038.6,16951.08,10087.52,Net Banking,Rohan Gupta
+ORD-00148,2025-04-25,CUST-0051,West,Ahmedabad,In-store,Clothing,Jacket,1,1376.36,0.2,1101.09,1042.82,58.27,Cash,Diya Verma
+ORD-00149,2025-09-15,CUST-0148,South,Kochi,In-store,Sports,Cricket Bat,2,274.73,0.2,439.57,351.17,88.4,Debit Card,Aarav Sharma
+ORD-00150,2025-08-08,CUST-0222,West,Ahmedabad,Marketplace,Electronics,Laptop Stand,4,10408.03,0.0,41632.12,23243.01,18389.11,UPI,Isha Jain
+ORD-00151,2025-01-28,CUST-0057,East,Patna,Marketplace,Sports,Cricket Bat,2,4442.54,0.25,6663.81,6815.51,-151.7,Credit Card,Rohan Gupta
+ORD-00152,2025-09-08,CUST-0202,South,Bengaluru,In-store,Electronics,Mouse,5,20557.02,0.2,82228.08,76649.94,5578.14,UPI,Ananya Das
+ORD-00153,2025-05-02,CUST-0192,South,Bengaluru,In-store,Office Supplies,Printer Paper,5,981.85,0.15,4172.86,2881.23,1291.63,Credit Card,Meera Patel
+ORD-00154,2025-03-01,CUST-0129,South,Coimbatore,In-store,Office Supplies,File Folder,1,1322.22,0.1,1190.0,757.75,432.25,Credit Card,Rohan Gupta
+ORD-00155,2025-12-16,CUST-0120,West,Ahmedabad,Online,Office Supplies,Notebook,5,2094.03,0.25,7852.61,8255.74,-403.13,Credit Card,Meera Patel
+ORD-00156,2025-02-21,CUST-0203,West,Indore,In-store,Office Supplies,Notebook,2,2476.0,0.15,4209.2,3285.35,923.85,UPI,Rohan Gupta
+ORD-00157,2025-11-01,CUST-0173,Central,Bhopal,Marketplace,Clothing,Jacket,1,2869.49,0.0,2869.49,1890.45,979.04,Debit Card,Vivaan Kumar
+ORD-00158,2025-02-24,CUST-0007,East,Kolkata,Marketplace,Home & Kitchen,Storage Box,4,3834.22,0.25,11502.66,8863.13,2639.53,Net Banking,Ananya Das
+ORD-00159,2025-08-19,CUST-0211,Central,Raipur,In-store,Electronics,Webcam,5,59008.18,0.0,295040.9,180995.49,114045.41,Debit Card,Vivaan Kumar
+ORD-00160,2025-08-03,CUST-0078,North,Chandigarh,In-store,Electronics,Headphones,1,32117.74,0.25,24088.31,21771.1,2317.21,UPI,Diya Verma
+ORD-00161,2025-11-03,CUST-0117,South,Coimbatore,In-store,Home & Kitchen,Storage Box,1,810.31,0.0,810.31,586.69,223.62,Net Banking,Vivaan Kumar
+ORD-00162,2025-09-02,CUST-0026,Central,Raipur,In-store,Clothing,Cap,4,4614.21,0.05,17534.0,14103.41,3430.59,Net Banking,Vivaan Kumar
+ORD-00163,2025-09-29,CUST-0114,East,Kolkata,In-store,Office Supplies,Pen Set,3,164.11,0.05,467.71,309.33,158.38,Credit Card,Ananya Das
+ORD-00164,2025-06-26,CUST-0092,North,Jaipur,Online,Sports,Gym Bag,2,10149.3,0.05,19283.67,15547.93,3735.74,Cash,Rohan Gupta
+ORD-00165,2025-06-07,CUST-0170,South,Bengaluru,Online,Clothing,T-Shirt,1,5993.71,0.1,5394.34,4242.83,1151.51,Net Banking,Aarav Sharma
+ORD-00166,2025-05-05,CUST-0202,North,Jaipur,Marketplace,Home & Kitchen,Cookware Set,5,6824.65,0.05,32417.09,23190.89,9226.2,Credit Card,Diya Verma
+ORD-00167,2025-01-09,CUST-0209,Central,Raipur,Online,Sports,Dumbbells,2,6423.79,0.0,12847.58,10452.12,2395.46,Debit Card,Kabir Singh
+ORD-00168,2025-03-06,CUST-0034,Central,Bhopal,Marketplace,Office Supplies,Pen Set,2,1584.46,0.05,3010.47,1991.46,1019.01,Debit Card,Kabir Singh
+ORD-00169,2025-08-10,CUST-0092,North,Delhi,Online,Home & Kitchen,Mixer,1,1654.08,0.0,1654.08,1097.36,556.72,Net Banking,Ananya Das
+ORD-00170,2025-08-07,CUST-0033,North,Chandigarh,Marketplace,Office Supplies,Notebook,5,782.69,0.0,3913.45,2044.15,1869.3,Cash,Diya Verma
+ORD-00171,2025-07-11,CUST-0132,North,Lucknow,Marketplace,Clothing,Jacket,1,2090.55,0.15,1776.97,1743.89,33.08,UPI,Isha Jain
+ORD-00172,2025-06-24,CUST-0187,Central,Raipur,Marketplace,Sports,Yoga Mat,3,7482.26,0.25,16835.08,17141.67,-306.59,Net Banking,Rohan Gupta
+ORD-00173,2025-04-14,CUST-0217,West,Mumbai,In-store,Electronics,Monitor,2,58764.65,0.2,94023.44,90525.96,3497.48,Cash,Diya Verma
+ORD-00174,2025-02-11,CUST-0083,West,Surat,Marketplace,Electronics,Headphones,5,56408.69,0.0,282043.45,212765.77,69277.68,Credit Card,Diya Verma
+ORD-00175,2025-12-17,CUST-0150,South,Hyderabad,Marketplace,Sports,Gym Bag,3,5337.06,0.1,14410.06,13294.74,1115.32,Debit Card,Vivaan Kumar
+ORD-00176,2025-04-16,CUST-0130,Central,Gwalior,Marketplace,Office Supplies,Stapler,3,2461.75,0.0,7385.25,5574.39,1810.86,Cash,Diya Verma
+ORD-00177,2025-01-02,CUST-0116,North,Dehradun,Online,Home & Kitchen,Storage Box,3,6037.37,0.05,17206.5,9655.62,7550.88,Cash,Ananya Das
+ORD-00178,2025-06-28,CUST-0025,West,Surat,In-store,Clothing,Cap,1,5485.93,0.25,4114.45,4582.8,-468.35,Cash,Ananya Das
+ORD-00179,2025-03-30,CUST-0237,East,Ranchi,In-store,Home & Kitchen,Electric Kettle,1,3800.04,0.25,2850.03,2941.15,-91.12,UPI,Diya Verma
+ORD-00180,2025-07-22,CUST-0191,North,Delhi,Marketplace,Clothing,T-Shirt,2,776.77,0.0,1553.54,1206.57,346.97,Debit Card,Kabir Singh
+ORD-00181,2025-03-29,CUST-0144,Central,Bhopal,In-store,Sports,Skipping Rope,2,11103.95,0.2,17766.32,14196.73,3569.59,UPI,Vivaan Kumar
+ORD-00182,2025-02-09,CUST-0154,East,Bhubaneswar,In-store,Electronics,Mouse,1,3641.05,0.05,3459.0,2680.17,778.83,Debit Card,Diya Verma
+ORD-00183,2025-01-03,CUST-0169,Central,Gwalior,In-store,Home & Kitchen,Cookware Set,3,5749.08,0.2,13797.79,13049.57,748.22,Credit Card,Diya Verma
+ORD-00184,2025-01-18,CUST-0196,East,Guwahati,In-store,Office Supplies,Notebook,4,2006.16,0.05,7623.41,4775.07,2848.34,Net Banking,Meera Patel
+ORD-00185,2025-06-11,CUST-0173,West,Indore,Marketplace,Sports,Skipping Rope,1,7500.58,0.25,5625.43,5135.51,489.92,Net Banking,Aarav Sharma
+ORD-00186,2025-01-11,CUST-0070,Central,Nagpur,Marketplace,Electronics,Keyboard,1,44185.04,0.1,39766.54,28651.07,11115.47,Debit Card,Ananya Das
+ORD-00187,2025-04-03,CUST-0145,East,Kolkata,Marketplace,Home & Kitchen,Cookware Set,2,7180.73,0.15,12207.24,11387.06,820.18,Cash,Diya Verma
+ORD-00188,2025-11-08,CUST-0136,South,Bengaluru,Online,Electronics,Webcam,1,22948.03,0.2,18358.42,14128.23,4230.19,Cash,Vivaan Kumar
+ORD-00189,2025-02-11,CUST-0080,West,Ahmedabad,Marketplace,Home & Kitchen,Water Bottle,2,4784.01,0.05,9089.62,7689.8,1399.82,Debit Card,Diya Verma
+ORD-00190,2025-01-31,CUST-0013,North,Chandigarh,Marketplace,Home & Kitchen,Desk Lamp,1,1622.61,0.15,1379.22,1021.3,357.92,UPI,Rohan Gupta
+ORD-00191,2025-07-14,CUST-0114,West,Surat,In-store,Clothing,Backpack,2,5079.95,0.2,8127.92,6246.67,1881.25,Debit Card,Meera Patel
+ORD-00192,2025-02-19,CUST-0029,Central,Bhopal,In-store,Office Supplies,Stapler,5,1031.7,0.1,4642.65,3631.37,1011.28,Net Banking,Isha Jain
+ORD-00193,2025-09-26,CUST-0102,Central,Nagpur,Marketplace,Electronics,Keyboard,4,64843.91,0.15,220469.29,167442.05,53027.24,UPI,Aarav Sharma
+ORD-00194,2025-07-01,CUST-0196,South,Hyderabad,In-store,Home & Kitchen,Cookware Set,2,7335.1,0.0,14670.2,8259.28,6410.92,Debit Card,Ananya Das
+ORD-00195,2025-05-09,CUST-0111,North,Delhi,Online,Clothing,Cap,1,2684.57,0.0,2684.57,1411.15,1273.42,Credit Card,Vivaan Kumar
+ORD-00196,2025-08-20,CUST-0214,Central,Raipur,Marketplace,Sports,Skipping Rope,1,5494.03,0.25,4120.52,3460.43,660.09,Debit Card,Diya Verma
+ORD-00197,2025-12-18,CUST-0118,West,Mumbai,Online,Clothing,T-Shirt,5,3058.6,0.25,11469.75,10599.18,870.57,Debit Card,Vivaan Kumar
+ORD-00198,2025-11-24,CUST-0030,Central,Jabalpur,In-store,Clothing,Jacket,4,2134.88,0.05,8112.54,5082.99,3029.55,UPI,Ananya Das
+ORD-00199,2025-04-22,CUST-0236,South,Coimbatore,In-store,Clothing,Cap,5,2412.33,0.25,9046.24,9137.2,-90.96,UPI,Vivaan Kumar
+ORD-00200,2025-08-27,CUST-0103,North,Chandigarh,Marketplace,Clothing,Backpack,2,4217.06,0.15,7169.0,5193.75,1975.25,UPI,Vivaan Kumar
+ORD-00201,2025-03-06,CUST-0200,East,Ranchi,Online,Home & Kitchen,Water Bottle,1,2044.77,0.05,1942.53,1635.37,307.16,UPI,Diya Verma
+ORD-00202,2025-07-24,CUST-0090,Central,Gwalior,Marketplace,Home & Kitchen,Water Bottle,1,2373.49,0.0,2373.49,1835.73,537.76,Credit Card,Meera Patel
+ORD-00203,2025-11-11,CUST-0045,North,Chandigarh,Marketplace,Office Supplies,Pen Set,3,1963.88,0.1,5302.48,4938.99,363.49,Credit Card,Diya Verma
+ORD-00204,2025-10-25,CUST-0195,South,Kochi,Marketplace,Clothing,Backpack,2,4787.26,0.0,9574.52,7744.04,1830.48,Cash,Ananya Das
+ORD-00205,2025-03-04,CUST-0121,East,Patna,In-store,Clothing,T-Shirt,2,5555.61,0.0,11111.22,6140.13,4971.09,Debit Card,Rohan Gupta
+ORD-00206,2025-12-15,CUST-0019,Central,Bhopal,In-store,Office Supplies,File Folder,2,1639.25,0.05,3114.57,2242.74,871.83,Cash,Isha Jain
+ORD-00207,2025-12-09,CUST-0020,North,Delhi,Marketplace,Office Supplies,Printer Paper,1,1093.77,0.0,1093.77,604.81,488.96,UPI,Vivaan Kumar
+ORD-00208,2025-03-31,CUST-0230,West,Indore,Online,Sports,Gym Bag,5,588.84,0.0,2944.2,1592.72,1351.48,Cash,Meera Patel
+ORD-00209,2025-10-16,CUST-0039,East,Guwahati,Online,Clothing,Backpack,1,3294.8,0.1,2965.32,1767.03,1198.29,Cash,Diya Verma
+ORD-00210,2025-05-21,CUST-0045,East,Kolkata,Online,Sports,Gym Bag,1,1428.04,0.15,1213.83,770.24,443.59,Credit Card,Isha Jain
+ORD-00211,2025-12-23,CUST-0041,West,Indore,In-store,Sports,Skipping Rope,2,8408.46,0.0,16816.92,10865.75,5951.17,Debit Card,Rohan Gupta
+ORD-00212,2025-01-01,CUST-0154,West,Surat,Online,Office Supplies,Whiteboard,1,1053.19,0.0,1053.19,585.43,467.76,Debit Card,Diya Verma
+ORD-00213,2025-02-10,CUST-0099,East,Kolkata,In-store,Sports,Gym Bag,1,10366.9,0.0,10366.9,7014.67,3352.23,Debit Card,Kabir Singh
+ORD-00214,2025-06-07,CUST-0037,East,Kolkata,In-store,Sports,Gym Bag,2,4063.82,0.05,7721.26,6256.54,1464.72,Debit Card,Vivaan Kumar
+ORD-00215,2025-03-25,CUST-0144,South,Coimbatore,In-store,Electronics,Mouse,2,54757.64,0.0,109515.28,65445.73,44069.55,Debit Card,Kabir Singh
+ORD-00216,2025-09-07,CUST-0093,Central,Bhopal,Online,Clothing,Backpack,1,3463.07,0.25,2597.3,2053.74,543.56,Debit Card,Rohan Gupta
+ORD-00217,2025-06-26,CUST-0050,South,Chennai,Online,Office Supplies,Stapler,1,840.22,0.25,630.16,560.8,69.36,Credit Card,Kabir Singh
+ORD-00218,2025-02-24,CUST-0198,North,Jaipur,Marketplace,Electronics,Laptop Stand,1,46395.49,0.0,46395.49,24829.0,21566.49,Net Banking,Aarav Sharma
+ORD-00219,2025-02-02,CUST-0097,East,Guwahati,Online,Home & Kitchen,Desk Lamp,1,1234.91,0.25,926.18,716.57,209.61,Credit Card,Kabir Singh
+ORD-00220,2025-02-10,CUST-0106,Central,Raipur,In-store,Clothing,T-Shirt,1,412.73,0.0,412.73,296.52,116.21,Credit Card,Isha Jain
+ORD-00221,2025-03-26,CUST-0137,Central,Nagpur,Online,Clothing,Jeans,1,1843.14,0.1,1658.83,1459.43,199.4,Debit Card,Isha Jain
+ORD-00222,2025-11-08,CUST-0119,South,Hyderabad,In-store,Sports,Football,2,156.42,0.0,312.84,224.66,88.18,Cash,Vivaan Kumar
+ORD-00223,2025-12-30,CUST-0224,South,Chennai,In-store,Sports,Dumbbells,5,2036.65,0.2,8146.6,6123.84,2022.76,UPI,Isha Jain
+ORD-00224,2025-06-15,CUST-0217,East,Guwahati,Marketplace,Electronics,Webcam,4,59762.19,0.1,215143.88,170464.67,44679.21,UPI,Rohan Gupta
+ORD-00225,2025-09-25,CUST-0232,North,Chandigarh,Marketplace,Office Supplies,Stapler,1,2461.93,0.05,2338.83,1531.04,807.79,Credit Card,Vivaan Kumar
+ORD-00226,2025-08-08,CUST-0239,North,Chandigarh,Online,Clothing,Jacket,4,5634.65,0.0,22538.6,13280.51,9258.09,Cash,Aarav Sharma
+ORD-00227,2025-10-28,CUST-0099,West,Indore,Online,Office Supplies,Pen Set,3,1046.78,0.05,2983.32,1662.96,1320.36,Debit Card,Meera Patel
+ORD-00228,2025-01-07,CUST-0167,North,Jaipur,In-store,Electronics,Webcam,1,22847.87,0.05,21705.48,13090.83,8614.65,Credit Card,Kabir Singh
+ORD-00229,2025-04-21,CUST-0213,North,Jaipur,Online,Clothing,Cap,4,5131.25,0.15,17446.25,12756.06,4690.19,Cash,Isha Jain
+ORD-00230,2025-08-05,CUST-0066,Central,Bhopal,Online,Electronics,Headphones,3,57906.25,0.0,173718.75,97339.55,76379.2,Credit Card,Vivaan Kumar
+ORD-00231,2025-01-22,CUST-0032,North,Jaipur,Online,Home & Kitchen,Water Bottle,3,1278.19,0.15,3259.38,2616.46,642.92,Credit Card,Vivaan Kumar
+ORD-00232,2025-01-02,CUST-0215,Central,Jabalpur,In-store,Electronics,Headphones,1,64469.45,0.0,64469.45,33866.16,30603.29,Net Banking,Aarav Sharma
+ORD-00233,2025-05-22,CUST-0037,Central,Gwalior,In-store,Home & Kitchen,Electric Kettle,2,7945.71,0.15,13507.71,12826.55,681.16,Cash,Aarav Sharma
+ORD-00234,2025-07-15,CUST-0107,Central,Nagpur,Online,Home & Kitchen,Desk Lamp,1,7060.99,0.05,6707.94,5076.66,1631.28,UPI,Ananya Das
+ORD-00235,2025-06-13,CUST-0202,North,Dehradun,Marketplace,Sports,Skipping Rope,3,3350.93,0.0,10052.79,6175.65,3877.14,Net Banking,Aarav Sharma
+ORD-00236,2025-11-02,CUST-0100,West,Surat,In-store,Electronics,Webcam,2,43303.56,0.25,64955.34,45539.01,19416.33,Debit Card,Aarav Sharma
+ORD-00237,2025-11-06,CUST-0188,East,Kolkata,Marketplace,Office Supplies,Pen Set,1,1497.37,0.0,1497.37,900.18,597.19,UPI,Ananya Das
+ORD-00238,2025-07-22,CUST-0087,South,Bengaluru,Marketplace,Office Supplies,File Folder,4,1534.71,0.0,6138.84,3970.44,2168.4,Credit Card,Isha Jain
+ORD-00239,2025-10-06,CUST-0184,West,Pune,In-store,Home & Kitchen,Mixer,2,5469.32,0.2,8750.91,8342.85,408.06,UPI,Rohan Gupta
+ORD-00240,2025-06-03,CUST-0081,South,Bengaluru,In-store,Home & Kitchen,Mixer,2,7869.82,0.0,15739.64,10776.41,4963.23,Net Banking,Vivaan Kumar
+ORD-00241,2025-05-11,CUST-0193,Central,Jabalpur,Marketplace,Office Supplies,Notebook,1,50.93,0.2,40.74,33.13,7.61,Credit Card,Rohan Gupta
+ORD-00242,2025-11-21,CUST-0032,East,Kolkata,In-store,Office Supplies,Printer Paper,2,253.3,0.2,405.28,327.47,77.81,Cash,Vivaan Kumar
+ORD-00243,2025-05-12,CUST-0128,West,Surat,Marketplace,Office Supplies,Pen Set,2,1712.8,0.0,3425.6,1976.92,1448.68,Cash,Ananya Das
+ORD-00244,2025-11-10,CUST-0109,Central,Nagpur,Online,Electronics,Webcam,5,13370.46,0.25,50139.22,54285.84,-4146.62,Cash,Kabir Singh
+ORD-00245,2025-11-18,CUST-0021,Central,Nagpur,In-store,Office Supplies,Notebook,1,546.13,0.1,491.52,437.49,54.03,Debit Card,Rohan Gupta
+ORD-00246,2025-07-08,CUST-0177,West,Indore,In-store,Clothing,Jeans,3,2777.56,0.05,7916.05,6310.75,1605.3,Debit Card,Isha Jain
+ORD-00247,2025-12-13,CUST-0071,North,Jaipur,Marketplace,Sports,Football,2,8800.52,0.2,14080.83,9741.77,4339.06,UPI,Diya Verma
+ORD-00248,2025-11-12,CUST-0174,West,Ahmedabad,Online,Sports,Gym Bag,2,10857.28,0.15,18457.38,16837.28,1620.1,UPI,Kabir Singh
+ORD-00249,2025-06-07,CUST-0018,Central,Jabalpur,Online,Electronics,Keyboard,1,6941.13,0.0,6941.13,3660.79,3280.34,Debit Card,Ananya Das
+ORD-00250,2025-05-18,CUST-0040,West,Indore,Marketplace,Electronics,Laptop Stand,3,63659.99,0.25,143234.98,143269.36,-34.38,Cash,Ananya Das
+ORD-00251,2025-08-17,CUST-0036,East,Bhubaneswar,Marketplace,Electronics,Laptop Stand,3,57748.34,0.05,164582.77,123835.05,40747.72,Debit Card,Vivaan Kumar
+ORD-00252,2025-05-30,CUST-0007,East,Ranchi,Marketplace,Home & Kitchen,Mixer,1,4710.77,0.05,4475.23,3356.74,1118.49,Credit Card,Isha Jain
+ORD-00253,2025-01-25,CUST-0068,Central,Jabalpur,In-store,Sports,Yoga Mat,2,11231.04,0.1,20215.87,14391.59,5824.28,Cash,Meera Patel
+ORD-00254,2025-02-17,CUST-0032,Central,Nagpur,Online,Clothing,Jeans,1,2879.93,0.2,2303.94,1647.66,656.28,UPI,Isha Jain
+ORD-00255,2025-01-09,CUST-0248,South,Kochi,In-store,Electronics,Webcam,1,44654.25,0.05,42421.54,26701.05,15720.49,Debit Card,Diya Verma
+ORD-00256,2025-10-03,CUST-0218,Central,Gwalior,Online,Office Supplies,Printer Paper,5,265.33,0.1,1193.98,1063.88,130.1,Credit Card,Ananya Das
+ORD-00257,2025-12-23,CUST-0203,Central,Raipur,Online,Electronics,Keyboard,2,18438.31,0.0,36876.62,25335.86,11540.76,Credit Card,Isha Jain
+ORD-00258,2025-04-05,CUST-0095,North,Jaipur,In-store,Sports,Skipping Rope,1,5674.16,0.1,5106.74,3032.59,2074.15,Net Banking,Kabir Singh
+ORD-00259,2025-03-31,CUST-0102,Central,Bhopal,Marketplace,Electronics,Mouse,1,31556.19,0.25,23667.14,21412.83,2254.31,Cash,Vivaan Kumar
+ORD-00260,2025-04-03,CUST-0249,West,Indore,In-store,Electronics,Keyboard,3,7639.64,0.0,22918.92,14079.73,8839.19,UPI,Isha Jain
+ORD-00261,2025-10-10,CUST-0225,West,Indore,Marketplace,Office Supplies,Pen Set,1,1916.71,0.25,1437.53,1600.57,-163.04,Net Banking,Kabir Singh
+ORD-00262,2025-12-14,CUST-0213,South,Kochi,Online,Sports,Yoga Mat,5,11790.16,0.05,56003.26,32009.29,23993.97,Net Banking,Kabir Singh
+ORD-00263,2025-03-23,CUST-0240,East,Patna,Marketplace,Home & Kitchen,Water Bottle,5,1231.68,0.05,5850.48,3393.48,2457.0,Credit Card,Ananya Das
+ORD-00264,2025-08-14,CUST-0051,Central,Nagpur,Marketplace,Electronics,Mouse,2,55053.9,0.2,88086.24,76365.99,11720.25,Net Banking,Rohan Gupta
+ORD-00265,2025-06-15,CUST-0024,South,Hyderabad,Marketplace,Sports,Skipping Rope,1,2067.2,0.0,2067.2,1638.5,428.7,Credit Card,Kabir Singh
+ORD-00266,2025-09-26,CUST-0216,South,Coimbatore,Marketplace,Sports,Cricket Bat,1,7052.31,0.1,6347.08,4335.27,2011.81,UPI,Aarav Sharma
+ORD-00267,2025-02-10,CUST-0167,North,Delhi,Online,Sports,Cricket Bat,4,4517.91,0.05,17168.06,13863.71,3304.35,Net Banking,Vivaan Kumar
+ORD-00268,2025-12-10,CUST-0140,Central,Bhopal,In-store,Clothing,Cap,4,1606.33,0.15,5461.52,3589.25,1872.27,Debit Card,Isha Jain
+ORD-00269,2025-05-21,CUST-0019,South,Kochi,Marketplace,Office Supplies,Stapler,3,2242.38,0.0,6727.14,5320.31,1406.83,UPI,Kabir Singh
+ORD-00270,2025-05-31,CUST-0053,West,Surat,In-store,Clothing,Sneakers,1,1420.55,0.15,1207.47,943.18,264.29,Net Banking,Kabir Singh
+ORD-00271,2025-02-18,CUST-0034,East,Ranchi,In-store,Office Supplies,Stapler,5,628.24,0.15,2670.02,2512.53,157.49,Net Banking,Diya Verma
+ORD-00272,2025-07-13,CUST-0069,East,Patna,In-store,Clothing,T-Shirt,4,2507.39,0.1,9026.6,6012.62,3013.98,Credit Card,Kabir Singh
+ORD-00273,2025-01-14,CUST-0222,North,Delhi,Marketplace,Office Supplies,Stapler,1,627.1,0.0,627.1,504.29,122.81,Cash,Meera Patel
+ORD-00274,2025-07-08,CUST-0081,South,Hyderabad,Online,Sports,Gym Bag,5,9350.57,0.05,44415.21,31651.42,12763.79,Credit Card,Isha Jain
+ORD-00275,2025-10-29,CUST-0128,Central,Jabalpur,Online,Clothing,Jacket,2,3802.27,0.1,6844.09,4274.98,2569.11,UPI,Vivaan Kumar
+ORD-00276,2025-12-14,CUST-0150,Central,Jabalpur,In-store,Home & Kitchen,Cookware Set,2,1136.46,0.0,2272.92,1532.52,740.4,UPI,Aarav Sharma
+ORD-00277,2025-05-16,CUST-0173,East,Bhubaneswar,In-store,Sports,Gym Bag,1,11443.15,0.0,11443.15,6711.06,4732.09,Debit Card,Aarav Sharma
+ORD-00278,2025-01-11,CUST-0187,North,Lucknow,In-store,Home & Kitchen,Water Bottle,2,2137.5,0.25,3206.25,2385.73,820.52,Cash,Ananya Das
+ORD-00279,2025-12-01,CUST-0144,North,Lucknow,Online,Electronics,Laptop Stand,1,59636.72,0.05,56654.88,39885.31,16769.57,Debit Card,Rohan Gupta
+ORD-00280,2025-07-14,CUST-0196,North,Lucknow,Marketplace,Sports,Football,2,4865.37,0.1,8757.67,5643.02,3114.65,Debit Card,Diya Verma
+ORD-00281,2025-10-26,CUST-0204,South,Bengaluru,In-store,Clothing,Jacket,1,6922.51,0.2,5538.01,4638.1,899.91,Net Banking,Ananya Das
+ORD-00282,2025-12-03,CUST-0103,South,Chennai,Marketplace,Sports,Skipping Rope,3,1919.24,0.2,4606.18,3623.01,983.17,UPI,Aarav Sharma
+ORD-00283,2025-01-21,CUST-0133,North,Chandigarh,In-store,Office Supplies,Stapler,5,144.26,0.05,685.23,518.81,166.42,Credit Card,Kabir Singh
+ORD-00284,2025-10-17,CUST-0101,East,Guwahati,Marketplace,Office Supplies,Pen Set,4,1882.08,0.15,6399.07,4425.34,1973.73,Debit Card,Ananya Das
+ORD-00285,2025-04-15,CUST-0182,Central,Gwalior,Marketplace,Sports,Football,2,11093.02,0.1,19967.44,11553.13,8414.31,Debit Card,Isha Jain
+ORD-00286,2025-04-13,CUST-0029,North,Jaipur,In-store,Office Supplies,Whiteboard,3,2483.55,0.0,7450.65,4022.31,3428.34,Net Banking,Rohan Gupta
+ORD-00287,2025-06-08,CUST-0248,North,Dehradun,Marketplace,Clothing,Jacket,4,3316.18,0.0,13264.72,9581.51,3683.21,Net Banking,Meera Patel
+ORD-00288,2025-12-03,CUST-0135,North,Dehradun,Marketplace,Clothing,Jeans,1,2871.91,0.0,2871.91,1786.7,1085.21,Net Banking,Vivaan Kumar
+ORD-00289,2025-04-21,CUST-0243,South,Chennai,Marketplace,Electronics,Laptop Stand,3,47338.62,0.1,127814.27,101101.45,26712.82,UPI,Meera Patel
+ORD-00290,2025-12-13,CUST-0039,North,Lucknow,In-store,Office Supplies,Stapler,3,1192.5,0.15,3040.88,2252.64,788.24,Credit Card,Vivaan Kumar
+ORD-00291,2025-12-26,CUST-0187,Central,Gwalior,Online,Clothing,Cap,1,1405.2,0.15,1194.42,748.8,445.62,Credit Card,Meera Patel
+ORD-00292,2025-11-22,CUST-0097,Central,Nagpur,In-store,Clothing,Backpack,4,3257.5,0.05,12378.5,9901.21,2477.29,Credit Card,Isha Jain
+ORD-00293,2025-10-02,CUST-0174,Central,Nagpur,Marketplace,Sports,Cricket Bat,2,11902.51,0.1,21424.52,14682.79,6741.73,Debit Card,Isha Jain
+ORD-00294,2025-05-14,CUST-0077,South,Chennai,Online,Office Supplies,File Folder,3,2369.89,0.2,5687.74,5377.21,310.53,Debit Card,Rohan Gupta
+ORD-00295,2025-02-24,CUST-0090,South,Kochi,Marketplace,Office Supplies,Stapler,5,1019.79,0.1,4589.06,3481.86,1107.2,Debit Card,Rohan Gupta
+ORD-00296,2025-06-03,CUST-0230,North,Dehradun,In-store,Sports,Football,3,10894.33,0.05,31048.84,23762.59,7286.25,Debit Card,Kabir Singh
+ORD-00297,2025-06-19,CUST-0021,East,Kolkata,In-store,Office Supplies,Whiteboard,3,869.06,0.05,2476.82,1460.69,1016.13,Cash,Rohan Gupta
+ORD-00298,2025-09-01,CUST-0070,West,Pune,Marketplace,Home & Kitchen,Desk Lamp,2,870.03,0.05,1653.06,1269.84,383.22,Debit Card,Kabir Singh
+ORD-00299,2025-11-20,CUST-0063,North,Dehradun,Online,Sports,Dumbbells,1,7988.63,0.0,7988.63,4659.76,3328.87,Net Banking,Meera Patel
+ORD-00300,2025-11-11,CUST-0085,South,Bengaluru,Marketplace,Electronics,Monitor,1,50690.77,0.25,38018.08,30360.61,7657.47,Cash,Diya Verma
+ORD-00301,2025-11-14,CUST-0105,South,Bengaluru,Marketplace,Sports,Dumbbells,1,8047.4,0.0,8047.4,4541.71,3505.69,Cash,Isha Jain
+ORD-00302,2025-09-04,CUST-0166,South,Hyderabad,Online,Office Supplies,Printer Paper,1,723.13,0.0,723.13,586.68,136.45,UPI,Meera Patel
+ORD-00303,2025-07-19,CUST-0226,Central,Bhopal,Online,Home & Kitchen,Storage Box,5,1739.8,0.1,7829.1,7176.11,652.99,UPI,Vivaan Kumar
+ORD-00304,2025-04-04,CUST-0003,West,Pune,In-store,Office Supplies,Notebook,3,1532.95,0.2,3679.08,3311.88,367.2,Net Banking,Diya Verma
+ORD-00305,2025-07-09,CUST-0140,East,Ranchi,Marketplace,Clothing,Cap,3,2379.34,0.25,5353.52,5277.4,76.12,Cash,Kabir Singh
+ORD-00306,2025-05-27,CUST-0208,Central,Jabalpur,Online,Office Supplies,Pen Set,2,77.6,0.1,139.68,124.17,15.51,Debit Card,Kabir Singh
+ORD-00307,2025-03-06,CUST-0189,West,Ahmedabad,In-store,Home & Kitchen,Mixer,1,4940.29,0.1,4446.26,3919.01,527.25,Debit Card,Meera Patel
+ORD-00308,2025-07-18,CUST-0132,South,Coimbatore,In-store,Clothing,Sneakers,5,2391.07,0.2,9564.28,8090.71,1473.57,UPI,Vivaan Kumar
+ORD-00309,2025-10-23,CUST-0083,North,Chandigarh,Online,Home & Kitchen,Storage Box,4,5112.79,0.05,19428.6,16607.47,2821.13,UPI,Rohan Gupta
+ORD-00310,2025-11-04,CUST-0245,West,Pune,In-store,Clothing,Jacket,1,6482.35,0.05,6158.23,5399.96,758.27,Debit Card,Aarav Sharma
+ORD-00311,2025-03-27,CUST-0171,East,Ranchi,Online,Home & Kitchen,Mixer,5,5998.18,0.2,23992.72,20207.7,3785.02,Cash,Rohan Gupta
+ORD-00312,2025-03-29,CUST-0198,South,Kochi,In-store,Sports,Gym Bag,4,5531.78,0.15,18808.05,16071.86,2736.19,UPI,Rohan Gupta
+ORD-00313,2025-06-18,CUST-0246,East,Guwahati,Online,Home & Kitchen,Cookware Set,1,2421.16,0.0,2421.16,1576.65,844.51,Cash,Kabir Singh
+ORD-00314,2025-10-25,CUST-0180,West,Indore,Marketplace,Office Supplies,Stapler,2,562.76,0.15,956.69,895.22,61.47,Cash,Meera Patel
+ORD-00315,2025-01-15,CUST-0115,South,Coimbatore,Marketplace,Electronics,Laptop Stand,1,11316.62,0.0,11316.62,8772.68,2543.94,Debit Card,Diya Verma
+ORD-00316,2025-02-20,CUST-0232,Central,Bhopal,Marketplace,Electronics,Laptop Stand,1,54626.71,0.0,54626.71,41941.7,12685.01,Credit Card,Kabir Singh
+ORD-00317,2025-06-14,CUST-0030,South,Hyderabad,Marketplace,Sports,Football,1,1476.88,0.05,1403.04,859.0,544.04,Credit Card,Isha Jain
+ORD-00318,2025-06-04,CUST-0117,North,Dehradun,Online,Clothing,T-Shirt,5,1246.95,0.0,6234.75,4478.38,1756.37,Net Banking,Vivaan Kumar
+ORD-00319,2025-08-19,CUST-0119,West,Indore,Marketplace,Electronics,Laptop Stand,1,60672.1,0.25,45504.07,34228.72,11275.35,Debit Card,Aarav Sharma
+ORD-00320,2025-04-09,CUST-0056,West,Ahmedabad,Marketplace,Electronics,Webcam,1,51502.6,0.0,51502.6,41364.4,10138.2,UPI,Aarav Sharma
+ORD-00321,2025-09-17,CUST-0016,West,Ahmedabad,Online,Electronics,Laptop Stand,2,43292.74,0.0,86585.48,49910.82,36674.66,Cash,Aarav Sharma
+ORD-00322,2025-07-21,CUST-0197,East,Bhubaneswar,Marketplace,Home & Kitchen,Cookware Set,4,3474.44,0.1,12507.98,9453.88,3054.1,Cash,Ananya Das
+ORD-00323,2025-01-01,CUST-0021,West,Surat,Marketplace,Clothing,Sneakers,4,4865.91,0.15,16544.09,16345.86,198.23,Net Banking,Kabir Singh
+ORD-00324,2025-02-04,CUST-0101,East,Kolkata,Marketplace,Home & Kitchen,Desk Lamp,5,4204.21,0.0,21021.05,15826.96,5194.09,Credit Card,Meera Patel
+ORD-00325,2025-04-19,CUST-0173,North,Delhi,Marketplace,Office Supplies,Stapler,1,2442.13,0.05,2320.02,1601.86,718.16,Net Banking,Vivaan Kumar
+ORD-00326,2025-09-03,CUST-0118,Central,Jabalpur,In-store,Home & Kitchen,Cookware Set,2,553.64,0.05,1051.92,700.98,350.94,Credit Card,Rohan Gupta
+ORD-00327,2025-11-27,CUST-0108,South,Bengaluru,Marketplace,Electronics,Webcam,3,51291.42,0.2,123099.41,100531.15,22568.26,UPI,Meera Patel
+ORD-00328,2025-10-01,CUST-0009,South,Bengaluru,In-store,Electronics,Laptop Stand,4,21239.7,0.0,84958.8,65965.8,18993.0,Net Banking,Aarav Sharma
+ORD-00329,2025-04-08,CUST-0060,South,Bengaluru,Marketplace,Clothing,Sneakers,1,3540.55,0.25,2655.41,2837.05,-181.64,Credit Card,Aarav Sharma
+ORD-00330,2025-02-26,CUST-0209,South,Coimbatore,Marketplace,Office Supplies,Pen Set,1,258.32,0.05,245.4,178.45,66.95,Net Banking,Ananya Das
+ORD-00331,2025-03-24,CUST-0078,Central,Gwalior,Online,Office Supplies,Pen Set,2,187.45,0.0,374.9,247.29,127.61,Net Banking,Meera Patel
+ORD-00332,2025-01-13,CUST-0143,West,Ahmedabad,Marketplace,Office Supplies,Notebook,1,1941.07,0.0,1941.07,1414.5,526.57,Credit Card,Vivaan Kumar
+ORD-00333,2025-01-10,CUST-0242,Central,Jabalpur,Marketplace,Electronics,Mouse,1,53591.71,0.0,53591.71,42629.86,10961.85,Cash,Ananya Das
+ORD-00334,2025-07-16,CUST-0097,West,Surat,Online,Home & Kitchen,Water Bottle,1,6611.53,0.1,5950.38,5171.17,779.21,Net Banking,Isha Jain
+ORD-00335,2025-07-19,CUST-0037,South,Chennai,In-store,Office Supplies,Whiteboard,2,250.04,0.05,475.08,301.24,173.84,UPI,Vivaan Kumar
+ORD-00336,2025-07-04,CUST-0100,West,Indore,Online,Sports,Dumbbells,3,9052.71,0.0,27158.13,20642.49,6515.64,Debit Card,Meera Patel
+ORD-00337,2025-05-31,CUST-0024,East,Kolkata,Marketplace,Clothing,Jacket,1,3359.82,0.05,3191.83,1971.14,1220.69,Credit Card,Aarav Sharma
+ORD-00338,2025-02-13,CUST-0011,East,Bhubaneswar,Online,Sports,Skipping Rope,1,9042.74,0.25,6782.06,4951.03,1831.03,Credit Card,Meera Patel
+ORD-00339,2025-01-17,CUST-0245,West,Pune,Online,Office Supplies,Printer Paper,1,457.2,0.0,457.2,296.05,161.15,Credit Card,Meera Patel
+ORD-00340,2025-02-20,CUST-0155,North,Lucknow,Marketplace,Home & Kitchen,Electric Kettle,4,7924.55,0.2,25358.56,23112.2,2246.36,Credit Card,Vivaan Kumar
+ORD-00341,2025-03-09,CUST-0098,South,Coimbatore,In-store,Office Supplies,Printer Paper,5,1132.85,0.05,5381.04,4713.74,667.3,Net Banking,Ananya Das
+ORD-00342,2025-03-12,CUST-0226,East,Ranchi,In-store,Office Supplies,File Folder,5,2184.69,0.1,9831.11,6451.99,3379.12,Cash,Diya Verma
+ORD-00343,2025-04-02,CUST-0081,West,Ahmedabad,In-store,Home & Kitchen,Water Bottle,5,5300.18,0.05,25175.85,18583.88,6591.97,UPI,Meera Patel
+ORD-00344,2025-10-30,CUST-0240,South,Bengaluru,Marketplace,Office Supplies,File Folder,3,1386.25,0.05,3950.81,3108.13,842.68,Net Banking,Vivaan Kumar
+ORD-00345,2025-12-06,CUST-0059,East,Patna,In-store,Home & Kitchen,Water Bottle,2,358.64,0.0,717.28,484.58,232.7,Net Banking,Meera Patel
+ORD-00346,2025-06-02,CUST-0196,West,Indore,In-store,Office Supplies,Printer Paper,2,665.26,0.05,1263.99,1014.56,249.43,Cash,Isha Jain
+ORD-00347,2025-02-27,CUST-0185,South,Hyderabad,Marketplace,Home & Kitchen,Cookware Set,1,6638.9,0.1,5975.01,4027.31,1947.7,Cash,Kabir Singh
+ORD-00348,2025-04-25,CUST-0215,Central,Bhopal,Online,Sports,Yoga Mat,2,6310.83,0.0,12621.66,8841.6,3780.06,UPI,Aarav Sharma
+ORD-00349,2025-05-13,CUST-0182,West,Pune,Online,Home & Kitchen,Mixer,4,5461.72,0.0,21846.88,12844.41,9002.47,UPI,Meera Patel
+ORD-00350,2025-08-24,CUST-0159,Central,Jabalpur,Marketplace,Office Supplies,Notebook,1,2238.39,0.2,1790.71,1287.14,503.57,Net Banking,Isha Jain
+ORD-00351,2025-10-30,CUST-0142,West,Mumbai,In-store,Electronics,Laptop Stand,1,57922.03,0.1,52129.83,47459.77,4670.06,UPI,Aarav Sharma
+ORD-00352,2025-03-20,CUST-0005,Central,Nagpur,Marketplace,Sports,Cricket Bat,2,807.89,0.05,1534.99,1143.08,391.91,Cash,Kabir Singh
+ORD-00353,2025-01-10,CUST-0062,North,Delhi,Online,Sports,Dumbbells,1,2426.29,0.15,2062.35,1338.66,723.69,Net Banking,Rohan Gupta
+ORD-00354,2025-06-04,CUST-0096,East,Ranchi,In-store,Clothing,T-Shirt,1,1607.5,0.0,1607.5,926.51,680.99,Cash,Meera Patel
+ORD-00355,2025-03-07,CUST-0220,South,Hyderabad,Marketplace,Electronics,Webcam,3,9187.64,0.25,20672.19,17514.66,3157.53,UPI,Diya Verma
+ORD-00356,2025-05-11,CUST-0122,West,Surat,Online,Clothing,Backpack,1,575.84,0.1,518.26,348.23,170.03,UPI,Kabir Singh
+ORD-00357,2025-10-20,CUST-0201,North,Lucknow,In-store,Clothing,Cap,2,4351.3,0.0,8702.6,7114.32,1588.28,Net Banking,Diya Verma
+ORD-00358,2025-02-09,CUST-0231,Central,Bhopal,Marketplace,Home & Kitchen,Cookware Set,5,933.67,0.2,3734.68,2599.82,1134.86,Net Banking,Isha Jain
+ORD-00359,2025-03-14,CUST-0237,East,Kolkata,In-store,Electronics,Webcam,2,40462.22,0.0,80924.44,61613.19,19311.25,Net Banking,Aarav Sharma
+ORD-00360,2025-07-12,CUST-0151,South,Hyderabad,Online,Electronics,Keyboard,4,53377.67,0.15,181484.08,179121.95,2362.13,Cash,Diya Verma
+ORD-00361,2025-01-23,CUST-0146,East,Patna,In-store,Sports,Dumbbells,1,625.68,0.05,594.4,515.29,79.11,Net Banking,Ananya Das
+ORD-00362,2025-10-22,CUST-0191,West,Pune,In-store,Electronics,Laptop Stand,1,37707.53,0.25,28280.65,21663.32,6617.33,UPI,Diya Verma
+ORD-00363,2025-07-13,CUST-0155,West,Pune,Marketplace,Electronics,Mouse,1,63621.9,0.1,57259.71,52849.64,4410.07,Net Banking,Vivaan Kumar
+ORD-00364,2025-05-26,CUST-0126,East,Kolkata,Online,Office Supplies,Stapler,2,964.22,0.2,1542.75,1363.64,179.11,Debit Card,Vivaan Kumar
+ORD-00365,2025-03-21,CUST-0098,West,Pune,Online,Sports,Gym Bag,3,1623.83,0.05,4627.92,2694.18,1933.74,Net Banking,Rohan Gupta
+ORD-00366,2025-08-04,CUST-0040,South,Bengaluru,In-store,Electronics,Mouse,1,56366.33,0.0,56366.33,35779.95,20586.38,Credit Card,Vivaan Kumar
+ORD-00367,2025-10-20,CUST-0002,East,Ranchi,In-store,Electronics,Headphones,2,26859.17,0.1,48346.51,43864.58,4481.93,Cash,Ananya Das
+ORD-00368,2025-05-23,CUST-0048,East,Kolkata,In-store,Home & Kitchen,Mixer,3,7472.32,0.2,17933.57,14018.76,3914.81,Cash,Vivaan Kumar
+ORD-00369,2025-05-21,CUST-0142,North,Delhi,Online,Electronics,Mouse,5,29592.5,0.1,133166.25,108131.16,25035.09,Net Banking,Ananya Das
+ORD-00370,2025-04-28,CUST-0100,West,Mumbai,Online,Office Supplies,Stapler,2,1394.91,0.05,2650.33,1759.35,890.98,Net Banking,Meera Patel
+ORD-00371,2025-04-22,CUST-0098,Central,Gwalior,Online,Home & Kitchen,Electric Kettle,2,3121.95,0.0,6243.9,4691.64,1552.26,Credit Card,Rohan Gupta
+ORD-00372,2025-03-20,CUST-0017,East,Ranchi,Online,Clothing,Jeans,1,2845.86,0.25,2134.39,1992.26,142.13,Cash,Rohan Gupta
+ORD-00373,2025-07-12,CUST-0093,West,Ahmedabad,In-store,Clothing,T-Shirt,2,5337.67,0.0,10675.34,8719.63,1955.71,Credit Card,Isha Jain
+ORD-00374,2025-09-02,CUST-0028,Central,Gwalior,Online,Home & Kitchen,Storage Box,4,4839.55,0.0,19358.2,10391.95,8966.25,Debit Card,Aarav Sharma
+ORD-00375,2025-02-07,CUST-0206,West,Ahmedabad,In-store,Sports,Football,4,11351.69,0.05,43136.42,32024.15,11112.27,Cash,Ananya Das
+ORD-00376,2025-01-15,CUST-0083,West,Indore,Marketplace,Home & Kitchen,Water Bottle,5,186.26,0.15,791.6,687.05,104.55,Credit Card,Isha Jain
+ORD-00377,2025-05-03,CUST-0075,East,Patna,Marketplace,Clothing,Jacket,1,4026.14,0.0,4026.14,3191.47,834.67,Cash,Meera Patel
+ORD-00378,2025-06-20,CUST-0094,East,Bhubaneswar,Online,Office Supplies,Stapler,3,1251.12,0.0,3753.36,1958.32,1795.04,Net Banking,Meera Patel
+ORD-00379,2025-11-18,CUST-0197,Central,Gwalior,Marketplace,Home & Kitchen,Electric Kettle,5,6325.2,0.05,30044.7,20221.01,9823.69,UPI,Isha Jain
+ORD-00380,2025-04-09,CUST-0018,South,Kochi,In-store,Office Supplies,Whiteboard,5,1421.39,0.0,7106.95,4060.83,3046.12,Cash,Kabir Singh
+ORD-00381,2025-03-20,CUST-0040,East,Patna,Marketplace,Office Supplies,Whiteboard,1,1941.77,0.1,1747.59,1609.6,137.99,Cash,Vivaan Kumar
+ORD-00382,2025-11-09,CUST-0150,North,Lucknow,In-store,Sports,Football,2,11566.6,0.2,18506.56,13418.07,5088.49,Net Banking,Vivaan Kumar
+ORD-00383,2025-07-31,CUST-0230,Central,Bhopal,Marketplace,Office Supplies,Whiteboard,5,1493.8,0.25,5601.75,4125.53,1476.22,Net Banking,Diya Verma
+ORD-00384,2025-06-25,CUST-0166,North,Chandigarh,Marketplace,Office Supplies,Pen Set,1,2031.19,0.1,1828.07,1423.06,405.01,UPI,Vivaan Kumar
+ORD-00385,2025-11-29,CUST-0026,East,Bhubaneswar,In-store,Electronics,Headphones,3,63848.31,0.15,162813.19,122281.33,40531.86,Credit Card,Meera Patel
+ORD-00386,2025-02-13,CUST-0198,West,Ahmedabad,Marketplace,Clothing,Sneakers,2,3039.81,0.0,6079.62,4707.57,1372.05,Net Banking,Kabir Singh
+ORD-00387,2025-09-15,CUST-0076,East,Kolkata,In-store,Clothing,T-Shirt,1,5896.47,0.0,5896.47,4715.92,1180.55,UPI,Diya Verma
+ORD-00388,2025-07-09,CUST-0117,South,Hyderabad,Online,Office Supplies,Printer Paper,1,79.45,0.25,59.59,53.1,6.49,Net Banking,Isha Jain
+ORD-00389,2025-08-17,CUST-0185,East,Bhubaneswar,Marketplace,Electronics,Monitor,2,45013.18,0.0,90026.36,57666.82,32359.54,Cash,Ananya Das
+ORD-00390,2025-01-15,CUST-0030,North,Jaipur,Online,Electronics,Webcam,3,40407.1,0.0,121221.3,80945.85,40275.45,Debit Card,Diya Verma
+ORD-00391,2025-06-13,CUST-0142,South,Chennai,Online,Sports,Dumbbells,5,6314.79,0.0,31573.95,18322.74,13251.21,Debit Card,Vivaan Kumar
+ORD-00392,2025-02-05,CUST-0048,West,Pune,Online,Clothing,Cap,1,2540.16,0.0,2540.16,2090.91,449.25,Cash,Vivaan Kumar
+ORD-00393,2025-06-01,CUST-0152,North,Dehradun,In-store,Home & Kitchen,Storage Box,1,3329.2,0.2,2663.36,1817.19,846.17,Cash,Aarav Sharma
+ORD-00394,2025-11-15,CUST-0208,South,Chennai,Online,Office Supplies,Whiteboard,5,1636.14,0.25,6135.53,5914.28,221.25,Net Banking,Diya Verma
+ORD-00395,2025-05-14,CUST-0051,Central,Raipur,In-store,Office Supplies,Printer Paper,1,1083.98,0.1,975.58,749.11,226.47,UPI,Rohan Gupta
+ORD-00396,2025-12-16,CUST-0100,West,Indore,Marketplace,Office Supplies,File Folder,1,2483.99,0.1,2235.59,1323.79,911.8,Cash,Diya Verma
+ORD-00397,2025-07-10,CUST-0045,East,Ranchi,Marketplace,Clothing,Backpack,2,4999.42,0.05,9498.9,5343.75,4155.15,Debit Card,Diya Verma
+ORD-00398,2025-11-02,CUST-0079,South,Hyderabad,Online,Electronics,Keyboard,5,60863.88,0.2,243455.52,169688.92,73766.6,Credit Card,Ananya Das
+ORD-00399,2025-12-08,CUST-0153,South,Coimbatore,Online,Clothing,Sneakers,1,606.81,0.2,485.45,419.41,66.04,Net Banking,Vivaan Kumar
+ORD-00400,2025-07-27,CUST-0138,West,Pune,Marketplace,Clothing,Cap,1,6427.07,0.25,4820.3,4159.05,661.25,Credit Card,Kabir Singh
+ORD-00401,2025-03-04,CUST-0081,West,Ahmedabad,In-store,Home & Kitchen,Cookware Set,5,3643.38,0.0,18216.9,11283.72,6933.18,Net Banking,Aarav Sharma
+ORD-00402,2025-04-15,CUST-0050,East,Kolkata,In-store,Clothing,Jeans,5,1487.67,0.1,6694.52,6163.41,531.11,Net Banking,Isha Jain
+ORD-00403,2025-02-16,CUST-0216,West,Surat,In-store,Clothing,Cap,3,841.15,0.25,1892.59,1982.44,-89.85,Cash,Kabir Singh
+ORD-00404,2025-11-04,CUST-0075,North,Dehradun,Online,Electronics,Keyboard,3,63445.39,0.15,161785.74,156433.94,5351.8,Debit Card,Meera Patel
+ORD-00405,2025-04-20,CUST-0145,Central,Nagpur,Marketplace,Home & Kitchen,Storage Box,5,1146.44,0.2,4585.76,3977.68,608.08,Cash,Diya Verma
+ORD-00406,2025-12-21,CUST-0211,Central,Bhopal,In-store,Office Supplies,File Folder,2,2249.33,0.0,4498.66,3353.97,1144.69,Net Banking,Aarav Sharma
+ORD-00407,2025-11-11,CUST-0027,West,Indore,Marketplace,Home & Kitchen,Storage Box,2,3941.07,0.1,7093.93,5010.77,2083.16,Credit Card,Rohan Gupta
+ORD-00408,2025-02-02,CUST-0221,North,Lucknow,Online,Office Supplies,Printer Paper,2,990.94,0.0,1981.88,1079.69,902.19,Cash,Diya Verma
+ORD-00409,2025-03-12,CUST-0090,South,Chennai,Marketplace,Sports,Gym Bag,3,9380.45,0.1,25327.22,20146.69,5180.53,Net Banking,Vivaan Kumar
+ORD-00410,2025-02-27,CUST-0209,South,Coimbatore,Online,Home & Kitchen,Cookware Set,5,426.13,0.05,2024.12,1248.27,775.85,UPI,Ananya Das
+ORD-00411,2025-05-20,CUST-0044,Central,Nagpur,In-store,Sports,Skipping Rope,4,11711.26,0.0,46845.04,38393.1,8451.94,Debit Card,Rohan Gupta
+ORD-00412,2025-03-28,CUST-0209,Central,Nagpur,Online,Sports,Gym Bag,2,11728.59,0.0,23457.18,12566.43,10890.75,Credit Card,Vivaan Kumar
+ORD-00413,2025-02-24,CUST-0222,North,Jaipur,Online,Home & Kitchen,Electric Kettle,5,1355.77,0.0,6778.85,4758.36,2020.49,Credit Card,Kabir Singh
+ORD-00414,2025-07-16,CUST-0037,East,Patna,Marketplace,Clothing,Sneakers,1,6404.65,0.0,6404.65,4613.38,1791.27,Debit Card,Vivaan Kumar
+ORD-00415,2025-11-12,CUST-0204,West,Surat,Online,Electronics,Webcam,2,13520.44,0.2,21632.7,21538.7,94.0,Cash,Rohan Gupta
+ORD-00416,2025-05-07,CUST-0149,East,Bhubaneswar,Online,Clothing,Jacket,2,6652.13,0.0,13304.26,7303.84,6000.42,UPI,Isha Jain
+ORD-00417,2025-08-15,CUST-0056,East,Kolkata,In-store,Sports,Football,2,2788.55,0.1,5019.39,3575.25,1444.14,Credit Card,Isha Jain
+ORD-00418,2025-07-17,CUST-0141,East,Ranchi,Marketplace,Office Supplies,Printer Paper,5,1931.52,0.0,9657.6,5586.91,4070.69,Credit Card,Isha Jain
+ORD-00419,2025-03-05,CUST-0161,East,Kolkata,In-store,Electronics,Headphones,1,21187.35,0.15,18009.25,13965.07,4044.18,UPI,Diya Verma
+ORD-00420,2025-09-21,CUST-0246,South,Kochi,In-store,Clothing,T-Shirt,3,1754.79,0.2,4211.5,3021.96,1189.54,Credit Card,Kabir Singh
+ORD-00421,2025-10-28,CUST-0168,East,Patna,In-store,Office Supplies,Notebook,4,2342.94,0.0,9371.76,6365.74,3006.02,Debit Card,Diya Verma
+ORD-00422,2025-07-05,CUST-0161,East,Patna,In-store,Electronics,Monitor,1,34010.95,0.0,34010.95,22438.17,11572.78,Credit Card,Vivaan Kumar
+ORD-00423,2025-07-07,CUST-0123,North,Delhi,Online,Electronics,Keyboard,1,64665.56,0.1,58199.0,42353.69,15845.31,Credit Card,Meera Patel
+ORD-00424,2025-08-05,CUST-0179,Central,Jabalpur,In-store,Electronics,Headphones,2,4810.26,0.2,7696.42,5704.48,1991.94,UPI,Vivaan Kumar
+ORD-00425,2025-08-07,CUST-0099,South,Kochi,Online,Electronics,Keyboard,2,41625.78,0.0,83251.56,55785.34,27466.22,UPI,Diya Verma
+ORD-00426,2025-06-23,CUST-0098,East,Ranchi,Online,Office Supplies,Pen Set,5,2243.95,0.0,11219.75,6050.88,5168.87,Credit Card,Diya Verma
+ORD-00427,2025-09-30,CUST-0167,Central,Gwalior,Online,Electronics,Laptop Stand,3,53532.77,0.15,136508.56,105515.4,30993.16,Cash,Ananya Das
+ORD-00428,2025-11-09,CUST-0176,South,Chennai,In-store,Clothing,Backpack,4,4537.97,0.0,18151.88,13104.59,5047.29,Credit Card,Diya Verma
+ORD-00429,2025-10-11,CUST-0187,North,Chandigarh,In-store,Electronics,Laptop Stand,2,22924.95,0.15,38972.42,37935.65,1036.77,Debit Card,Vivaan Kumar
+ORD-00430,2025-06-05,CUST-0166,East,Patna,Online,Home & Kitchen,Water Bottle,3,3061.66,0.15,7807.23,7163.18,644.05,Credit Card,Rohan Gupta
+ORD-00431,2025-06-28,CUST-0156,North,Jaipur,Marketplace,Home & Kitchen,Desk Lamp,1,4120.23,0.2,3296.18,2426.64,869.54,Credit Card,Vivaan Kumar
+ORD-00432,2025-02-17,CUST-0099,East,Kolkata,Online,Home & Kitchen,Storage Box,2,5999.85,0.05,11399.72,7002.39,4397.33,Credit Card,Isha Jain
+ORD-00433,2025-03-23,CUST-0093,Central,Bhopal,In-store,Sports,Yoga Mat,1,7559.22,0.2,6047.38,4590.17,1457.21,Credit Card,Vivaan Kumar
+ORD-00434,2025-12-15,CUST-0175,Central,Jabalpur,Online,Office Supplies,File Folder,5,294.6,0.0,1473.0,838.75,634.25,Cash,Diya Verma
+ORD-00435,2025-04-30,CUST-0068,North,Dehradun,Online,Electronics,Headphones,2,13249.52,0.05,25174.09,21265.59,3908.5,UPI,Aarav Sharma
+ORD-00436,2025-09-16,CUST-0183,West,Indore,Marketplace,Office Supplies,Whiteboard,2,1906.15,0.0,3812.3,2196.11,1616.19,Cash,Vivaan Kumar
+ORD-00437,2025-10-20,CUST-0158,West,Mumbai,Online,Sports,Skipping Rope,4,4356.42,0.1,15683.11,10586.06,5097.05,Debit Card,Diya Verma
+ORD-00438,2025-02-16,CUST-0250,East,Kolkata,Online,Sports,Dumbbells,1,3769.17,0.05,3580.71,2623.63,957.08,Net Banking,Ananya Das
+ORD-00439,2025-06-04,CUST-0179,West,Indore,In-store,Electronics,Mouse,1,45974.32,0.0,45974.32,35414.37,10559.95,Credit Card,Aarav Sharma
+ORD-00440,2025-10-25,CUST-0117,South,Bengaluru,Marketplace,Clothing,T-Shirt,2,5286.33,0.0,10572.66,7014.29,3558.37,Net Banking,Aarav Sharma
+ORD-00441,2025-05-04,CUST-0182,East,Patna,Online,Electronics,Headphones,1,53425.93,0.0,53425.93,30796.51,22629.42,UPI,Kabir Singh
+ORD-00442,2025-05-24,CUST-0201,West,Ahmedabad,Marketplace,Sports,Skipping Rope,1,5663.07,0.05,5379.92,3381.4,1998.52,Debit Card,Kabir Singh
+ORD-00443,2025-03-08,CUST-0227,East,Patna,Online,Office Supplies,Whiteboard,1,1884.42,0.05,1790.2,1058.83,731.37,UPI,Ananya Das
+ORD-00444,2025-04-21,CUST-0068,West,Ahmedabad,Marketplace,Sports,Yoga Mat,1,5321.98,0.15,4523.68,3396.31,1127.37,Net Banking,Diya Verma
+ORD-00445,2025-01-22,CUST-0015,West,Surat,In-store,Sports,Cricket Bat,2,2908.37,0.2,4653.39,3951.53,701.86,Net Banking,Kabir Singh
+ORD-00446,2025-11-13,CUST-0229,East,Patna,Marketplace,Office Supplies,Notebook,5,1614.64,0.0,8073.2,6778.46,1294.74,UPI,Meera Patel
+ORD-00447,2025-10-31,CUST-0063,Central,Bhopal,Online,Electronics,Headphones,2,40071.81,0.25,60107.71,61972.21,-1864.5,Cash,Ananya Das
+ORD-00448,2025-01-30,CUST-0142,West,Pune,Marketplace,Home & Kitchen,Mixer,5,3768.31,0.2,15073.24,9892.9,5180.34,Cash,Meera Patel
+ORD-00449,2025-06-29,CUST-0082,East,Patna,In-store,Clothing,Cap,2,3444.96,0.1,6200.93,4835.44,1365.49,UPI,Ananya Das
+ORD-00450,2025-11-02,CUST-0058,North,Dehradun,Marketplace,Electronics,Keyboard,2,36114.49,0.15,61394.63,40070.49,21324.14,UPI,Vivaan Kumar
+ORD-00451,2025-01-26,CUST-0084,North,Lucknow,Online,Office Supplies,Printer Paper,1,578.44,0.2,462.75,484.93,-22.18,Net Banking,Isha Jain
+ORD-00452,2025-11-21,CUST-0145,North,Jaipur,In-store,Home & Kitchen,Water Bottle,4,7002.36,0.0,28009.44,17382.42,10627.02,Net Banking,Meera Patel
+ORD-00453,2025-10-28,CUST-0198,West,Ahmedabad,Online,Sports,Football,3,4879.77,0.0,14639.31,12010.35,2628.96,Net Banking,Meera Patel
+ORD-00454,2025-07-23,CUST-0060,South,Bengaluru,Marketplace,Clothing,T-Shirt,2,2543.56,0.25,3815.34,3127.64,687.7,Debit Card,Aarav Sharma
+ORD-00455,2025-09-30,CUST-0187,East,Kolkata,In-store,Clothing,Cap,1,1354.64,0.0,1354.64,1115.92,238.72,UPI,Meera Patel
+ORD-00456,2025-11-01,CUST-0247,Central,Raipur,Online,Clothing,Sneakers,1,2939.58,0.0,2939.58,2169.48,770.1,Credit Card,Rohan Gupta
+ORD-00457,2025-03-24,CUST-0106,North,Delhi,Marketplace,Home & Kitchen,Desk Lamp,3,1656.58,0.0,4969.74,3005.24,1964.5,Debit Card,Isha Jain
+ORD-00458,2025-02-21,CUST-0035,North,Dehradun,Marketplace,Electronics,Laptop Stand,4,59406.89,0.2,190102.05,175099.85,15002.2,Cash,Diya Verma
+ORD-00459,2025-12-17,CUST-0170,Central,Gwalior,Online,Electronics,Monitor,2,53033.57,0.0,106067.14,87892.12,18175.02,Credit Card,Rohan Gupta
+ORD-00460,2025-06-06,CUST-0213,East,Ranchi,Marketplace,Clothing,Cap,1,1999.26,0.0,1999.26,1316.32,682.94,Debit Card,Ananya Das
+ORD-00461,2025-08-11,CUST-0242,West,Ahmedabad,Online,Home & Kitchen,Mixer,4,2136.32,0.2,6836.22,5478.05,1358.17,Credit Card,Diya Verma
+ORD-00462,2025-03-19,CUST-0120,South,Bengaluru,In-store,Home & Kitchen,Storage Box,4,6705.74,0.2,21458.37,13984.9,7473.47,Cash,Diya Verma
+ORD-00463,2025-11-19,CUST-0079,Central,Nagpur,In-store,Home & Kitchen,Storage Box,1,4633.66,0.25,3475.24,2717.92,757.32,Debit Card,Diya Verma
+ORD-00464,2025-10-23,CUST-0179,North,Chandigarh,Marketplace,Office Supplies,Whiteboard,1,1306.91,0.2,1045.53,716.83,328.7,UPI,Meera Patel
+ORD-00465,2025-02-27,CUST-0064,East,Patna,In-store,Electronics,Webcam,1,25992.64,0.2,20794.11,15086.85,5707.26,Cash,Aarav Sharma
+ORD-00466,2025-05-30,CUST-0244,East,Ranchi,In-store,Home & Kitchen,Mixer,1,1684.64,0.1,1516.18,1134.46,381.72,Cash,Meera Patel
+ORD-00467,2025-09-27,CUST-0032,North,Lucknow,Online,Electronics,Keyboard,2,56087.03,0.15,95347.95,93615.52,1732.43,UPI,Meera Patel
+ORD-00468,2025-05-28,CUST-0176,South,Chennai,Marketplace,Clothing,Jacket,3,3000.54,0.15,7651.38,7340.56,310.82,UPI,Rohan Gupta
+ORD-00469,2025-02-01,CUST-0232,North,Delhi,Marketplace,Electronics,Keyboard,5,16358.98,0.2,65435.92,45092.89,20343.03,Cash,Kabir Singh
+ORD-00470,2025-03-15,CUST-0242,North,Jaipur,In-store,Electronics,Headphones,4,30700.93,0.0,122803.72,71142.66,51661.06,UPI,Kabir Singh
+ORD-00471,2025-03-12,CUST-0008,Central,Jabalpur,In-store,Clothing,Sneakers,1,3354.03,0.05,3186.33,2718.22,468.11,Cash,Kabir Singh
+ORD-00472,2025-04-08,CUST-0072,East,Patna,In-store,Home & Kitchen,Water Bottle,4,6451.36,0.15,21934.62,15682.56,6252.06,Credit Card,Aarav Sharma
+ORD-00473,2025-01-09,CUST-0166,Central,Gwalior,In-store,Sports,Dumbbells,1,3131.27,0.0,3131.27,2031.11,1100.16,Cash,Vivaan Kumar
+ORD-00474,2025-11-06,CUST-0072,Central,Jabalpur,In-store,Electronics,Headphones,5,14992.47,0.05,71214.23,48556.3,22657.93,Credit Card,Vivaan Kumar
+ORD-00475,2025-10-15,CUST-0206,South,Coimbatore,Marketplace,Home & Kitchen,Electric Kettle,1,425.67,0.0,425.67,327.99,97.68,UPI,Vivaan Kumar
+ORD-00476,2025-12-01,CUST-0089,East,Bhubaneswar,Marketplace,Sports,Football,3,2610.12,0.05,7438.84,6204.14,1234.7,Net Banking,Ananya Das
+ORD-00477,2025-07-10,CUST-0082,West,Ahmedabad,Marketplace,Home & Kitchen,Mixer,1,6809.79,0.0,6809.79,5431.32,1378.47,Credit Card,Aarav Sharma
+ORD-00478,2025-08-14,CUST-0092,East,Kolkata,Marketplace,Clothing,Backpack,1,2279.44,0.0,2279.44,1739.64,539.8,Credit Card,Kabir Singh
+ORD-00479,2025-02-28,CUST-0137,North,Chandigarh,Marketplace,Home & Kitchen,Water Bottle,1,1157.1,0.2,925.68,871.39,54.29,UPI,Meera Patel
+ORD-00480,2025-11-16,CUST-0046,Central,Jabalpur,Online,Office Supplies,Pen Set,5,1114.23,0.0,5571.15,3837.33,1733.82,Net Banking,Ananya Das
+ORD-00481,2025-02-28,CUST-0180,East,Guwahati,In-store,Electronics,Webcam,1,48537.72,0.2,38830.18,29710.6,9119.58,Net Banking,Kabir Singh
+ORD-00482,2025-03-28,CUST-0080,Central,Raipur,Online,Clothing,Backpack,3,1001.34,0.25,2253.01,2045.5,207.51,Cash,Aarav Sharma
+ORD-00483,2025-11-10,CUST-0057,North,Delhi,Online,Home & Kitchen,Desk Lamp,2,4116.42,0.15,6997.91,6354.15,643.76,Net Banking,Isha Jain
+ORD-00484,2025-04-01,CUST-0207,North,Jaipur,Online,Sports,Dumbbells,2,10966.53,0.2,17546.45,16574.54,971.91,Debit Card,Kabir Singh
+ORD-00485,2025-10-18,CUST-0151,East,Kolkata,Marketplace,Electronics,Keyboard,1,44229.18,0.1,39806.26,34254.36,5551.9,Credit Card,Diya Verma
+ORD-00486,2025-09-21,CUST-0181,Central,Nagpur,Marketplace,Electronics,Mouse,1,62460.4,0.0,62460.4,50824.98,11635.42,Cash,Diya Verma
+ORD-00487,2025-05-10,CUST-0250,East,Ranchi,Online,Office Supplies,Pen Set,2,2460.78,0.05,4675.48,3305.61,1369.87,Cash,Isha Jain
+ORD-00488,2025-02-04,CUST-0228,East,Patna,Marketplace,Sports,Gym Bag,3,11840.88,0.0,35522.64,23159.34,12363.3,Debit Card,Meera Patel
+ORD-00489,2025-07-08,CUST-0188,Central,Raipur,Marketplace,Clothing,Jacket,1,6153.67,0.0,6153.67,3953.68,2199.99,Debit Card,Kabir Singh
+ORD-00490,2025-11-19,CUST-0218,South,Bengaluru,Marketplace,Sports,Football,4,11761.74,0.1,42342.26,29000.81,13341.45,UPI,Kabir Singh
+ORD-00491,2025-03-27,CUST-0164,Central,Nagpur,Marketplace,Sports,Dumbbells,1,9265.3,0.05,8802.03,6770.28,2031.75,UPI,Isha Jain
+ORD-00492,2025-01-09,CUST-0089,South,Hyderabad,In-store,Electronics,Keyboard,2,54008.9,0.25,81013.35,63779.17,17234.18,Credit Card,Diya Verma
+ORD-00493,2025-08-09,CUST-0054,East,Bhubaneswar,Online,Electronics,Mouse,1,46418.7,0.1,41776.83,24957.81,16819.02,UPI,Ananya Das
+ORD-00494,2025-11-12,CUST-0099,East,Kolkata,In-store,Electronics,Headphones,2,22963.79,0.2,36742.06,24336.37,12405.69,Cash,Kabir Singh
+ORD-00495,2025-11-13,CUST-0140,West,Surat,In-store,Clothing,Jacket,2,2895.77,0.25,4343.65,4401.03,-57.38,UPI,Isha Jain
+ORD-00496,2025-11-13,CUST-0019,Central,Raipur,Online,Home & Kitchen,Storage Box,1,2172.26,0.1,1955.03,1648.18,306.85,Debit Card,Aarav Sharma
+ORD-00497,2025-07-19,CUST-0088,East,Ranchi,Online,Electronics,Headphones,1,57627.98,0.0,57627.98,44337.03,13290.95,Cash,Kabir Singh
+ORD-00498,2025-03-26,CUST-0153,North,Dehradun,Marketplace,Electronics,Mouse,2,16347.63,0.2,26156.21,17285.93,8870.28,Cash,Aarav Sharma
+ORD-00499,2025-02-09,CUST-0041,West,Pune,Online,Sports,Football,2,11506.33,0.15,19560.76,17445.4,2115.36,UPI,Ananya Das
+ORD-00500,2025-06-23,CUST-0142,South,Chennai,Marketplace,Clothing,Cap,3,3814.97,0.0,11444.91,7597.71,3847.2,Net Banking,Rohan Gupta
+ORD-00501,2025-01-07,CUST-0013,East,Ranchi,In-store,Home & Kitchen,Mixer,1,5177.45,0.0,5177.45,4037.17,1140.28,Net Banking,Isha Jain
+ORD-00502,2025-07-31,CUST-0110,South,Bengaluru,Online,Office Supplies,Notebook,5,886.92,0.25,3325.95,2506.12,819.83,Debit Card,Isha Jain
+ORD-00503,2025-09-05,CUST-0044,South,Bengaluru,Marketplace,Electronics,Keyboard,1,63216.33,0.25,47412.25,39591.89,7820.36,Debit Card,Diya Verma
+ORD-00504,2025-03-19,CUST-0121,West,Mumbai,In-store,Office Supplies,Stapler,5,439.45,0.05,2087.39,1205.85,881.54,Debit Card,Diya Verma
+ORD-00505,2025-01-23,CUST-0227,Central,Jabalpur,In-store,Home & Kitchen,Water Bottle,2,1092.87,0.0,2185.74,1188.38,997.36,Debit Card,Kabir Singh
+ORD-00506,2025-10-29,CUST-0120,West,Mumbai,In-store,Office Supplies,Stapler,5,348.7,0.1,1569.15,1230.35,338.8,Credit Card,Rohan Gupta
+ORD-00507,2025-05-30,CUST-0171,Central,Bhopal,Online,Home & Kitchen,Electric Kettle,1,6229.18,0.15,5294.8,4511.85,782.95,UPI,Ananya Das
+ORD-00508,2025-09-18,CUST-0142,Central,Jabalpur,Online,Sports,Dumbbells,5,6313.29,0.25,23674.84,20933.79,2741.05,Cash,Vivaan Kumar
+ORD-00509,2025-01-25,CUST-0122,Central,Jabalpur,In-store,Sports,Dumbbells,1,4218.16,0.1,3796.34,3268.66,527.68,UPI,Vivaan Kumar
+ORD-00510,2025-02-26,CUST-0205,North,Dehradun,Marketplace,Sports,Skipping Rope,1,3202.37,0.05,3042.25,1917.68,1124.57,Net Banking,Kabir Singh
+ORD-00511,2025-12-14,CUST-0249,North,Lucknow,Online,Home & Kitchen,Cookware Set,3,6760.25,0.05,19266.71,16103.95,3162.76,Credit Card,Kabir Singh
+ORD-00512,2025-10-07,CUST-0112,North,Lucknow,Online,Electronics,Webcam,3,5514.53,0.25,12407.69,10231.43,2176.26,Credit Card,Rohan Gupta
+ORD-00513,2025-08-26,CUST-0143,East,Kolkata,In-store,Electronics,Monitor,2,14472.14,0.15,24602.64,17783.54,6819.1,Net Banking,Ananya Das
+ORD-00514,2025-04-16,CUST-0202,East,Guwahati,Marketplace,Clothing,T-Shirt,5,4068.07,0.0,20340.35,14184.78,6155.57,Net Banking,Vivaan Kumar
+ORD-00515,2025-02-26,CUST-0146,North,Lucknow,Marketplace,Home & Kitchen,Cookware Set,2,5031.62,0.15,8553.75,5667.87,2885.88,Net Banking,Diya Verma
+ORD-00516,2025-09-04,CUST-0223,North,Dehradun,Marketplace,Electronics,Mouse,2,45233.36,0.15,76896.71,66803.18,10093.53,Debit Card,Vivaan Kumar
+ORD-00517,2025-01-19,CUST-0156,East,Bhubaneswar,In-store,Clothing,Backpack,4,703.68,0.1,2533.25,1541.76,991.49,UPI,Kabir Singh
+ORD-00518,2025-06-10,CUST-0156,East,Bhubaneswar,Marketplace,Home & Kitchen,Desk Lamp,2,1895.59,0.05,3601.62,2872.69,728.93,Cash,Aarav Sharma
+ORD-00519,2025-06-19,CUST-0191,West,Ahmedabad,In-store,Home & Kitchen,Mixer,4,2010.94,0.2,6435.01,6140.08,294.93,Debit Card,Ananya Das
+ORD-00520,2025-07-02,CUST-0072,North,Jaipur,In-store,Office Supplies,Printer Paper,2,1191.94,0.1,2145.49,1712.37,433.12,UPI,Meera Patel
+ORD-00521,2025-12-17,CUST-0069,South,Hyderabad,Marketplace,Clothing,Jacket,5,6510.2,0.1,29295.9,23197.11,6098.79,Cash,Diya Verma
+ORD-00522,2025-01-27,CUST-0190,South,Kochi,In-store,Home & Kitchen,Storage Box,2,5939.49,0.0,11878.98,8137.34,3741.64,Net Banking,Ananya Das
+ORD-00523,2025-05-03,CUST-0080,North,Dehradun,Marketplace,Home & Kitchen,Mixer,2,3930.49,0.25,5895.73,5265.78,629.95,Net Banking,Vivaan Kumar
+ORD-00524,2025-06-14,CUST-0045,South,Coimbatore,Online,Sports,Yoga Mat,2,11550.18,0.1,20790.32,13349.31,7441.01,Credit Card,Aarav Sharma
+ORD-00525,2025-08-03,CUST-0236,South,Bengaluru,In-store,Clothing,T-Shirt,1,1675.03,0.0,1675.03,1102.54,572.49,Credit Card,Rohan Gupta
+ORD-00526,2025-09-25,CUST-0163,East,Bhubaneswar,Online,Sports,Football,1,9253.99,0.1,8328.59,4907.28,3421.31,UPI,Meera Patel
+ORD-00527,2025-02-08,CUST-0046,East,Bhubaneswar,In-store,Sports,Football,5,6882.8,0.0,34414.0,19738.38,14675.62,Net Banking,Ananya Das
+ORD-00528,2025-04-30,CUST-0213,East,Patna,Marketplace,Office Supplies,Whiteboard,5,1574.07,0.0,7870.35,5708.36,2161.99,UPI,Rohan Gupta
+ORD-00529,2025-02-25,CUST-0219,North,Lucknow,Marketplace,Electronics,Keyboard,1,27090.68,0.2,21672.54,21939.48,-266.94,Credit Card,Meera Patel
+ORD-00530,2025-10-03,CUST-0105,South,Chennai,Marketplace,Office Supplies,Whiteboard,1,1260.52,0.0,1260.52,998.22,262.3,UPI,Aarav Sharma
+ORD-00531,2025-09-22,CUST-0206,West,Pune,Online,Home & Kitchen,Desk Lamp,4,7990.8,0.0,31963.2,19182.35,12780.85,Credit Card,Rohan Gupta
+ORD-00532,2025-08-01,CUST-0230,Central,Nagpur,In-store,Office Supplies,Stapler,1,671.92,0.15,571.13,563.02,8.11,Debit Card,Isha Jain
+ORD-00533,2025-05-05,CUST-0174,East,Patna,Marketplace,Clothing,Jacket,1,6933.89,0.1,6240.5,5513.76,726.74,Net Banking,Vivaan Kumar
+ORD-00534,2025-03-16,CUST-0170,Central,Bhopal,In-store,Electronics,Laptop Stand,3,60674.21,0.05,172921.5,125437.87,47483.63,Net Banking,Rohan Gupta
+ORD-00535,2025-12-09,CUST-0087,East,Kolkata,In-store,Clothing,T-Shirt,1,5863.29,0.05,5570.13,4898.19,671.94,Debit Card,Rohan Gupta
+ORD-00536,2025-11-27,CUST-0133,East,Ranchi,Online,Home & Kitchen,Cookware Set,2,7882.62,0.25,11823.93,12226.0,-402.07,UPI,Vivaan Kumar
+ORD-00537,2025-08-21,CUST-0128,East,Patna,In-store,Electronics,Webcam,1,17858.92,0.05,16965.97,12491.4,4474.57,Debit Card,Vivaan Kumar
+ORD-00538,2025-08-21,CUST-0182,West,Surat,Marketplace,Electronics,Laptop Stand,2,33104.93,0.15,56278.38,43080.33,13198.05,Credit Card,Ananya Das
+ORD-00539,2025-06-04,CUST-0092,South,Coimbatore,Marketplace,Clothing,Cap,4,5294.38,0.05,20118.64,11874.5,8244.14,Debit Card,Kabir Singh
+ORD-00540,2025-11-07,CUST-0121,Central,Raipur,Online,Office Supplies,Notebook,1,488.01,0.1,439.21,323.46,115.75,Debit Card,Kabir Singh
+ORD-00541,2025-12-26,CUST-0058,East,Kolkata,Marketplace,Home & Kitchen,Water Bottle,1,1938.76,0.2,1551.01,1021.28,529.73,Debit Card,Vivaan Kumar
+ORD-00542,2025-03-06,CUST-0076,East,Ranchi,In-store,Office Supplies,File Folder,2,804.58,0.0,1609.16,1174.49,434.67,UPI,Isha Jain
+ORD-00543,2025-01-04,CUST-0019,North,Dehradun,In-store,Sports,Skipping Rope,3,3372.87,0.0,10118.61,7145.28,2973.33,Credit Card,Diya Verma
+ORD-00544,2025-11-06,CUST-0014,West,Indore,Online,Office Supplies,Stapler,1,73.87,0.0,73.87,42.09,31.78,Credit Card,Meera Patel
+ORD-00545,2025-09-04,CUST-0037,East,Bhubaneswar,In-store,Sports,Football,1,7318.14,0.1,6586.33,3973.57,2612.76,Credit Card,Diya Verma
+ORD-00546,2025-11-22,CUST-0163,West,Ahmedabad,Online,Home & Kitchen,Water Bottle,2,6451.61,0.15,10967.74,6755.16,4212.58,UPI,Isha Jain
+ORD-00547,2025-05-04,CUST-0196,East,Patna,Online,Home & Kitchen,Desk Lamp,2,1552.04,0.25,2328.06,1763.16,564.9,Cash,Diya Verma
+ORD-00548,2025-08-29,CUST-0110,South,Coimbatore,In-store,Clothing,Cap,2,1578.98,0.2,2526.37,2374.6,151.77,Cash,Isha Jain
+ORD-00549,2025-11-15,CUST-0052,West,Mumbai,Marketplace,Electronics,Laptop Stand,5,39163.03,0.25,146861.36,120639.17,26222.19,Debit Card,Aarav Sharma
+ORD-00550,2025-05-12,CUST-0174,East,Guwahati,Online,Home & Kitchen,Mixer,2,3896.28,0.2,6234.05,4611.74,1622.31,Credit Card,Meera Patel
+ORD-00551,2025-06-25,CUST-0099,East,Ranchi,Marketplace,Home & Kitchen,Mixer,1,510.81,0.05,485.27,268.64,216.63,Net Banking,Rohan Gupta
+ORD-00552,2025-08-24,CUST-0243,South,Bengaluru,In-store,Electronics,Mouse,3,28827.01,0.1,77832.93,61862.42,15970.51,Cash,Ananya Das
+ORD-00553,2025-03-22,CUST-0092,West,Pune,Online,Office Supplies,Stapler,2,1946.09,0.2,3113.74,2151.97,961.77,Credit Card,Vivaan Kumar
+ORD-00554,2025-08-09,CUST-0034,North,Chandigarh,Online,Home & Kitchen,Electric Kettle,3,3878.93,0.15,9891.27,6965.56,2925.71,UPI,Kabir Singh
+ORD-00555,2025-07-29,CUST-0225,North,Jaipur,Marketplace,Electronics,Monitor,4,3244.59,0.0,12978.36,8467.83,4510.53,Debit Card,Aarav Sharma
+ORD-00556,2025-10-28,CUST-0215,Central,Bhopal,Online,Electronics,Webcam,2,11895.02,0.0,23790.04,19417.9,4372.14,UPI,Diya Verma
+ORD-00557,2025-07-14,CUST-0141,West,Surat,In-store,Clothing,T-Shirt,2,1569.17,0.25,2353.76,2560.85,-207.09,Cash,Kabir Singh
+ORD-00558,2025-01-05,CUST-0170,South,Bengaluru,Online,Office Supplies,Stapler,1,2380.78,0.1,2142.7,1819.31,323.39,Net Banking,Rohan Gupta
+ORD-00559,2025-03-26,CUST-0213,Central,Gwalior,Online,Home & Kitchen,Storage Box,1,7766.08,0.25,5824.56,5406.0,418.56,Net Banking,Diya Verma
+ORD-00560,2025-11-07,CUST-0051,East,Kolkata,Marketplace,Electronics,Monitor,5,5541.07,0.0,27705.35,19848.81,7856.54,Credit Card,Rohan Gupta
+ORD-00561,2025-08-21,CUST-0105,Central,Raipur,In-store,Office Supplies,Whiteboard,2,1544.55,0.05,2934.64,1758.15,1176.49,Credit Card,Aarav Sharma
+ORD-00562,2025-01-28,CUST-0239,Central,Jabalpur,In-store,Home & Kitchen,Electric Kettle,2,5957.19,0.15,10127.22,8977.84,1149.38,Debit Card,Meera Patel
+ORD-00563,2025-09-21,CUST-0214,North,Delhi,Marketplace,Electronics,Headphones,2,55259.11,0.1,99466.4,68511.19,30955.21,Cash,Kabir Singh
+ORD-00564,2025-09-25,CUST-0186,North,Dehradun,Online,Electronics,Webcam,2,63030.08,0.0,126060.16,80436.01,45624.15,Debit Card,Meera Patel
+ORD-00565,2025-09-23,CUST-0013,West,Ahmedabad,Online,Office Supplies,Stapler,2,453.52,0.0,907.04,745.24,161.8,Credit Card,Aarav Sharma
+ORD-00566,2025-03-20,CUST-0190,East,Ranchi,Online,Office Supplies,Stapler,2,1840.68,0.0,3681.36,2926.9,754.46,UPI,Aarav Sharma
+ORD-00567,2025-10-14,CUST-0092,North,Chandigarh,In-store,Home & Kitchen,Water Bottle,1,3118.87,0.2,2495.1,2239.26,255.84,Net Banking,Rohan Gupta
+ORD-00568,2025-04-05,CUST-0030,North,Jaipur,In-store,Office Supplies,Pen Set,1,2318.14,0.0,2318.14,1719.45,598.69,Cash,Isha Jain
+ORD-00569,2025-06-14,CUST-0167,East,Bhubaneswar,Online,Clothing,Sneakers,2,6913.73,0.0,13827.46,10173.45,3654.01,UPI,Kabir Singh
+ORD-00570,2025-01-27,CUST-0234,North,Chandigarh,Marketplace,Electronics,Monitor,1,22412.97,0.05,21292.32,15063.71,6228.61,Cash,Isha Jain
+ORD-00571,2025-07-06,CUST-0157,South,Coimbatore,Online,Clothing,Jacket,1,5325.64,0.0,5325.64,4210.58,1115.06,Credit Card,Isha Jain
+ORD-00572,2025-11-04,CUST-0012,West,Mumbai,Online,Clothing,Sneakers,1,3736.49,0.05,3549.67,2476.71,1072.96,Debit Card,Ananya Das
+ORD-00573,2025-03-11,CUST-0145,North,Dehradun,Online,Sports,Gym Bag,1,11440.4,0.15,9724.34,9189.27,535.07,Debit Card,Diya Verma
+ORD-00574,2025-02-21,CUST-0170,West,Pune,Marketplace,Clothing,Jacket,1,3527.0,0.0,3527.0,2006.37,1520.63,Cash,Kabir Singh
+ORD-00575,2025-07-17,CUST-0165,Central,Gwalior,Online,Electronics,Headphones,1,44845.94,0.0,44845.94,25325.94,19520.0,Net Banking,Isha Jain
+ORD-00576,2025-06-01,CUST-0083,West,Pune,Online,Electronics,Monitor,1,28949.49,0.15,24607.07,19888.31,4718.76,Debit Card,Rohan Gupta
+ORD-00577,2025-09-08,CUST-0165,North,Dehradun,In-store,Home & Kitchen,Desk Lamp,2,2345.15,0.0,4690.3,2999.87,1690.43,Cash,Meera Patel
+ORD-00578,2025-02-09,CUST-0115,North,Lucknow,Online,Clothing,Backpack,2,4629.08,0.2,7406.53,4855.06,2551.47,Cash,Isha Jain
+ORD-00579,2025-04-29,CUST-0168,East,Kolkata,Online,Clothing,Cap,1,1888.4,0.1,1699.56,1471.62,227.94,UPI,Vivaan Kumar
+ORD-00580,2025-07-13,CUST-0001,West,Mumbai,Online,Sports,Skipping Rope,2,4596.27,0.2,7354.03,6526.01,828.02,Net Banking,Rohan Gupta
+ORD-00581,2025-10-04,CUST-0172,Central,Gwalior,In-store,Home & Kitchen,Electric Kettle,3,321.38,0.1,867.73,631.33,236.4,Debit Card,Ananya Das
+ORD-00582,2025-10-13,CUST-0144,North,Chandigarh,Marketplace,Clothing,Jacket,1,881.95,0.0,881.95,724.58,157.37,Net Banking,Isha Jain
+ORD-00583,2025-04-01,CUST-0195,East,Bhubaneswar,Marketplace,Electronics,Headphones,5,1936.34,0.15,8229.44,5916.86,2312.58,Credit Card,Aarav Sharma
+ORD-00584,2025-08-19,CUST-0134,East,Ranchi,In-store,Office Supplies,File Folder,4,1973.14,0.1,7103.3,6450.84,652.46,UPI,Aarav Sharma
+ORD-00585,2025-05-14,CUST-0191,South,Kochi,Marketplace,Home & Kitchen,Electric Kettle,3,7850.89,0.0,23552.67,16369.96,7182.71,Cash,Diya Verma
+ORD-00586,2025-05-03,CUST-0031,East,Guwahati,In-store,Home & Kitchen,Cookware Set,2,1301.93,0.2,2083.09,2176.95,-93.86,Credit Card,Isha Jain
+ORD-00587,2025-02-07,CUST-0012,South,Hyderabad,Marketplace,Electronics,Monitor,1,1546.86,0.1,1392.17,964.7,427.47,Net Banking,Diya Verma
+ORD-00588,2025-12-23,CUST-0035,West,Surat,In-store,Sports,Skipping Rope,4,5809.6,0.0,23238.4,15615.29,7623.11,UPI,Aarav Sharma
+ORD-00589,2025-09-22,CUST-0237,Central,Jabalpur,Marketplace,Sports,Football,1,1657.96,0.0,1657.96,1003.16,654.8,Credit Card,Kabir Singh
+ORD-00590,2025-02-03,CUST-0154,South,Bengaluru,Marketplace,Clothing,Cap,5,3627.63,0.0,18138.15,11890.82,6247.33,Debit Card,Vivaan Kumar
+ORD-00591,2025-12-27,CUST-0102,West,Indore,In-store,Home & Kitchen,Water Bottle,3,7451.33,0.1,20118.59,13475.6,6642.99,Debit Card,Isha Jain
+ORD-00592,2025-11-10,CUST-0180,South,Chennai,Marketplace,Clothing,Backpack,5,3630.91,0.2,14523.64,12044.47,2479.17,Net Banking,Rohan Gupta
+ORD-00593,2025-11-11,CUST-0056,Central,Nagpur,Online,Sports,Gym Bag,2,3425.9,0.2,5481.44,4726.59,754.85,Credit Card,Rohan Gupta
+ORD-00594,2025-03-10,CUST-0139,East,Patna,Marketplace,Home & Kitchen,Desk Lamp,2,7815.74,0.0,15631.48,9636.0,5995.48,Debit Card,Diya Verma
+ORD-00595,2025-07-25,CUST-0147,East,Guwahati,Marketplace,Clothing,Backpack,2,411.27,0.05,781.41,606.71,174.7,Cash,Rohan Gupta
+ORD-00596,2025-09-04,CUST-0007,West,Mumbai,In-store,Sports,Yoga Mat,1,2257.73,0.1,2031.96,1364.37,667.59,Credit Card,Aarav Sharma
+ORD-00597,2025-04-21,CUST-0074,North,Chandigarh,Marketplace,Office Supplies,Pen Set,2,900.94,0.05,1711.79,1205.97,505.82,Debit Card,Kabir Singh
+ORD-00598,2025-11-08,CUST-0009,North,Jaipur,In-store,Home & Kitchen,Desk Lamp,3,2986.2,0.0,8958.6,6298.11,2660.49,Cash,Diya Verma
+ORD-00599,2025-06-06,CUST-0166,Central,Gwalior,Marketplace,Home & Kitchen,Electric Kettle,1,1828.57,0.25,1371.43,973.66,397.77,Cash,Meera Patel
+ORD-00600,2025-02-15,CUST-0100,Central,Nagpur,In-store,Electronics,Monitor,1,32401.71,0.1,29161.54,19321.44,9840.1,Debit Card,Aarav Sharma
+ORD-00601,2025-04-19,CUST-0223,North,Jaipur,In-store,Home & Kitchen,Desk Lamp,1,6014.82,0.0,6014.82,4931.01,1083.81,Credit Card,Ananya Das
+ORD-00602,2025-09-17,CUST-0199,Central,Gwalior,Marketplace,Sports,Dumbbells,4,7317.73,0.0,29270.92,21904.83,7366.09,Credit Card,Rohan Gupta
+ORD-00603,2025-07-12,CUST-0247,West,Pune,Online,Electronics,Keyboard,2,64536.11,0.05,122618.61,88560.78,34057.83,Net Banking,Diya Verma
+ORD-00604,2025-03-06,CUST-0143,West,Mumbai,In-store,Clothing,Jacket,1,3826.1,0.2,3060.88,2740.23,320.65,Credit Card,Kabir Singh
+ORD-00605,2025-08-09,CUST-0120,Central,Nagpur,Marketplace,Electronics,Mouse,1,1411.05,0.25,1058.29,751.61,306.68,Credit Card,Aarav Sharma
+ORD-00606,2025-03-29,CUST-0199,South,Hyderabad,Marketplace,Sports,Yoga Mat,1,1388.17,0.2,1110.54,843.52,267.02,Net Banking,Rohan Gupta
+ORD-00607,2025-04-10,CUST-0019,West,Indore,Marketplace,Sports,Cricket Bat,1,490.44,0.0,490.44,314.45,175.99,Debit Card,Meera Patel
+ORD-00608,2025-05-04,CUST-0041,South,Coimbatore,In-store,Electronics,Laptop Stand,1,25343.32,0.25,19007.49,15837.94,3169.55,Net Banking,Vivaan Kumar
+ORD-00609,2025-03-24,CUST-0170,North,Jaipur,In-store,Home & Kitchen,Cookware Set,2,854.39,0.0,1708.78,1302.31,406.47,Debit Card,Ananya Das
+ORD-00610,2025-12-05,CUST-0122,East,Patna,Marketplace,Sports,Skipping Rope,1,11890.64,0.05,11296.11,8101.69,3194.42,UPI,Diya Verma
+ORD-00611,2025-01-13,CUST-0158,East,Bhubaneswar,Marketplace,Home & Kitchen,Electric Kettle,5,4324.82,0.05,20542.89,16536.43,4006.46,Credit Card,Aarav Sharma
+ORD-00612,2025-11-23,CUST-0066,East,Bhubaneswar,Marketplace,Electronics,Monitor,4,54955.57,0.1,197840.05,144861.07,52978.98,Debit Card,Aarav Sharma
+ORD-00613,2025-10-06,CUST-0115,Central,Nagpur,In-store,Sports,Skipping Rope,3,9225.82,0.2,22141.97,22622.38,-480.41,UPI,Rohan Gupta
+ORD-00614,2025-12-29,CUST-0243,South,Hyderabad,Online,Sports,Yoga Mat,1,1222.66,0.25,917.0,937.08,-20.08,Credit Card,Aarav Sharma
+ORD-00615,2025-02-18,CUST-0109,North,Chandigarh,Online,Home & Kitchen,Electric Kettle,1,882.18,0.15,749.85,676.16,73.69,Credit Card,Vivaan Kumar
+ORD-00616,2025-08-08,CUST-0184,North,Chandigarh,In-store,Electronics,Monitor,1,52049.88,0.2,41639.9,41337.77,302.13,UPI,Diya Verma
+ORD-00617,2025-12-24,CUST-0143,North,Delhi,Online,Home & Kitchen,Water Bottle,4,918.38,0.0,3673.52,1960.14,1713.38,Net Banking,Meera Patel
+ORD-00618,2025-04-07,CUST-0162,East,Bhubaneswar,In-store,Clothing,Sneakers,2,3247.87,0.1,5846.17,4194.14,1652.03,Cash,Ananya Das
+ORD-00619,2025-03-09,CUST-0002,North,Lucknow,Marketplace,Electronics,Laptop Stand,1,27919.12,0.25,20939.34,22502.75,-1563.41,Net Banking,Diya Verma
+ORD-00620,2025-04-30,CUST-0238,Central,Bhopal,Marketplace,Electronics,Mouse,1,27975.13,0.2,22380.1,19045.58,3334.52,UPI,Rohan Gupta
+ORD-00621,2025-05-17,CUST-0196,East,Guwahati,In-store,Electronics,Mouse,2,27444.44,0.0,54888.88,31208.53,23680.35,Cash,Vivaan Kumar
+ORD-00622,2025-07-26,CUST-0057,North,Lucknow,Online,Home & Kitchen,Desk Lamp,2,2912.65,0.15,4951.51,3799.79,1151.72,Cash,Rohan Gupta
+ORD-00623,2025-09-02,CUST-0142,South,Hyderabad,Marketplace,Office Supplies,Notebook,5,2063.3,0.0,10316.5,7955.17,2361.33,Credit Card,Diya Verma
+ORD-00624,2025-11-02,CUST-0101,North,Delhi,Marketplace,Sports,Skipping Rope,5,11614.36,0.15,49361.03,32838.05,16522.98,Net Banking,Diya Verma
+ORD-00625,2025-03-24,CUST-0106,East,Patna,Marketplace,Office Supplies,Pen Set,2,1325.62,0.0,2651.24,1874.25,776.99,Net Banking,Kabir Singh
+ORD-00626,2025-12-06,CUST-0214,South,Chennai,In-store,Home & Kitchen,Desk Lamp,4,2218.08,0.0,8872.32,4940.64,3931.68,Credit Card,Diya Verma
+ORD-00627,2025-04-05,CUST-0119,South,Coimbatore,Marketplace,Electronics,Laptop Stand,2,36869.13,0.2,58990.61,52451.05,6539.56,Net Banking,Diya Verma
+ORD-00628,2025-01-25,CUST-0051,East,Kolkata,Marketplace,Office Supplies,Notebook,1,2043.44,0.0,2043.44,1397.54,645.9,Net Banking,Isha Jain
+ORD-00629,2025-05-19,CUST-0168,East,Ranchi,Online,Home & Kitchen,Electric Kettle,1,2179.67,0.15,1852.72,1787.02,65.7,UPI,Rohan Gupta
+ORD-00630,2025-03-09,CUST-0125,Central,Bhopal,In-store,Home & Kitchen,Water Bottle,1,7173.62,0.0,7173.62,4472.36,2701.26,Debit Card,Rohan Gupta
+ORD-00631,2025-06-29,CUST-0094,Central,Raipur,In-store,Sports,Skipping Rope,1,7092.86,0.2,5674.29,4043.02,1631.27,Cash,Kabir Singh
+ORD-00632,2025-12-31,CUST-0183,North,Jaipur,Marketplace,Home & Kitchen,Cookware Set,2,967.59,0.2,1548.14,1288.27,259.87,Cash,Rohan Gupta
+ORD-00633,2025-10-09,CUST-0119,East,Patna,In-store,Office Supplies,Stapler,1,2183.88,0.1,1965.49,1196.95,768.54,Debit Card,Rohan Gupta
+ORD-00634,2025-12-06,CUST-0166,West,Indore,Marketplace,Electronics,Keyboard,5,7854.24,0.15,33380.52,32327.96,1052.56,UPI,Rohan Gupta
+ORD-00635,2025-09-07,CUST-0188,South,Coimbatore,Marketplace,Home & Kitchen,Water Bottle,1,2620.53,0.05,2489.5,1711.66,777.84,UPI,Diya Verma
+ORD-00636,2025-11-24,CUST-0149,North,Dehradun,In-store,Electronics,Laptop Stand,2,12757.92,0.1,22964.26,15336.51,7627.75,Net Banking,Meera Patel
+ORD-00637,2025-08-04,CUST-0229,North,Dehradun,Marketplace,Office Supplies,File Folder,2,1769.08,0.0,3538.16,2580.0,958.16,Cash,Kabir Singh
+ORD-00638,2025-08-28,CUST-0188,East,Bhubaneswar,In-store,Home & Kitchen,Desk Lamp,1,2811.27,0.15,2389.58,1546.44,843.14,Credit Card,Isha Jain
+ORD-00639,2025-05-27,CUST-0094,Central,Gwalior,Marketplace,Electronics,Monitor,5,61765.41,0.2,247061.64,174076.72,72984.92,UPI,Meera Patel
+ORD-00640,2025-05-15,CUST-0115,Central,Raipur,Online,Sports,Dumbbells,5,3909.92,0.25,14662.2,13526.28,1135.92,Credit Card,Kabir Singh
+ORD-00641,2025-06-21,CUST-0195,West,Ahmedabad,In-store,Electronics,Keyboard,4,19648.02,0.0,78592.08,47269.66,31322.42,Credit Card,Diya Verma
+ORD-00642,2025-03-13,CUST-0172,East,Ranchi,Online,Home & Kitchen,Mixer,1,3179.48,0.0,3179.48,1919.79,1259.69,Net Banking,Ananya Das
+ORD-00643,2025-03-31,CUST-0011,West,Surat,Marketplace,Clothing,T-Shirt,1,4463.28,0.05,4240.12,3083.46,1156.66,Debit Card,Diya Verma
+ORD-00644,2025-05-19,CUST-0140,Central,Nagpur,Marketplace,Office Supplies,File Folder,1,1934.21,0.0,1934.21,1369.43,564.78,Credit Card,Vivaan Kumar
+ORD-00645,2025-02-14,CUST-0230,West,Ahmedabad,Online,Sports,Gym Bag,1,11597.81,0.1,10438.03,8976.42,1461.61,Net Banking,Rohan Gupta
+ORD-00646,2025-06-06,CUST-0091,West,Pune,In-store,Sports,Football,5,798.75,0.15,3394.69,2969.2,425.49,Cash,Isha Jain
+ORD-00647,2025-01-07,CUST-0113,Central,Bhopal,Online,Sports,Dumbbells,4,11841.87,0.1,42630.73,33149.8,9480.93,Credit Card,Diya Verma
+ORD-00648,2025-10-02,CUST-0048,Central,Nagpur,Online,Home & Kitchen,Cookware Set,1,1143.53,0.15,972.0,780.41,191.59,Debit Card,Diya Verma
+ORD-00649,2025-08-07,CUST-0030,South,Kochi,In-store,Office Supplies,Whiteboard,4,1814.11,0.25,5442.33,5195.47,246.86,Cash,Isha Jain
+ORD-00650,2025-11-04,CUST-0214,South,Coimbatore,In-store,Home & Kitchen,Electric Kettle,3,6073.38,0.15,15487.12,14541.44,945.68,UPI,Meera Patel
+ORD-00651,2025-09-16,CUST-0042,North,Chandigarh,Online,Sports,Skipping Rope,1,533.52,0.1,480.17,424.31,55.86,Net Banking,Aarav Sharma
+ORD-00652,2025-06-03,CUST-0067,Central,Raipur,Online,Electronics,Keyboard,1,42321.65,0.1,38089.49,24554.74,13534.75,Net Banking,Vivaan Kumar
+ORD-00653,2025-04-23,CUST-0187,Central,Gwalior,Marketplace,Electronics,Webcam,3,22367.02,0.15,57035.9,36902.0,20133.9,Debit Card,Diya Verma
+ORD-00654,2025-10-06,CUST-0223,South,Kochi,In-store,Sports,Football,1,10667.54,0.15,9067.41,6229.14,2838.27,Credit Card,Meera Patel
+ORD-00655,2025-03-02,CUST-0211,West,Indore,Online,Home & Kitchen,Desk Lamp,1,2444.65,0.25,1833.49,1748.82,84.67,Net Banking,Rohan Gupta
+ORD-00656,2025-04-20,CUST-0152,South,Hyderabad,Online,Clothing,Backpack,3,2291.87,0.15,5844.27,3662.28,2181.99,Credit Card,Vivaan Kumar
+ORD-00657,2025-11-25,CUST-0052,West,Pune,Marketplace,Electronics,Headphones,2,47487.08,0.0,94974.16,71557.18,23416.98,Net Banking,Vivaan Kumar
+ORD-00658,2025-10-04,CUST-0122,South,Coimbatore,Marketplace,Electronics,Keyboard,1,61702.36,0.05,58617.24,41397.65,17219.59,Net Banking,Aarav Sharma
+ORD-00659,2025-02-03,CUST-0124,Central,Gwalior,Marketplace,Electronics,Headphones,4,31849.92,0.1,114659.71,87517.03,27142.68,Credit Card,Aarav Sharma
+ORD-00660,2025-08-07,CUST-0224,West,Indore,Online,Clothing,Jacket,1,3131.83,0.05,2975.24,2528.63,446.61,Net Banking,Vivaan Kumar
+ORD-00661,2025-05-24,CUST-0151,South,Kochi,Marketplace,Clothing,Jacket,4,6966.06,0.0,27864.24,16100.68,11763.56,Net Banking,Diya Verma
+ORD-00662,2025-04-15,CUST-0197,West,Pune,Online,Office Supplies,Stapler,2,893.26,0.0,1786.52,1028.77,757.75,UPI,Rohan Gupta
+ORD-00663,2025-08-13,CUST-0049,Central,Gwalior,Online,Clothing,Jacket,4,5395.72,0.1,19424.59,11448.2,7976.39,UPI,Diya Verma
+ORD-00664,2025-05-28,CUST-0053,Central,Bhopal,Marketplace,Clothing,Cap,5,655.45,0.0,3277.25,1788.36,1488.89,Debit Card,Vivaan Kumar
+ORD-00665,2025-05-01,CUST-0167,East,Kolkata,Marketplace,Home & Kitchen,Storage Box,2,2212.43,0.25,3318.64,2581.45,737.19,Debit Card,Rohan Gupta
+ORD-00666,2025-07-01,CUST-0157,Central,Jabalpur,In-store,Sports,Cricket Bat,1,6926.32,0.05,6580.0,4888.18,1691.82,Cash,Meera Patel
+ORD-00667,2025-04-23,CUST-0046,West,Indore,In-store,Sports,Football,1,4583.15,0.2,3666.52,3011.52,655.0,Net Banking,Isha Jain
+ORD-00668,2025-11-13,CUST-0199,East,Ranchi,Marketplace,Sports,Cricket Bat,1,8308.17,0.0,8308.17,5302.8,3005.37,Cash,Kabir Singh
+ORD-00669,2025-04-29,CUST-0244,North,Chandigarh,Online,Clothing,Cap,3,4060.67,0.0,12182.01,6604.16,5577.85,UPI,Meera Patel
+ORD-00670,2025-04-16,CUST-0158,Central,Jabalpur,Marketplace,Office Supplies,File Folder,1,1825.14,0.25,1368.86,1371.77,-2.91,UPI,Kabir Singh
+ORD-00671,2025-09-16,CUST-0121,West,Mumbai,Marketplace,Electronics,Keyboard,5,4782.69,0.25,17935.09,13115.5,4819.59,Cash,Diya Verma
+ORD-00672,2025-01-21,CUST-0021,North,Jaipur,Marketplace,Home & Kitchen,Water Bottle,4,336.49,0.25,1009.47,1067.56,-58.09,UPI,Vivaan Kumar
+ORD-00673,2025-10-08,CUST-0183,West,Indore,Marketplace,Sports,Cricket Bat,2,2892.97,0.1,5207.35,4481.6,725.75,UPI,Kabir Singh
+ORD-00674,2025-07-02,CUST-0218,West,Surat,Marketplace,Electronics,Keyboard,2,32033.94,0.0,64067.88,53593.39,10474.49,Net Banking,Rohan Gupta
+ORD-00675,2025-12-11,CUST-0133,South,Bengaluru,Marketplace,Sports,Skipping Rope,2,1886.54,0.2,3018.46,2538.71,479.75,Credit Card,Kabir Singh
+ORD-00676,2025-08-31,CUST-0001,North,Jaipur,Online,Home & Kitchen,Electric Kettle,1,7107.73,0.0,7107.73,5254.52,1853.21,UPI,Rohan Gupta
+ORD-00677,2025-01-23,CUST-0151,West,Ahmedabad,Online,Clothing,Sneakers,4,1990.56,0.05,7564.13,5468.96,2095.17,Net Banking,Aarav Sharma
+ORD-00678,2025-04-30,CUST-0186,North,Delhi,Marketplace,Sports,Cricket Bat,1,5600.51,0.05,5320.48,3459.74,1860.74,Net Banking,Ananya Das
+ORD-00679,2025-01-15,CUST-0247,East,Ranchi,Online,Home & Kitchen,Desk Lamp,4,2119.2,0.05,8052.96,6773.59,1279.37,Cash,Vivaan Kumar
+ORD-00680,2025-02-18,CUST-0105,Central,Bhopal,Marketplace,Office Supplies,Pen Set,1,1513.26,0.15,1286.27,1122.89,163.38,UPI,Diya Verma
+ORD-00681,2025-06-09,CUST-0206,Central,Nagpur,Marketplace,Office Supplies,Notebook,1,2122.21,0.0,2122.21,1109.4,1012.81,Debit Card,Rohan Gupta
+ORD-00682,2025-10-06,CUST-0198,West,Surat,Online,Sports,Football,1,662.28,0.05,629.17,553.6,75.57,Debit Card,Isha Jain
+ORD-00683,2025-02-08,CUST-0030,West,Indore,In-store,Electronics,Monitor,1,3394.78,0.2,2715.82,2408.54,307.28,UPI,Vivaan Kumar
+ORD-00684,2025-05-12,CUST-0245,South,Chennai,In-store,Office Supplies,Stapler,1,1895.07,0.2,1516.06,992.07,523.99,Net Banking,Aarav Sharma
+ORD-00685,2025-12-21,CUST-0103,East,Patna,Marketplace,Office Supplies,Notebook,1,1496.07,0.25,1122.05,868.67,253.38,Debit Card,Diya Verma
+ORD-00686,2025-07-22,CUST-0091,Central,Raipur,Online,Clothing,Jacket,1,1042.7,0.05,990.56,741.22,249.34,Net Banking,Rohan Gupta
+ORD-00687,2025-06-20,CUST-0052,South,Chennai,Online,Clothing,Cap,3,5587.44,0.2,13409.86,13038.52,371.34,Credit Card,Rohan Gupta
+ORD-00688,2025-07-22,CUST-0215,South,Chennai,Marketplace,Home & Kitchen,Cookware Set,5,2091.05,0.1,9409.73,6431.78,2977.95,Debit Card,Kabir Singh
+ORD-00689,2025-07-16,CUST-0245,North,Delhi,Marketplace,Electronics,Webcam,2,21771.16,0.25,32656.74,36221.5,-3564.76,Cash,Aarav Sharma
+ORD-00690,2025-07-16,CUST-0159,Central,Bhopal,In-store,Clothing,Jacket,3,3035.01,0.0,9105.03,6153.88,2951.15,Cash,Rohan Gupta
+ORD-00691,2025-12-23,CUST-0102,West,Pune,Online,Sports,Cricket Bat,2,1376.72,0.0,2753.44,1491.15,1262.29,Net Banking,Kabir Singh
+ORD-00692,2025-02-15,CUST-0241,North,Dehradun,Marketplace,Clothing,Sneakers,2,6533.94,0.2,10454.3,7623.2,2831.1,UPI,Ananya Das
+ORD-00693,2025-02-25,CUST-0179,West,Pune,Marketplace,Clothing,T-Shirt,4,5404.18,0.0,21616.72,16260.62,5356.1,Cash,Ananya Das
+ORD-00694,2025-09-10,CUST-0149,North,Delhi,Online,Home & Kitchen,Storage Box,5,688.67,0.0,3443.35,2486.52,956.83,Debit Card,Ananya Das
+ORD-00695,2025-11-22,CUST-0068,Central,Nagpur,Online,Home & Kitchen,Desk Lamp,1,6095.19,0.2,4876.15,4312.81,563.34,Debit Card,Isha Jain
+ORD-00696,2025-09-12,CUST-0128,Central,Nagpur,In-store,Office Supplies,Pen Set,3,819.71,0.25,1844.35,2031.81,-187.46,Credit Card,Vivaan Kumar
+ORD-00697,2025-05-31,CUST-0116,East,Ranchi,Online,Clothing,Jacket,1,4195.15,0.15,3565.88,3196.53,369.35,Net Banking,Kabir Singh
+ORD-00698,2025-02-28,CUST-0070,Central,Raipur,Online,Electronics,Webcam,2,64849.55,0.1,116729.19,75844.1,40885.09,Net Banking,Vivaan Kumar
+ORD-00699,2025-11-02,CUST-0039,West,Pune,In-store,Home & Kitchen,Electric Kettle,1,4384.59,0.1,3946.13,2348.84,1597.29,UPI,Kabir Singh
+ORD-00700,2025-08-01,CUST-0133,West,Surat,Marketplace,Home & Kitchen,Electric Kettle,2,3323.57,0.2,5317.71,4701.26,616.45,Debit Card,Isha Jain
+ORD-00701,2025-03-11,CUST-0013,East,Ranchi,In-store,Sports,Skipping Rope,2,7922.27,0.2,12675.63,12245.89,429.74,UPI,Kabir Singh
+ORD-00702,2025-07-16,CUST-0215,North,Chandigarh,Marketplace,Office Supplies,Stapler,3,1569.41,0.25,3531.17,3361.6,169.57,UPI,Isha Jain
+ORD-00703,2025-11-05,CUST-0144,East,Ranchi,Marketplace,Office Supplies,Printer Paper,1,270.96,0.0,270.96,216.59,54.37,Debit Card,Ananya Das
+ORD-00704,2025-02-02,CUST-0223,North,Lucknow,Marketplace,Electronics,Mouse,2,44298.83,0.05,84167.78,62862.52,21305.26,Net Banking,Meera Patel
+ORD-00705,2025-11-25,CUST-0200,Central,Gwalior,In-store,Sports,Dumbbells,1,2738.68,0.2,2190.94,1944.21,246.73,Debit Card,Ananya Das
+ORD-00706,2025-05-04,CUST-0098,Central,Jabalpur,Marketplace,Clothing,T-Shirt,4,4221.27,0.05,16040.83,11191.43,4849.4,Debit Card,Isha Jain
+ORD-00707,2025-05-16,CUST-0162,South,Chennai,Marketplace,Office Supplies,Stapler,1,2162.99,0.2,1730.39,1379.63,350.76,Net Banking,Vivaan Kumar
+ORD-00708,2025-02-22,CUST-0059,North,Delhi,In-store,Home & Kitchen,Water Bottle,2,545.48,0.2,872.77,634.69,238.08,Debit Card,Rohan Gupta
+ORD-00709,2025-05-20,CUST-0228,East,Guwahati,In-store,Clothing,Jacket,5,2739.01,0.25,10271.29,8150.59,2120.7,Debit Card,Isha Jain
+ORD-00710,2025-05-04,CUST-0033,West,Pune,Marketplace,Home & Kitchen,Mixer,2,980.14,0.0,1960.28,1531.04,429.24,Credit Card,Rohan Gupta
+ORD-00711,2025-10-20,CUST-0027,North,Chandigarh,Online,Home & Kitchen,Storage Box,4,3159.24,0.2,10109.57,7019.36,3090.21,UPI,Isha Jain
+ORD-00712,2025-12-17,CUST-0135,Central,Bhopal,Online,Electronics,Monitor,4,39758.55,0.25,119275.65,103162.97,16112.68,UPI,Rohan Gupta
+ORD-00713,2025-12-07,CUST-0239,Central,Raipur,In-store,Electronics,Webcam,5,3785.89,0.25,14197.09,13006.15,1190.94,Debit Card,Meera Patel
+ORD-00714,2025-03-19,CUST-0033,South,Hyderabad,Online,Clothing,Cap,5,3955.32,0.15,16810.11,15469.74,1340.37,Net Banking,Kabir Singh
+ORD-00715,2025-08-17,CUST-0222,North,Delhi,In-store,Office Supplies,Printer Paper,1,1256.53,0.0,1256.53,1035.58,220.95,Cash,Rohan Gupta
+ORD-00716,2025-04-12,CUST-0139,Central,Jabalpur,Online,Home & Kitchen,Electric Kettle,3,6658.83,0.2,15981.19,10728.65,5252.54,Net Banking,Isha Jain
+ORD-00717,2025-01-21,CUST-0164,Central,Jabalpur,Marketplace,Sports,Gym Bag,3,11290.18,0.25,25402.9,24574.48,828.42,Debit Card,Ananya Das
+ORD-00718,2025-06-03,CUST-0114,West,Indore,In-store,Home & Kitchen,Mixer,2,3781.41,0.15,6428.4,4221.74,2206.66,Debit Card,Vivaan Kumar
+ORD-00719,2025-04-26,CUST-0001,East,Patna,Marketplace,Office Supplies,Notebook,3,259.95,0.0,779.85,441.91,337.94,Credit Card,Ananya Das
+ORD-00720,2025-07-20,CUST-0177,East,Bhubaneswar,In-store,Sports,Yoga Mat,4,2797.71,0.25,8393.13,6589.64,1803.49,Cash,Rohan Gupta
+ORD-00721,2025-10-22,CUST-0060,North,Lucknow,Online,Office Supplies,File Folder,2,424.75,0.1,764.55,611.96,152.59,Net Banking,Ananya Das
+ORD-00722,2025-02-25,CUST-0102,South,Kochi,Online,Sports,Football,1,10955.24,0.1,9859.72,8898.93,960.79,Credit Card,Vivaan Kumar
+ORD-00723,2025-04-04,CUST-0109,West,Pune,Marketplace,Office Supplies,Notebook,5,2258.18,0.2,9032.72,8111.91,920.81,Credit Card,Rohan Gupta
+ORD-00724,2025-09-10,CUST-0049,East,Guwahati,Online,Office Supplies,Stapler,3,1605.25,0.1,4334.18,2529.59,1804.59,Credit Card,Kabir Singh
+ORD-00725,2025-03-05,CUST-0116,East,Kolkata,In-store,Clothing,Backpack,5,6715.03,0.15,28538.88,21512.61,7026.27,Net Banking,Isha Jain
+ORD-00726,2025-07-06,CUST-0013,South,Hyderabad,Marketplace,Electronics,Keyboard,4,1299.62,0.2,4158.78,3546.93,611.85,UPI,Kabir Singh
+ORD-00727,2025-10-31,CUST-0184,North,Jaipur,In-store,Office Supplies,Pen Set,2,1103.73,0.05,2097.09,1520.53,576.56,UPI,Meera Patel
+ORD-00728,2025-12-21,CUST-0056,North,Chandigarh,In-store,Electronics,Monitor,1,24705.44,0.0,24705.44,14213.95,10491.49,Cash,Rohan Gupta
+ORD-00729,2025-07-20,CUST-0203,West,Ahmedabad,Online,Clothing,Cap,5,2373.73,0.05,11275.22,8067.95,3207.27,Debit Card,Diya Verma
+ORD-00730,2025-12-13,CUST-0019,South,Bengaluru,Marketplace,Office Supplies,Stapler,2,1616.48,0.2,2586.37,1976.21,610.16,Cash,Kabir Singh
+ORD-00731,2025-03-28,CUST-0032,South,Hyderabad,Marketplace,Clothing,T-Shirt,5,4910.85,0.0,24554.25,16411.82,8142.43,Credit Card,Vivaan Kumar
+ORD-00732,2025-08-14,CUST-0118,West,Pune,Marketplace,Electronics,Keyboard,1,2499.16,0.2,1999.33,1842.03,157.3,UPI,Meera Patel
+ORD-00733,2025-09-05,CUST-0041,West,Surat,Marketplace,Office Supplies,Printer Paper,1,1871.89,0.1,1684.7,1210.63,474.07,UPI,Diya Verma
+ORD-00734,2025-02-06,CUST-0093,East,Bhubaneswar,Online,Office Supplies,Pen Set,2,122.31,0.2,195.7,178.47,17.23,Credit Card,Diya Verma
+ORD-00735,2025-08-29,CUST-0043,South,Kochi,In-store,Office Supplies,Notebook,2,2488.98,0.0,4977.96,3784.86,1193.1,Net Banking,Diya Verma
+ORD-00736,2025-07-18,CUST-0149,West,Pune,Marketplace,Electronics,Headphones,2,53826.98,0.05,102271.26,77335.71,24935.55,Cash,Kabir Singh
+ORD-00737,2025-12-06,CUST-0128,East,Kolkata,Online,Home & Kitchen,Cookware Set,4,5619.29,0.25,16857.87,18349.87,-1492.0,Net Banking,Ananya Das
+ORD-00738,2025-11-02,CUST-0040,North,Delhi,Marketplace,Office Supplies,Whiteboard,1,84.52,0.05,80.29,46.03,34.26,Net Banking,Diya Verma
+ORD-00739,2025-08-08,CUST-0143,South,Kochi,Marketplace,Home & Kitchen,Water Bottle,1,1677.83,0.0,1677.83,1051.99,625.84,Debit Card,Isha Jain
+ORD-00740,2025-06-14,CUST-0186,South,Bengaluru,Online,Clothing,Jacket,2,1328.75,0.0,2657.5,1724.08,933.42,Debit Card,Aarav Sharma
+ORD-00741,2025-10-12,CUST-0139,West,Surat,Marketplace,Sports,Cricket Bat,3,9235.17,0.25,20779.13,15509.86,5269.27,Cash,Meera Patel
+ORD-00742,2025-11-30,CUST-0083,Central,Raipur,Marketplace,Sports,Cricket Bat,3,3615.15,0.2,8676.36,5947.59,2728.77,Cash,Rohan Gupta
+ORD-00743,2025-07-27,CUST-0136,Central,Gwalior,Online,Home & Kitchen,Mixer,5,3343.82,0.25,12539.33,10893.92,1645.41,Cash,Rohan Gupta
+ORD-00744,2025-06-16,CUST-0001,East,Guwahati,Marketplace,Office Supplies,Stapler,5,1675.14,0.1,7538.13,6374.81,1163.32,Net Banking,Vivaan Kumar
+ORD-00745,2025-06-18,CUST-0199,South,Bengaluru,Marketplace,Sports,Cricket Bat,1,475.82,0.0,475.82,282.84,192.98,Credit Card,Ananya Das
+ORD-00746,2025-05-09,CUST-0135,North,Dehradun,Marketplace,Clothing,Jeans,2,4729.16,0.0,9458.32,7601.9,1856.42,Cash,Kabir Singh
+ORD-00747,2025-04-24,CUST-0165,Central,Nagpur,In-store,Office Supplies,Stapler,2,2051.76,0.1,3693.17,2489.87,1203.3,UPI,Diya Verma
+ORD-00748,2025-03-14,CUST-0046,Central,Bhopal,Online,Electronics,Keyboard,4,32379.76,0.05,123043.09,103030.27,20012.82,Credit Card,Diya Verma
+ORD-00749,2025-05-09,CUST-0147,West,Pune,Marketplace,Electronics,Headphones,5,53587.86,0.25,200954.47,221604.77,-20650.3,Cash,Isha Jain
+ORD-00750,2025-12-07,CUST-0013,Central,Gwalior,In-store,Sports,Cricket Bat,5,2817.2,0.15,11973.1,9899.47,2073.63,Credit Card,Diya Verma
+ORD-00751,2025-05-07,CUST-0120,North,Chandigarh,Marketplace,Clothing,T-Shirt,3,3072.97,0.1,8297.02,5645.08,2651.94,UPI,Ananya Das
+ORD-00752,2025-01-31,CUST-0015,Central,Jabalpur,Marketplace,Office Supplies,Whiteboard,1,618.46,0.25,463.85,419.87,43.98,Debit Card,Aarav Sharma
+ORD-00753,2025-09-13,CUST-0246,North,Jaipur,Marketplace,Electronics,Keyboard,2,57760.63,0.15,98193.07,75914.77,22278.3,UPI,Diya Verma
+ORD-00754,2025-03-18,CUST-0050,South,Coimbatore,Marketplace,Clothing,Jeans,2,3357.93,0.15,5708.48,5260.8,447.68,Credit Card,Kabir Singh
+ORD-00755,2025-10-29,CUST-0028,Central,Gwalior,Marketplace,Clothing,Cap,3,1549.0,0.2,3717.6,3271.29,446.31,Net Banking,Ananya Das
+ORD-00756,2025-04-17,CUST-0203,West,Surat,Online,Electronics,Keyboard,4,56158.75,0.0,224635.0,180183.67,44451.33,Net Banking,Vivaan Kumar
+ORD-00757,2025-01-02,CUST-0154,Central,Nagpur,In-store,Home & Kitchen,Desk Lamp,5,5875.87,0.2,23503.48,23234.06,269.42,Debit Card,Ananya Das
+ORD-00758,2025-06-03,CUST-0196,Central,Nagpur,Marketplace,Office Supplies,Stapler,3,2482.89,0.0,7448.67,5813.34,1635.33,Cash,Ananya Das
+ORD-00759,2025-11-29,CUST-0055,Central,Raipur,In-store,Sports,Skipping Rope,1,8960.5,0.1,8064.45,5790.42,2274.03,Net Banking,Rohan Gupta
+ORD-00760,2025-02-08,CUST-0001,East,Bhubaneswar,Marketplace,Clothing,Sneakers,5,4045.17,0.1,18203.26,11978.72,6224.54,UPI,Rohan Gupta
+ORD-00761,2025-11-30,CUST-0228,Central,Bhopal,In-store,Sports,Dumbbells,3,10104.28,0.05,28797.2,18148.72,10648.48,UPI,Rohan Gupta
+ORD-00762,2025-10-22,CUST-0198,South,Chennai,Marketplace,Office Supplies,Notebook,2,1239.19,0.1,2230.54,1998.7,231.84,Debit Card,Kabir Singh
+ORD-00763,2025-05-23,CUST-0040,North,Delhi,Online,Clothing,Jacket,3,676.78,0.15,1725.79,1454.88,270.91,Debit Card,Ananya Das
+ORD-00764,2025-05-26,CUST-0208,Central,Raipur,In-store,Home & Kitchen,Water Bottle,2,3661.11,0.0,7322.22,4913.22,2409.0,UPI,Vivaan Kumar
+ORD-00765,2025-02-14,CUST-0084,Central,Raipur,In-store,Electronics,Webcam,1,38038.94,0.1,34235.05,29735.32,4499.73,Credit Card,Isha Jain
+ORD-00766,2025-05-05,CUST-0077,Central,Bhopal,Online,Sports,Gym Bag,2,8973.21,0.0,17946.42,13929.74,4016.68,Net Banking,Vivaan Kumar
+ORD-00767,2025-02-01,CUST-0226,North,Delhi,In-store,Office Supplies,Printer Paper,1,2137.05,0.0,2137.05,1306.38,830.67,Cash,Diya Verma
+ORD-00768,2025-03-29,CUST-0200,South,Coimbatore,Marketplace,Electronics,Webcam,2,48176.61,0.05,91535.56,70805.08,20730.48,Cash,Aarav Sharma
+ORD-00769,2025-03-02,CUST-0139,East,Guwahati,Marketplace,Electronics,Mouse,2,16955.54,0.1,30519.97,21771.54,8748.43,Credit Card,Ananya Das
+ORD-00770,2025-12-27,CUST-0173,Central,Raipur,Marketplace,Home & Kitchen,Mixer,5,7024.55,0.0,35122.75,28096.52,7026.23,Cash,Isha Jain
+ORD-00771,2025-07-18,CUST-0057,Central,Gwalior,In-store,Sports,Yoga Mat,4,2073.81,0.2,6636.19,5357.54,1278.65,Debit Card,Vivaan Kumar
+ORD-00772,2025-09-09,CUST-0122,South,Chennai,Marketplace,Office Supplies,Notebook,1,2179.42,0.2,1743.54,1504.84,238.7,UPI,Vivaan Kumar
+ORD-00773,2025-07-24,CUST-0112,East,Kolkata,Marketplace,Clothing,Backpack,3,2837.48,0.2,6809.95,5702.4,1107.55,Credit Card,Kabir Singh
+ORD-00774,2025-03-25,CUST-0102,West,Indore,Marketplace,Home & Kitchen,Storage Box,3,7156.0,0.05,20394.6,12333.91,8060.69,Net Banking,Meera Patel
+ORD-00775,2025-01-27,CUST-0063,Central,Gwalior,Online,Sports,Dumbbells,4,7749.36,0.25,23248.08,18595.19,4652.89,Debit Card,Vivaan Kumar
+ORD-00776,2025-11-11,CUST-0172,East,Guwahati,In-store,Electronics,Headphones,1,9497.68,0.0,9497.68,5626.87,3870.81,Cash,Ananya Das
+ORD-00777,2025-05-28,CUST-0153,East,Patna,Marketplace,Office Supplies,Printer Paper,2,1267.88,0.25,1901.82,1770.15,131.67,UPI,Rohan Gupta
+ORD-00778,2025-10-22,CUST-0160,South,Hyderabad,Online,Sports,Football,1,6196.24,0.25,4647.18,3926.5,720.68,Cash,Aarav Sharma
+ORD-00779,2025-04-03,CUST-0194,South,Chennai,Marketplace,Office Supplies,Pen Set,2,1037.65,0.0,2075.3,1600.28,475.02,UPI,Diya Verma
+ORD-00780,2025-05-24,CUST-0223,North,Chandigarh,In-store,Sports,Dumbbells,3,1726.29,0.0,5178.87,4172.77,1006.1,UPI,Ananya Das
+ORD-00781,2025-03-14,CUST-0006,North,Jaipur,In-store,Clothing,Sneakers,3,218.41,0.05,622.47,410.77,211.7,Credit Card,Meera Patel
+ORD-00782,2025-06-17,CUST-0141,South,Coimbatore,In-store,Sports,Cricket Bat,2,3337.34,0.15,5673.48,3858.55,1814.93,Net Banking,Kabir Singh
+ORD-00783,2025-02-04,CUST-0135,North,Lucknow,Online,Sports,Gym Bag,1,6402.54,0.15,5442.16,3520.08,1922.08,Debit Card,Kabir Singh
+ORD-00784,2025-03-05,CUST-0159,North,Jaipur,In-store,Home & Kitchen,Electric Kettle,2,6778.61,0.1,12201.5,10367.75,1833.75,UPI,Isha Jain
+ORD-00785,2025-03-06,CUST-0070,North,Delhi,Marketplace,Clothing,Cap,2,2651.84,0.2,4242.94,3074.71,1168.23,Debit Card,Diya Verma
+ORD-00786,2025-01-13,CUST-0098,North,Jaipur,Marketplace,Clothing,Jeans,1,3579.78,0.25,2684.84,2119.57,565.27,UPI,Ananya Das
+ORD-00787,2025-02-09,CUST-0048,West,Indore,Online,Sports,Yoga Mat,2,8715.75,0.2,13945.2,13984.68,-39.48,Net Banking,Isha Jain
+ORD-00788,2025-11-14,CUST-0237,Central,Bhopal,Marketplace,Electronics,Keyboard,1,51939.86,0.25,38954.9,38617.14,337.76,Debit Card,Ananya Das
+ORD-00789,2025-06-09,CUST-0089,West,Surat,Marketplace,Home & Kitchen,Mixer,2,5442.1,0.1,9795.78,8860.99,934.79,Debit Card,Ananya Das
+ORD-00790,2025-04-26,CUST-0208,East,Patna,Online,Sports,Cricket Bat,3,1296.21,0.15,3305.34,2112.25,1193.09,Debit Card,Vivaan Kumar
+ORD-00791,2025-02-02,CUST-0039,North,Dehradun,In-store,Office Supplies,Pen Set,2,2363.12,0.1,4253.62,3729.75,523.87,Cash,Kabir Singh
+ORD-00792,2025-03-01,CUST-0157,North,Lucknow,Marketplace,Sports,Gym Bag,3,11892.9,0.0,35678.7,27681.11,7997.59,Credit Card,Vivaan Kumar
+ORD-00793,2025-03-22,CUST-0249,South,Coimbatore,In-store,Home & Kitchen,Storage Box,1,7116.27,0.0,7116.27,4508.24,2608.03,Net Banking,Ananya Das
+ORD-00794,2025-07-07,CUST-0168,West,Indore,Online,Home & Kitchen,Cookware Set,4,5241.48,0.1,18869.33,12644.91,6224.42,Net Banking,Meera Patel
+ORD-00795,2025-10-15,CUST-0111,South,Hyderabad,Online,Sports,Dumbbells,2,1709.13,0.0,3418.26,2475.14,943.12,Net Banking,Kabir Singh
+ORD-00796,2025-03-21,CUST-0243,East,Kolkata,Marketplace,Sports,Skipping Rope,1,4281.79,0.05,4067.7,3174.53,893.17,UPI,Kabir Singh
+ORD-00797,2025-07-31,CUST-0226,East,Patna,In-store,Electronics,Mouse,3,44801.8,0.1,120964.86,86467.37,34497.49,Cash,Rohan Gupta
+ORD-00798,2025-01-28,CUST-0028,West,Ahmedabad,Online,Home & Kitchen,Cookware Set,5,6711.52,0.15,28523.96,25394.58,3129.38,Credit Card,Aarav Sharma
+ORD-00799,2025-01-30,CUST-0146,Central,Gwalior,Marketplace,Office Supplies,File Folder,4,2471.35,0.2,7908.32,7123.07,785.25,Credit Card,Meera Patel
+ORD-00800,2025-09-06,CUST-0177,South,Bengaluru,In-store,Office Supplies,Notebook,2,896.16,0.1,1613.09,1373.86,239.23,Credit Card,Isha Jain
+ORD-00801,2025-08-11,CUST-0122,East,Patna,Online,Clothing,Sneakers,1,6987.95,0.1,6289.15,4966.16,1322.99,Credit Card,Meera Patel
+ORD-00802,2025-03-31,CUST-0237,South,Bengaluru,In-store,Clothing,T-Shirt,1,1009.36,0.0,1009.36,631.06,378.3,Cash,Meera Patel
+ORD-00803,2025-11-26,CUST-0238,South,Chennai,In-store,Electronics,Keyboard,4,47651.43,0.0,190605.72,101857.52,88748.2,Net Banking,Isha Jain
+ORD-00804,2025-09-11,CUST-0104,East,Bhubaneswar,Online,Home & Kitchen,Storage Box,1,7004.93,0.0,7004.93,3732.11,3272.82,Net Banking,Vivaan Kumar
+ORD-00805,2025-07-10,CUST-0147,East,Bhubaneswar,Marketplace,Sports,Gym Bag,2,436.68,0.1,786.02,620.92,165.1,Net Banking,Aarav Sharma
+ORD-00806,2025-12-04,CUST-0212,Central,Bhopal,Online,Clothing,Sneakers,1,3155.31,0.0,3155.31,1931.36,1223.95,Credit Card,Vivaan Kumar
+ORD-00807,2025-11-17,CUST-0196,North,Dehradun,Marketplace,Clothing,Backpack,2,4818.19,0.0,9636.38,8035.22,1601.16,UPI,Meera Patel
+ORD-00808,2025-06-19,CUST-0199,East,Bhubaneswar,In-store,Clothing,Jacket,5,5225.71,0.0,26128.55,15426.24,10702.31,Cash,Kabir Singh
+ORD-00809,2025-02-17,CUST-0177,West,Ahmedabad,Marketplace,Sports,Yoga Mat,2,9768.94,0.2,15630.3,12980.75,2649.55,Credit Card,Isha Jain
+ORD-00810,2025-10-29,CUST-0047,West,Mumbai,Marketplace,Sports,Yoga Mat,1,5607.31,0.0,5607.31,4142.85,1464.46,Net Banking,Kabir Singh
+ORD-00811,2025-06-30,CUST-0007,West,Surat,Online,Office Supplies,Stapler,5,1615.06,0.15,6864.0,5159.69,1704.31,Cash,Meera Patel
+ORD-00812,2025-10-15,CUST-0178,West,Mumbai,Marketplace,Office Supplies,Printer Paper,1,133.24,0.0,133.24,87.75,45.49,Credit Card,Diya Verma
+ORD-00813,2025-10-04,CUST-0093,North,Delhi,Online,Clothing,Cap,4,3180.02,0.0,12720.08,9007.13,3712.95,Net Banking,Vivaan Kumar
+ORD-00814,2025-01-24,CUST-0141,Central,Gwalior,In-store,Home & Kitchen,Storage Box,1,1975.54,0.15,1679.21,1512.48,166.73,UPI,Kabir Singh
+ORD-00815,2025-04-12,CUST-0223,East,Guwahati,Online,Home & Kitchen,Cookware Set,2,3105.29,0.05,5900.05,4849.31,1050.74,Credit Card,Aarav Sharma
+ORD-00816,2025-10-04,CUST-0197,West,Ahmedabad,In-store,Office Supplies,Whiteboard,2,815.68,0.1,1468.22,1338.78,129.44,Debit Card,Kabir Singh
+ORD-00817,2025-03-14,CUST-0160,North,Chandigarh,In-store,Home & Kitchen,Mixer,5,5337.82,0.1,24020.19,17789.01,6231.18,UPI,Isha Jain
+ORD-00818,2025-07-11,CUST-0156,West,Surat,In-store,Sports,Yoga Mat,3,5031.68,0.15,12830.78,9384.15,3446.63,Credit Card,Meera Patel
+ORD-00819,2025-11-01,CUST-0114,Central,Jabalpur,Online,Clothing,Sneakers,2,908.9,0.05,1726.91,1184.01,542.9,Net Banking,Aarav Sharma
+ORD-00820,2025-12-06,CUST-0161,South,Coimbatore,Marketplace,Office Supplies,File Folder,1,1401.2,0.05,1331.14,744.87,586.27,Credit Card,Aarav Sharma
+ORD-00821,2025-01-07,CUST-0090,South,Chennai,Online,Electronics,Webcam,5,40584.07,0.1,182628.32,121722.87,60905.45,Credit Card,Aarav Sharma
+ORD-00822,2025-03-21,CUST-0236,Central,Gwalior,Online,Office Supplies,Printer Paper,1,313.84,0.25,235.38,190.77,44.61,UPI,Diya Verma
+ORD-00823,2025-07-16,CUST-0073,West,Pune,Marketplace,Home & Kitchen,Electric Kettle,1,3300.25,0.1,2970.22,1887.08,1083.14,Net Banking,Kabir Singh
+ORD-00824,2025-07-20,CUST-0024,West,Indore,In-store,Office Supplies,Notebook,1,252.04,0.05,239.44,157.6,81.84,Debit Card,Ananya Das
+ORD-00825,2025-05-30,CUST-0017,West,Mumbai,In-store,Clothing,Backpack,1,3929.1,0.0,3929.1,3226.72,702.38,Cash,Kabir Singh
+ORD-00826,2025-02-16,CUST-0106,North,Jaipur,Marketplace,Office Supplies,File Folder,1,288.6,0.15,245.31,163.61,81.7,Credit Card,Meera Patel
+ORD-00827,2025-08-24,CUST-0187,Central,Bhopal,Marketplace,Electronics,Laptop Stand,2,63792.34,0.15,108446.98,106628.06,1818.92,Net Banking,Diya Verma
+ORD-00828,2025-12-22,CUST-0156,West,Indore,In-store,Office Supplies,Stapler,2,239.33,0.05,454.73,280.15,174.58,Debit Card,Ananya Das
+ORD-00829,2025-02-15,CUST-0134,South,Coimbatore,Marketplace,Sports,Football,2,7514.55,0.05,14277.65,12293.77,1983.88,Cash,Isha Jain
+ORD-00830,2025-12-30,CUST-0075,South,Coimbatore,Online,Home & Kitchen,Electric Kettle,2,1321.44,0.05,2510.74,1694.93,815.81,UPI,Diya Verma
+ORD-00831,2025-08-05,CUST-0218,North,Lucknow,Online,Electronics,Webcam,1,42345.98,0.25,31759.49,34525.38,-2765.89,Net Banking,Vivaan Kumar
+ORD-00832,2025-09-15,CUST-0144,West,Mumbai,Marketplace,Office Supplies,Printer Paper,1,1428.17,0.15,1213.94,810.83,403.11,Credit Card,Aarav Sharma
+ORD-00833,2025-02-13,CUST-0079,South,Hyderabad,In-store,Office Supplies,Notebook,1,1342.8,0.15,1141.38,764.85,376.53,Net Banking,Ananya Das
+ORD-00834,2025-11-08,CUST-0102,North,Delhi,Marketplace,Office Supplies,Printer Paper,2,625.42,0.0,1250.84,664.23,586.61,Net Banking,Aarav Sharma
+ORD-00835,2025-07-22,CUST-0237,South,Chennai,Marketplace,Office Supplies,Printer Paper,4,1777.98,0.25,5333.94,4064.71,1269.23,Cash,Isha Jain
+ORD-00836,2025-01-22,CUST-0161,North,Chandigarh,In-store,Clothing,Jeans,1,4784.18,0.15,4066.55,3390.71,675.84,Net Banking,Ananya Das
+ORD-00837,2025-06-23,CUST-0077,West,Surat,Marketplace,Electronics,Laptop Stand,2,44618.01,0.15,75850.62,66313.99,9536.63,Debit Card,Aarav Sharma
+ORD-00838,2025-03-17,CUST-0017,South,Coimbatore,Online,Office Supplies,Printer Paper,1,1493.85,0.15,1269.77,1046.0,223.77,Debit Card,Aarav Sharma
+ORD-00839,2025-10-15,CUST-0147,East,Bhubaneswar,Marketplace,Sports,Dumbbells,5,10594.7,0.15,45027.47,32997.56,12029.91,Cash,Kabir Singh
+ORD-00840,2025-03-31,CUST-0220,Central,Bhopal,In-store,Office Supplies,Whiteboard,2,233.0,0.25,349.5,243.99,105.51,UPI,Rohan Gupta
+ORD-00841,2025-02-17,CUST-0096,West,Mumbai,In-store,Clothing,Jeans,4,6909.06,0.0,27636.24,15862.27,11773.97,Debit Card,Meera Patel
+ORD-00842,2025-06-02,CUST-0096,Central,Nagpur,Online,Home & Kitchen,Mixer,4,2376.27,0.2,7604.06,5929.36,1674.7,Credit Card,Diya Verma
+ORD-00843,2025-08-26,CUST-0232,West,Indore,Marketplace,Electronics,Monitor,1,51993.63,0.25,38995.22,29591.91,9403.31,Credit Card,Meera Patel
+ORD-00844,2025-02-24,CUST-0199,East,Bhubaneswar,In-store,Sports,Cricket Bat,5,9342.6,0.0,46713.0,37944.13,8768.87,Credit Card,Diya Verma
+ORD-00845,2025-09-09,CUST-0010,Central,Raipur,In-store,Home & Kitchen,Electric Kettle,1,4215.35,0.05,4004.58,2207.91,1796.67,Cash,Diya Verma
+ORD-00846,2025-11-30,CUST-0218,North,Jaipur,Marketplace,Electronics,Webcam,1,16492.58,0.15,14018.69,12783.79,1234.9,UPI,Ananya Das
+ORD-00847,2025-09-29,CUST-0197,West,Mumbai,Marketplace,Electronics,Laptop Stand,5,63051.69,0.0,315258.45,189876.43,125382.02,Debit Card,Aarav Sharma
+ORD-00848,2025-04-27,CUST-0052,Central,Nagpur,Online,Home & Kitchen,Water Bottle,2,4412.09,0.05,8382.97,5389.01,2993.96,Debit Card,Rohan Gupta
+ORD-00849,2025-04-04,CUST-0031,Central,Nagpur,In-store,Clothing,Cap,5,4102.15,0.0,20510.75,14937.16,5573.59,Credit Card,Kabir Singh
+ORD-00850,2025-12-06,CUST-0144,East,Kolkata,Marketplace,Electronics,Laptop Stand,2,8767.74,0.0,17535.48,11956.25,5579.23,UPI,Meera Patel
+ORD-00851,2025-09-06,CUST-0070,Central,Nagpur,Online,Sports,Cricket Bat,1,9852.38,0.15,8374.52,7381.03,993.49,Debit Card,Meera Patel
+ORD-00852,2025-08-12,CUST-0229,South,Bengaluru,In-store,Office Supplies,File Folder,3,2190.25,0.0,6570.75,4001.78,2568.97,Net Banking,Isha Jain
+ORD-00853,2025-03-12,CUST-0232,North,Chandigarh,Marketplace,Electronics,Monitor,3,6918.37,0.15,17641.84,12395.24,5246.6,UPI,Diya Verma
+ORD-00854,2025-07-20,CUST-0101,West,Mumbai,Online,Electronics,Monitor,1,4415.61,0.25,3311.71,2522.67,789.04,Net Banking,Isha Jain
+ORD-00855,2025-12-05,CUST-0210,Central,Nagpur,Online,Office Supplies,Printer Paper,2,1533.81,0.2,2454.1,1899.02,555.08,Net Banking,Diya Verma
+ORD-00856,2025-07-25,CUST-0209,West,Indore,Marketplace,Home & Kitchen,Mixer,4,4459.29,0.25,13377.87,11974.51,1403.36,Cash,Diya Verma
+ORD-00857,2025-11-08,CUST-0060,West,Ahmedabad,Online,Clothing,Sneakers,1,4654.77,0.0,4654.77,2566.57,2088.2,Credit Card,Rohan Gupta
+ORD-00858,2025-08-05,CUST-0235,East,Bhubaneswar,Marketplace,Home & Kitchen,Electric Kettle,5,6659.39,0.15,28302.41,19923.35,8379.06,Debit Card,Ananya Das
+ORD-00859,2025-05-25,CUST-0122,West,Surat,Online,Electronics,Headphones,1,48596.04,0.0,48596.04,34444.64,14151.4,Debit Card,Isha Jain
+ORD-00860,2025-01-30,CUST-0155,West,Pune,Marketplace,Office Supplies,Printer Paper,4,294.66,0.05,1119.71,896.08,223.63,Credit Card,Diya Verma
+ORD-00861,2025-06-28,CUST-0167,West,Mumbai,Online,Office Supplies,File Folder,1,746.48,0.25,559.86,554.95,4.91,Debit Card,Isha Jain
+ORD-00862,2025-09-16,CUST-0159,West,Indore,Online,Clothing,Jeans,4,2094.52,0.25,6283.56,6898.57,-615.01,Net Banking,Kabir Singh
+ORD-00863,2025-06-09,CUST-0054,West,Surat,Marketplace,Electronics,Mouse,2,6405.61,0.05,12170.66,8274.0,3896.66,Net Banking,Vivaan Kumar
+ORD-00864,2025-06-23,CUST-0178,West,Indore,Online,Office Supplies,File Folder,1,1860.98,0.15,1581.83,1307.59,274.24,Credit Card,Diya Verma
+ORD-00865,2025-05-23,CUST-0153,Central,Jabalpur,In-store,Electronics,Laptop Stand,2,20762.99,0.0,41525.98,33017.21,8508.77,Debit Card,Diya Verma
+ORD-00866,2025-05-18,CUST-0018,West,Pune,Marketplace,Office Supplies,Stapler,1,1513.99,0.15,1286.89,1169.97,116.92,UPI,Vivaan Kumar
+ORD-00867,2025-05-20,CUST-0056,East,Bhubaneswar,Online,Electronics,Headphones,1,4657.5,0.0,4657.5,3890.49,767.01,Net Banking,Aarav Sharma
+ORD-00868,2025-08-14,CUST-0075,South,Chennai,In-store,Clothing,Backpack,1,5001.47,0.2,4001.18,2608.74,1392.44,Net Banking,Isha Jain
+ORD-00869,2025-11-24,CUST-0146,South,Chennai,Marketplace,Office Supplies,Printer Paper,2,477.09,0.15,811.05,778.39,32.66,Debit Card,Vivaan Kumar
+ORD-00870,2025-06-13,CUST-0157,East,Kolkata,Marketplace,Sports,Yoga Mat,2,9200.22,0.1,16560.4,13981.48,2578.92,Cash,Kabir Singh
+ORD-00871,2025-04-25,CUST-0248,East,Kolkata,Online,Office Supplies,File Folder,1,2439.0,0.1,2195.1,1985.28,209.82,UPI,Ananya Das
+ORD-00872,2025-11-20,CUST-0111,North,Jaipur,Marketplace,Electronics,Keyboard,3,16539.52,0.0,49618.56,27350.46,22268.1,Net Banking,Vivaan Kumar
+ORD-00873,2025-08-10,CUST-0112,East,Bhubaneswar,Marketplace,Clothing,Sneakers,1,4609.45,0.2,3687.56,3127.84,559.72,Credit Card,Kabir Singh
+ORD-00874,2025-02-25,CUST-0099,West,Pune,In-store,Home & Kitchen,Desk Lamp,2,4996.17,0.0,9992.34,5885.31,4107.03,Cash,Kabir Singh
+ORD-00875,2025-10-20,CUST-0019,East,Patna,Marketplace,Home & Kitchen,Mixer,1,2268.71,0.15,1928.4,1357.22,571.18,UPI,Kabir Singh
+ORD-00876,2025-05-17,CUST-0036,West,Surat,Marketplace,Home & Kitchen,Mixer,2,7080.05,0.05,13452.09,9384.33,4067.76,Cash,Isha Jain
+ORD-00877,2025-02-22,CUST-0117,Central,Jabalpur,Marketplace,Sports,Dumbbells,3,4975.44,0.0,14926.32,9903.71,5022.61,Cash,Isha Jain
+ORD-00878,2025-12-18,CUST-0109,West,Ahmedabad,Marketplace,Home & Kitchen,Cookware Set,3,277.62,0.1,749.57,650.5,99.07,UPI,Isha Jain
+ORD-00879,2025-01-05,CUST-0238,South,Coimbatore,Marketplace,Office Supplies,Stapler,1,1814.43,0.25,1360.82,1139.46,221.36,Net Banking,Ananya Das
+ORD-00880,2025-08-11,CUST-0181,North,Delhi,In-store,Sports,Football,5,7370.41,0.0,36852.05,22315.24,14536.81,UPI,Isha Jain
+ORD-00881,2025-04-02,CUST-0120,North,Chandigarh,Marketplace,Sports,Cricket Bat,1,2741.23,0.0,2741.23,2110.46,630.77,UPI,Diya Verma
+ORD-00882,2025-04-26,CUST-0163,South,Kochi,Marketplace,Electronics,Webcam,3,49581.47,0.1,133869.97,87117.09,46752.88,Net Banking,Rohan Gupta
+ORD-00883,2025-10-19,CUST-0200,Central,Bhopal,Online,Office Supplies,File Folder,3,1144.96,0.1,3091.39,2747.71,343.68,Cash,Isha Jain
+ORD-00884,2025-11-07,CUST-0085,Central,Jabalpur,In-store,Sports,Gym Bag,5,11001.09,0.0,55005.45,45581.15,9424.3,Debit Card,Rohan Gupta
+ORD-00885,2025-04-07,CUST-0237,East,Patna,Marketplace,Electronics,Webcam,5,30524.75,0.0,152623.75,98425.28,54198.47,Debit Card,Rohan Gupta
+ORD-00886,2025-03-04,CUST-0147,North,Lucknow,Online,Sports,Dumbbells,1,3166.48,0.0,3166.48,2612.43,554.05,Debit Card,Aarav Sharma
+ORD-00887,2025-09-15,CUST-0130,East,Bhubaneswar,Online,Electronics,Keyboard,1,13104.56,0.25,9828.42,9502.15,326.27,Debit Card,Rohan Gupta
+ORD-00888,2025-05-01,CUST-0220,South,Coimbatore,In-store,Office Supplies,Printer Paper,4,1696.53,0.15,5768.2,4932.54,835.66,UPI,Diya Verma
+ORD-00889,2025-04-13,CUST-0039,Central,Raipur,Marketplace,Sports,Gym Bag,1,2321.64,0.25,1741.23,1396.84,344.39,Cash,Ananya Das
+ORD-00890,2025-08-28,CUST-0047,South,Hyderabad,Marketplace,Home & Kitchen,Storage Box,1,5732.63,0.15,4872.74,3808.85,1063.89,UPI,Ananya Das
+ORD-00891,2025-10-06,CUST-0215,North,Chandigarh,In-store,Sports,Dumbbells,1,7626.11,0.0,7626.11,4625.96,3000.15,Cash,Vivaan Kumar
+ORD-00892,2025-03-01,CUST-0148,South,Kochi,Marketplace,Home & Kitchen,Cookware Set,3,2291.76,0.15,5843.99,4306.41,1537.58,Debit Card,Aarav Sharma
+ORD-00893,2025-01-23,CUST-0119,East,Kolkata,In-store,Electronics,Keyboard,4,21865.69,0.1,78716.48,50882.55,27833.93,Cash,Rohan Gupta
+ORD-00894,2025-02-17,CUST-0175,West,Indore,Marketplace,Home & Kitchen,Storage Box,1,4402.65,0.0,4402.65,3259.93,1142.72,Cash,Isha Jain
+ORD-00895,2025-03-27,CUST-0004,East,Patna,In-store,Sports,Football,1,11332.97,0.05,10766.32,6249.69,4516.63,Cash,Vivaan Kumar
+ORD-00896,2025-09-21,CUST-0235,East,Guwahati,Marketplace,Electronics,Headphones,5,3270.77,0.0,16353.85,12486.6,3867.25,Debit Card,Vivaan Kumar
+ORD-00897,2025-01-27,CUST-0069,Central,Nagpur,Online,Office Supplies,Printer Paper,2,2110.78,0.0,4221.56,2703.88,1517.68,Debit Card,Vivaan Kumar
+ORD-00898,2025-03-05,CUST-0134,West,Pune,In-store,Sports,Dumbbells,4,3709.72,0.15,12613.05,12445.74,167.31,Credit Card,Ananya Das
+ORD-00899,2025-05-29,CUST-0004,Central,Bhopal,In-store,Electronics,Headphones,1,4606.3,0.2,3685.04,3478.8,206.24,UPI,Diya Verma
+ORD-00900,2025-11-10,CUST-0073,West,Ahmedabad,In-store,Home & Kitchen,Electric Kettle,3,5736.98,0.0,17210.94,9961.92,7249.02,Credit Card,Aarav Sharma
+ORD-00901,2025-04-20,CUST-0241,North,Dehradun,Marketplace,Electronics,Headphones,1,553.19,0.15,470.21,309.57,160.64,Credit Card,Diya Verma
+ORD-00902,2025-05-02,CUST-0097,North,Delhi,Marketplace,Sports,Dumbbells,1,2315.05,0.1,2083.55,1255.86,827.69,Net Banking,Kabir Singh
+ORD-00903,2025-06-20,CUST-0120,North,Chandigarh,Marketplace,Office Supplies,Printer Paper,4,161.14,0.25,483.42,537.77,-54.35,UPI,Isha Jain
+ORD-00904,2025-02-22,CUST-0042,East,Bhubaneswar,Online,Office Supplies,Printer Paper,1,2411.63,0.25,1808.72,1805.77,2.95,Debit Card,Aarav Sharma
+ORD-00905,2025-03-26,CUST-0067,West,Surat,In-store,Office Supplies,Notebook,1,1510.0,0.15,1283.5,876.31,407.19,Credit Card,Isha Jain
+ORD-00906,2025-08-09,CUST-0101,North,Lucknow,Online,Home & Kitchen,Desk Lamp,1,751.61,0.2,601.29,628.13,-26.84,Cash,Diya Verma
+ORD-00907,2025-07-24,CUST-0158,South,Coimbatore,Marketplace,Clothing,Jeans,1,4769.49,0.15,4054.07,3514.94,539.13,UPI,Isha Jain
+ORD-00908,2025-11-13,CUST-0019,East,Kolkata,Marketplace,Electronics,Headphones,5,3091.71,0.0,15458.55,9842.41,5616.14,Debit Card,Isha Jain
+ORD-00909,2025-08-17,CUST-0164,North,Lucknow,Online,Home & Kitchen,Electric Kettle,1,184.25,0.1,165.83,110.98,54.85,UPI,Vivaan Kumar
+ORD-00910,2025-03-05,CUST-0148,East,Patna,Online,Office Supplies,Stapler,5,1238.95,0.2,4955.8,3335.64,1620.16,Net Banking,Isha Jain
+ORD-00911,2025-02-23,CUST-0200,West,Surat,Online,Clothing,Cap,5,747.71,0.2,2990.84,2115.48,875.36,Net Banking,Meera Patel
+ORD-00912,2025-03-13,CUST-0146,North,Lucknow,Marketplace,Clothing,T-Shirt,4,2160.57,0.05,8210.17,4568.26,3641.91,Debit Card,Ananya Das
+ORD-00913,2025-03-20,CUST-0246,East,Bhubaneswar,Marketplace,Electronics,Webcam,2,36196.32,0.15,61533.74,46633.68,14900.06,UPI,Ananya Das
+ORD-00914,2025-02-04,CUST-0195,Central,Nagpur,In-store,Electronics,Monitor,3,36298.16,0.15,92560.31,62002.03,30558.28,Credit Card,Kabir Singh
+ORD-00915,2025-04-24,CUST-0049,Central,Bhopal,In-store,Clothing,Cap,2,6536.2,0.2,10457.92,10632.28,-174.36,Cash,Diya Verma
+ORD-00916,2025-12-05,CUST-0113,East,Bhubaneswar,Marketplace,Electronics,Webcam,5,42385.82,0.1,190736.19,138462.88,52273.31,Credit Card,Kabir Singh
+ORD-00917,2025-03-19,CUST-0152,North,Chandigarh,Online,Electronics,Webcam,1,733.25,0.0,733.25,403.66,329.59,Cash,Vivaan Kumar
+ORD-00918,2025-09-13,CUST-0137,North,Dehradun,In-store,Office Supplies,Stapler,1,892.22,0.0,892.22,689.69,202.53,UPI,Aarav Sharma
+ORD-00919,2025-11-08,CUST-0011,East,Kolkata,In-store,Office Supplies,Whiteboard,3,1483.73,0.0,4451.19,2819.99,1631.2,UPI,Meera Patel
+ORD-00920,2025-04-13,CUST-0190,Central,Jabalpur,Marketplace,Sports,Dumbbells,3,254.62,0.2,611.09,478.02,133.07,Credit Card,Diya Verma
+ORD-00921,2025-01-13,CUST-0005,North,Chandigarh,In-store,Clothing,Cap,2,2064.87,0.2,3303.79,3066.65,237.14,Net Banking,Aarav Sharma
+ORD-00922,2025-10-22,CUST-0162,South,Chennai,Online,Electronics,Keyboard,4,9465.83,0.2,30290.66,27893.77,2396.89,Debit Card,Diya Verma
+ORD-00923,2025-05-07,CUST-0017,West,Indore,Online,Home & Kitchen,Desk Lamp,1,1679.48,0.15,1427.56,1109.45,318.11,UPI,Isha Jain
+ORD-00924,2025-07-09,CUST-0206,Central,Gwalior,Online,Home & Kitchen,Mixer,2,1030.17,0.0,2060.34,1137.26,923.08,Cash,Ananya Das
+ORD-00925,2025-06-13,CUST-0148,West,Ahmedabad,Marketplace,Electronics,Webcam,1,11094.34,0.0,11094.34,6780.38,4313.96,Credit Card,Ananya Das
+ORD-00926,2025-04-28,CUST-0086,South,Bengaluru,Online,Sports,Dumbbells,5,4326.93,0.2,17307.72,17468.68,-160.96,UPI,Rohan Gupta
+ORD-00927,2025-10-15,CUST-0095,South,Kochi,Marketplace,Home & Kitchen,Electric Kettle,3,4569.28,0.25,10280.88,7631.8,2649.08,Credit Card,Isha Jain
+ORD-00928,2025-05-07,CUST-0026,South,Coimbatore,Marketplace,Electronics,Keyboard,1,36376.09,0.05,34557.29,28250.04,6307.25,Net Banking,Vivaan Kumar
+ORD-00929,2025-02-14,CUST-0002,South,Bengaluru,Online,Clothing,T-Shirt,1,6180.08,0.1,5562.07,4307.29,1254.78,Credit Card,Diya Verma
+ORD-00930,2025-06-28,CUST-0207,Central,Nagpur,In-store,Clothing,Cap,5,2042.26,0.25,7658.47,5431.79,2226.68,Credit Card,Meera Patel
+ORD-00931,2025-10-23,CUST-0106,South,Hyderabad,Online,Sports,Football,1,9667.61,0.0,9667.61,6776.04,2891.57,Credit Card,Aarav Sharma
+ORD-00932,2025-01-29,CUST-0244,Central,Raipur,Online,Clothing,Backpack,1,492.23,0.0,492.23,365.61,126.62,Debit Card,Ananya Das
+ORD-00933,2025-11-03,CUST-0050,West,Mumbai,Online,Sports,Dumbbells,1,954.15,0.1,858.74,565.8,292.94,Net Banking,Diya Verma
+ORD-00934,2025-10-06,CUST-0057,Central,Nagpur,In-store,Sports,Skipping Rope,1,2346.47,0.25,1759.85,1934.65,-174.8,Credit Card,Rohan Gupta
+ORD-00935,2025-04-25,CUST-0176,North,Chandigarh,In-store,Electronics,Keyboard,5,9541.59,0.25,35780.96,34604.07,1176.89,Cash,Kabir Singh
+ORD-00936,2025-09-15,CUST-0094,South,Bengaluru,In-store,Electronics,Webcam,2,46290.25,0.1,83322.45,72429.39,10893.06,Credit Card,Vivaan Kumar
+ORD-00937,2025-02-21,CUST-0012,East,Ranchi,Online,Sports,Football,2,5853.28,0.1,10535.9,6481.72,4054.18,UPI,Kabir Singh
+ORD-00938,2025-01-13,CUST-0030,South,Bengaluru,Online,Clothing,Backpack,1,4719.55,0.1,4247.6,2870.45,1377.15,Credit Card,Isha Jain
+ORD-00939,2025-11-03,CUST-0051,Central,Gwalior,Marketplace,Office Supplies,Stapler,1,253.69,0.0,253.69,182.94,70.75,Debit Card,Meera Patel
+ORD-00940,2025-02-02,CUST-0061,North,Jaipur,Marketplace,Home & Kitchen,Mixer,3,3455.28,0.0,10365.84,6827.77,3538.07,Cash,Meera Patel
+ORD-00941,2025-09-23,CUST-0150,West,Pune,In-store,Electronics,Monitor,2,23252.04,0.2,37203.26,31497.26,5706.0,UPI,Vivaan Kumar
+ORD-00942,2025-12-19,CUST-0046,South,Chennai,In-store,Sports,Football,2,5895.09,0.0,11790.18,8984.28,2805.9,Debit Card,Kabir Singh
+ORD-00943,2025-02-18,CUST-0052,West,Pune,In-store,Office Supplies,Printer Paper,4,1252.51,0.1,4509.04,4116.26,392.78,Credit Card,Aarav Sharma
+ORD-00944,2025-04-04,CUST-0029,Central,Bhopal,In-store,Office Supplies,Pen Set,1,811.55,0.1,730.39,681.55,48.84,Cash,Vivaan Kumar
+ORD-00945,2025-12-03,CUST-0155,South,Hyderabad,Online,Home & Kitchen,Water Bottle,1,5791.71,0.0,5791.71,3058.95,2732.76,Net Banking,Kabir Singh
+ORD-00946,2025-01-27,CUST-0106,Central,Gwalior,Marketplace,Home & Kitchen,Mixer,1,4857.01,0.05,4614.16,3976.36,637.8,Cash,Meera Patel
+ORD-00947,2025-10-14,CUST-0004,Central,Jabalpur,Marketplace,Clothing,Jacket,2,6570.96,0.1,11827.73,8061.34,3766.39,Cash,Meera Patel
+ORD-00948,2025-09-27,CUST-0057,South,Hyderabad,Marketplace,Clothing,Backpack,2,635.01,0.0,1270.02,701.78,568.24,Credit Card,Aarav Sharma
+ORD-00949,2025-04-30,CUST-0188,West,Mumbai,Marketplace,Electronics,Monitor,4,6018.47,0.05,22870.19,15862.07,7008.12,UPI,Vivaan Kumar
+ORD-00950,2025-10-20,CUST-0211,Central,Jabalpur,Online,Clothing,Cap,1,5012.23,0.0,5012.23,3575.62,1436.61,Cash,Isha Jain
+ORD-00951,2025-02-03,CUST-0178,South,Bengaluru,Marketplace,Sports,Yoga Mat,5,10177.8,0.05,48344.55,34709.93,13634.62,Cash,Meera Patel
+ORD-00952,2025-12-11,CUST-0166,South,Hyderabad,Online,Office Supplies,Pen Set,4,573.13,0.0,2292.52,1393.83,898.69,UPI,Isha Jain
+ORD-00953,2025-06-14,CUST-0192,East,Patna,Marketplace,Clothing,Backpack,1,378.17,0.0,378.17,239.17,139.0,UPI,Isha Jain
+ORD-00954,2025-11-19,CUST-0203,West,Pune,In-store,Clothing,Jeans,1,3767.74,0.1,3390.97,2311.69,1079.28,Cash,Aarav Sharma
+ORD-00955,2025-09-28,CUST-0009,North,Lucknow,In-store,Office Supplies,File Folder,1,1311.51,0.05,1245.93,748.13,497.8,Cash,Rohan Gupta
+ORD-00956,2025-07-03,CUST-0202,Central,Gwalior,Marketplace,Sports,Dumbbells,4,1331.77,0.15,4528.02,3915.43,612.59,UPI,Ananya Das
+ORD-00957,2025-11-19,CUST-0029,North,Dehradun,In-store,Office Supplies,Notebook,1,1992.9,0.15,1693.97,1286.75,407.22,Debit Card,Isha Jain
+ORD-00958,2025-02-12,CUST-0045,Central,Bhopal,Marketplace,Office Supplies,Printer Paper,4,101.51,0.1,365.44,216.17,149.27,Net Banking,Diya Verma
+ORD-00959,2025-04-20,CUST-0062,Central,Raipur,Marketplace,Home & Kitchen,Water Bottle,1,2732.21,0.1,2458.99,1910.89,548.1,UPI,Isha Jain
+ORD-00960,2025-09-05,CUST-0091,Central,Raipur,In-store,Home & Kitchen,Water Bottle,1,3922.78,0.1,3530.5,2877.08,653.42,Net Banking,Vivaan Kumar
+ORD-00961,2025-04-11,CUST-0089,East,Kolkata,In-store,Electronics,Mouse,1,21015.14,0.05,19964.38,14938.79,5025.59,Cash,Diya Verma
+ORD-00962,2025-05-01,CUST-0116,West,Indore,Marketplace,Sports,Cricket Bat,2,3844.93,0.15,6536.38,5706.6,829.78,Debit Card,Diya Verma
+ORD-00963,2025-05-16,CUST-0101,South,Kochi,Online,Electronics,Headphones,2,42258.0,0.0,84516.0,68091.66,16424.34,Debit Card,Diya Verma
+ORD-00964,2025-11-09,CUST-0179,North,Chandigarh,Online,Office Supplies,Notebook,2,110.04,0.25,165.06,125.93,39.13,Cash,Kabir Singh
+ORD-00965,2025-08-12,CUST-0107,South,Coimbatore,Marketplace,Electronics,Mouse,3,33217.54,0.05,94669.99,81010.31,13659.68,Net Banking,Kabir Singh
+ORD-00966,2025-12-15,CUST-0189,West,Ahmedabad,Marketplace,Clothing,Sneakers,1,3293.49,0.05,3128.82,2014.82,1114.0,UPI,Rohan Gupta
+ORD-00967,2025-08-31,CUST-0214,South,Bengaluru,Marketplace,Electronics,Keyboard,2,56374.79,0.25,84562.18,65942.37,18619.81,Debit Card,Vivaan Kumar
+ORD-00968,2025-07-20,CUST-0152,Central,Nagpur,Marketplace,Office Supplies,Stapler,2,1719.41,0.25,2579.12,2827.57,-248.45,Net Banking,Isha Jain
+ORD-00969,2025-11-17,CUST-0230,West,Ahmedabad,In-store,Sports,Dumbbells,1,5327.34,0.0,5327.34,3961.21,1366.13,Credit Card,Rohan Gupta
+ORD-00970,2025-01-11,CUST-0198,South,Kochi,Online,Office Supplies,Printer Paper,1,2435.79,0.15,2070.42,1843.75,226.67,Credit Card,Ananya Das
+ORD-00971,2025-09-24,CUST-0237,East,Bhubaneswar,Online,Home & Kitchen,Desk Lamp,4,7426.4,0.0,29705.6,22024.51,7681.09,Net Banking,Rohan Gupta
+ORD-00972,2025-01-26,CUST-0061,South,Chennai,Online,Home & Kitchen,Cookware Set,1,5236.51,0.2,4189.21,4121.21,68.0,UPI,Ananya Das
+ORD-00973,2025-01-19,CUST-0095,Central,Raipur,Online,Clothing,Jacket,2,3759.28,0.25,5638.92,5864.5,-225.58,Credit Card,Aarav Sharma
+ORD-00974,2025-04-02,CUST-0115,East,Ranchi,Marketplace,Home & Kitchen,Water Bottle,5,4199.81,0.05,19949.1,14319.51,5629.59,Credit Card,Rohan Gupta
+ORD-00975,2025-12-31,CUST-0197,North,Delhi,Online,Clothing,Sneakers,4,885.52,0.15,3010.77,2421.28,589.49,Cash,Ananya Das
+ORD-00976,2025-04-20,CUST-0085,South,Bengaluru,Marketplace,Sports,Skipping Rope,1,747.15,0.1,672.43,444.01,228.42,Debit Card,Isha Jain
+ORD-00977,2025-09-19,CUST-0187,East,Guwahati,In-store,Home & Kitchen,Desk Lamp,1,5017.25,0.2,4013.8,3974.12,39.68,Debit Card,Diya Verma
+ORD-00978,2025-05-05,CUST-0142,West,Mumbai,Online,Home & Kitchen,Electric Kettle,1,6907.03,0.1,6216.33,5048.22,1168.11,Debit Card,Aarav Sharma
+ORD-00979,2025-05-09,CUST-0092,West,Indore,Online,Home & Kitchen,Storage Box,1,3310.51,0.0,3310.51,1812.95,1497.56,Debit Card,Aarav Sharma
+ORD-00980,2025-12-04,CUST-0057,Central,Raipur,In-store,Sports,Skipping Rope,2,10553.82,0.15,17941.49,16525.51,1415.98,Credit Card,Aarav Sharma
+ORD-00981,2025-11-25,CUST-0172,North,Dehradun,Online,Clothing,Cap,1,4025.19,0.1,3622.67,2412.41,1210.26,Net Banking,Vivaan Kumar
+ORD-00982,2025-07-25,CUST-0155,South,Kochi,Marketplace,Office Supplies,File Folder,5,208.35,0.0,1041.75,651.31,390.44,UPI,Ananya Das
+ORD-00983,2025-08-06,CUST-0099,West,Pune,In-store,Clothing,Jacket,2,2391.9,0.0,4783.8,2891.76,1892.04,UPI,Rohan Gupta
+ORD-00984,2025-01-15,CUST-0224,East,Ranchi,Marketplace,Office Supplies,Stapler,2,485.89,0.0,971.78,618.63,353.15,UPI,Meera Patel
+ORD-00985,2025-01-08,CUST-0042,West,Surat,Marketplace,Clothing,Jacket,1,6176.99,0.05,5868.14,4707.45,1160.69,Cash,Vivaan Kumar
+ORD-00986,2025-10-27,CUST-0037,South,Coimbatore,Online,Sports,Yoga Mat,3,4004.4,0.25,9009.9,8906.6,103.3,Debit Card,Isha Jain
+ORD-00987,2025-01-11,CUST-0194,Central,Nagpur,In-store,Electronics,Laptop Stand,3,36571.12,0.0,109713.36,91838.54,17874.82,UPI,Aarav Sharma
+ORD-00988,2025-12-09,CUST-0143,West,Ahmedabad,In-store,Clothing,Jeans,1,5519.53,0.05,5243.55,4463.85,779.7,Net Banking,Kabir Singh
+ORD-00989,2025-04-04,CUST-0142,South,Chennai,In-store,Clothing,Jacket,1,339.01,0.2,271.21,261.94,9.27,UPI,Rohan Gupta
+ORD-00990,2025-04-16,CUST-0190,Central,Nagpur,In-store,Clothing,Backpack,2,245.67,0.05,466.77,373.63,93.14,Credit Card,Aarav Sharma
+ORD-00991,2025-05-23,CUST-0245,North,Chandigarh,Marketplace,Office Supplies,Printer Paper,1,1986.69,0.15,1688.69,1230.39,458.3,Cash,Diya Verma
+ORD-00992,2025-06-10,CUST-0233,East,Bhubaneswar,Marketplace,Home & Kitchen,Storage Box,1,7739.1,0.2,6191.28,5131.64,1059.64,Credit Card,Aarav Sharma
+ORD-00993,2025-05-17,CUST-0154,North,Jaipur,Marketplace,Clothing,T-Shirt,2,3955.86,0.05,7516.13,5208.66,2307.47,Debit Card,Isha Jain
+ORD-00994,2025-11-28,CUST-0176,Central,Jabalpur,In-store,Office Supplies,Whiteboard,2,2070.25,0.1,3726.45,3388.07,338.38,UPI,Ananya Das
+ORD-00995,2025-05-05,CUST-0042,Central,Gwalior,Marketplace,Electronics,Mouse,1,36897.11,0.1,33207.4,29084.65,4122.75,UPI,Kabir Singh
+ORD-00996,2025-09-13,CUST-0042,East,Bhubaneswar,Online,Home & Kitchen,Water Bottle,3,4569.41,0.1,12337.41,10417.07,1920.34,Debit Card,Ananya Das
+ORD-00997,2025-10-16,CUST-0075,West,Ahmedabad,Marketplace,Electronics,Mouse,1,44127.4,0.2,35301.92,29983.68,5318.24,UPI,Meera Patel
+ORD-00998,2025-01-01,CUST-0140,South,Bengaluru,In-store,Sports,Dumbbells,1,7100.4,0.25,5325.3,5637.06,-311.76,Debit Card,Rohan Gupta
+ORD-00999,2025-07-28,CUST-0149,East,Ranchi,In-store,Electronics,Laptop Stand,1,39846.58,0.0,39846.58,29863.35,9983.23,Credit Card,Aarav Sharma
+ORD-01000,2025-05-24,CUST-0200,South,Coimbatore,In-store,Office Supplies,Printer Paper,4,1900.58,0.05,7222.2,6031.26,1190.94,Cash,Ananya Das
